@@ -71,7 +71,7 @@ uefa_country_ranking_full$country <- paste0(uefa_country_ranking_full$flag,uefa_
 
 
 #Points gained
-old_data_ranking_full <- read.csv("https://raw.githubusercontent.com/awp-finanznachrichten/uefa_ranking/master/Output/uefa_ranking.csv",encoding = "UTF-8")
+old_data_ranking_full <- read.csv("https://raw.githubusercontent.com/swissfootdata/UEFA_Rankings/master/Output/uefa_ranking.csv",encoding = "UTF-8")
 old_data_ranking_full <- old_data_ranking_full[,c(1,2,5)]
 colnames(old_data_ranking_full) <- c("rank_old","country","current_points_old")
 

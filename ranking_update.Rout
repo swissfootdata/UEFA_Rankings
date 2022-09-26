@@ -1,0 +1,276 @@
+
+R version 4.0.5 (2021-03-31) -- "Shake and Throw"
+Copyright (C) 2021 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R ist freie Software und kommt OHNE JEGLICHE GARANTIE.
+Sie sind eingeladen, es unter bestimmten Bedingungen weiter zu verbreiten.
+Tippen Sie 'license()' or 'licence()' für Details dazu.
+
+R ist ein Gemeinschaftsprojekt mit vielen Beitragenden.
+Tippen Sie 'contributors()' für mehr Information und 'citation()',
+um zu erfahren, wie R oder R packages in Publikationen zitiert werden können.
+
+Tippen Sie 'demo()' für einige Demos, 'help()' für on-line Hilfe, oder
+'help.start()' für eine HTML Browserschnittstelle zur Hilfe.
+Tippen Sie 'q()', um R zu verlassen.
+
+> library(rvest)
+> library(stringr)
+> library(XML)
+> library(RSelenium)
+> library(git2r)
+> library(DatawRappr)
+> library(readxl)
+> library(dplyr)
+
+Attache Paket: 'dplyr'
+
+The following object is masked from 'package:git2r':
+
+    pull
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+> library(readr)
+
+Attache Paket: 'readr'
+
+The following object is masked from 'package:rvest':
+
+    guess_encoding
+
+> 
+> #setwd("C:/Users/simon/Onedrive/Fussballdaten/uefa_ranking")
+> setwd("C:/Users/Administrator/Desktop/UEFA_Rankings")
+> 
+> #Load functions
+> source("ranking_funktionen.R",encoding = "UTF-8")
+> 
+> #repeat {
+> #Sys.sleep(10)
+> 
+> #Stop Geckodriver
+> try(system("taskkill /F /IM geckodriver.exe"))
+FEHLER: Der Prozess "geckodriver.exe" wurde nicht gefunden.
+[1] 128
+> 
+> #Stop Java-Process
+> try(system("taskkill /F /IM java.exe"))
+FEHLER: Der Prozess "java.exe" wurde nicht gefunden.
+[1] 128
+> 
+> #Check Update Time
+> driver <- RSelenium::rsDriver(port= 4570L, browser = "firefox")
+checking Selenium Server versions:
+BEGIN: PREDOWNLOAD
+BEGIN: DOWNLOAD
+BEGIN: POSTDOWNLOAD
+checking chromedriver versions:
+BEGIN: PREDOWNLOAD
+BEGIN: DOWNLOAD
+BEGIN: POSTDOWNLOAD
+checking geckodriver versions:
+BEGIN: PREDOWNLOAD
+BEGIN: DOWNLOAD
+BEGIN: POSTDOWNLOAD
+checking phantomjs versions:
+BEGIN: PREDOWNLOAD
+BEGIN: DOWNLOAD
+BEGIN: POSTDOWNLOAD
+[1] "Connecting to remote server"
+$acceptInsecureCerts
+[1] FALSE
+
+$browserName
+[1] "firefox"
+
+$browserVersion
+[1] "100.0.2"
+
+$`moz:accessibilityChecks`
+[1] FALSE
+
+$`moz:buildID`
+[1] "20220519220738"
+
+$`moz:geckodriverVersion`
+[1] "0.31.0"
+
+$`moz:headless`
+[1] FALSE
+
+$`moz:processID`
+[1] 6992
+
+$`moz:profile`
+[1] "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileLdVC9o"
+
+$`moz:shutdownTimeout`
+[1] 60000
+
+$`moz:useNonSpecCompliantPointerOrigin`
+[1] FALSE
+
+$`moz:webdriverClick`
+[1] TRUE
+
+$pageLoadStrategy
+[1] "normal"
+
+$platformName
+[1] "windows"
+
+$platformVersion
+[1] "10.0"
+
+$proxy
+named list()
+
+$setWindowRect
+[1] TRUE
+
+$strictFileInteractability
+[1] FALSE
+
+$timeouts
+$timeouts$implicit
+[1] 0
+
+$timeouts$pageLoad
+[1] 300000
+
+$timeouts$script
+[1] 30000
+
+
+$unhandledPromptBehavior
+[1] "dismiss and notify"
+
+$webdriver.remote.sessionid
+[1] "6b5c7bce-b4d9-46ab-adb7-4fa09f19c626"
+
+$id
+[1] "6b5c7bce-b4d9-46ab-adb7-4fa09f19c626"
+
+> remote_driver <- driver[["client"]]
+>   
+> current_date <- Sys.Date()
+> current_day <- as.numeric(format(Sys.Date(),"%d"))
+> 
+> remote_driver$navigate("https://kassiesa.net/uefa/data/method5/crank2023.html")
+> output <- remote_driver$findElement(using="class",value="flex-container")
+> text_datum <- output$getElementText()[[1]]
+> text_datum <- strsplit(text_datum,"\n")[[1]][3]
+> 
+> #day <- gsub(".*Last update:","",text_datum)
+> #day <- parse_number(day)
+> 
+> #Close browser
+> remote_driver$close()
+> 
+> #Close server
+> driver[["server"]]$stop()
+[1] TRUE
+> 
+> #Stop Geckodriver
+> try(system("taskkill /F /IM geckodriver.exe"))
+FEHLER: Der Prozess "geckodriver.exe" wurde nicht gefunden.
+[1] 128
+> 
+> #Stop Java-Process
+> try(system("taskkill /F /IM java.exe"))
+ERFOLGREICH: Der Prozess "java.exe" mit PID 9532 wurde beendet.
+[1] 0
+> 
+> #Letztes Update laden
+> last_update <- read.delim("last_update.txt",header=FALSE)
+Warnmeldung:
+In read.table(file = file, header = header, sep = sep, quote = quote,  :
+  unvollstädige letzte Zeile von readTableHeader in 'last_update.txt' gefunden
+> 
+> monday_check <- weekdays(Sys.Date()) == "Montag" & as.numeric(format(Sys.time(),"%H")) == 21
+> 
+> if (last_update != text_datum ||
++     monday_check == TRUE) {
++ print("Aktuelle Daten gefunden")
++ 
++ #Update Ranking Data
++ source("ranking_scraping.R",encoding = "UTF-8")
++ 
++ #Update Team Data
++ source("ranking_teams_scraping.R",encoding = "UTF-8")
++ 
++ #Update Maps
++ source("create_maps.R",encoding = "UTF-8")
++   
++ #Store Last update
++ cat(text_datum,file="last_update.txt")
++ 
++ #Make Commit
++ #token <- read.csv("C:/Users/simon/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
++ token <- read.csv("C:/Users/Administrator/Desktop/Github_Token/token.txt",header=FALSE)[1,1]
++ 
++ git2r::config(user.name = "swissfootdata",user.email = "swissfootballdata@bluewin.ch")
++ invisible(git2r::cred_token(token))
++ gitpull()
++ gitadd()
++ gitcommit()
++ gitpush()
++ 
++ #Update Datawrapper
++ source("update_datawrapper.R",encoding = "UTF-8")
++ 
++ #Stop Geckodriver
++ try(system("taskkill /F /IM geckodriver.exe"))
++ 
++ #Stop Java-Process
++ try(system("taskkill /F /IM java.exe"))
++ 
++ } else {
++ print("Noch keine aktuellen Daten gefunden")  
++ }  
+[1] "Aktuelle Daten gefunden"
+checking Selenium Server versions:
+BEGIN: PREDOWNLOAD
+BEGIN: DOWNLOAD
+BEGIN: POSTDOWNLOAD
+checking chromedriver versions:
+BEGIN: PREDOWNLOAD
+BEGIN: DOWNLOAD
+BEGIN: POSTDOWNLOAD
+checking geckodriver versions:
+BEGIN: PREDOWNLOAD
+BEGIN: DOWNLOAD
+BEGIN: POSTDOWNLOAD
+checking phantomjs versions:
+BEGIN: PREDOWNLOAD
+BEGIN: DOWNLOAD
+BEGIN: POSTDOWNLOAD
+[1] "Connecting to remote server"
+
+Selenium message:Failed to read marionette port
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T21:30:10'
+System info: host: '33796HOSTSERVEU', ip: '213.167.224.88', os.name: 'Windows Server 2019', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: unknown
+remote stacktrace: 
+
+Could not open firefox browser.
+Client error message:
+	 Summary: Timeout
+ 	 Detail: An operation did not complete before its timeout expired.
+	 Further Details: run errorDetails method
+Check server log for further details.
+Fehler in checkError(res) : 
+  Undefined error in httr call. httr output: length(url) == 1 ist nicht TRUE
+Ruft auf: source ... eval -> eval -> <Anonymous> -> queryRD -> checkError
+Zusätzlich: Warnmeldung:
+In wdman::selenium(port = port, verbose = verbose, version = version,  :
+  No output to stderr yet detected. Please check log and that process is running manually.
+Ausführung angehalten

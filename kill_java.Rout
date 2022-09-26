@@ -1,0 +1,30 @@
+
+R version 4.0.5 (2021-03-31) -- "Shake and Throw"
+Copyright (C) 2021 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R ist freie Software und kommt OHNE JEGLICHE GARANTIE.
+Sie sind eingeladen, es unter bestimmten Bedingungen weiter zu verbreiten.
+Tippen Sie 'license()' or 'licence()' für Details dazu.
+
+R ist ein Gemeinschaftsprojekt mit vielen Beitragenden.
+Tippen Sie 'contributors()' für mehr Information und 'citation()',
+um zu erfahren, wie R oder R packages in Publikationen zitiert werden können.
+
+Tippen Sie 'demo()' für einige Demos, 'help()' für on-line Hilfe, oder
+'help.start()' für eine HTML Browserschnittstelle zur Hilfe.
+Tippen Sie 'q()', um R zu verlassen.
+
+> #Stop Geckodriver
+> try(system("taskkill /F /IM geckodriver.exe"))
+ERFOLGREICH: Der Prozess "geckodriver.exe" mit PID 3232 wurde beendet.
+[1] 0
+> 
+> #Stop Java-Process
+> try(system("taskkill /F /IM java.exe"))
+ERFOLGREICH: Der Prozess "java.exe" mit PID 5820 wurde beendet.
+[1] 0
+> 
+> proc.time()
+       User      System verstrichen 
+       0.28        0.07        1.46 
