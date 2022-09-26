@@ -75,13 +75,13 @@ cat(text_datum,file="last_update.txt")
 #token <- read.csv("C:/Users/simon/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
 token <- read.csv("C:/Users/Administrator/Desktop/Github_Token/token.txt",header=FALSE)[1,1]
 
-git2r::config(user.name = "awp-finanznachrichten",user.email = "sw@awp.ch")
+git2r::config(user.name = "swissfootdata",user.email = "swissfootballdata@bluewin.ch")
 invisible(git2r::cred_token(token))
 gitpull()
 gitadd()
 gitcommit()
 gitpush()
-
+#
 #Update Datawrapper
 source("update_datawrapper.R",encoding = "UTF-8")
 
