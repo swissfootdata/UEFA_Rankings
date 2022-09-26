@@ -9,7 +9,7 @@ library(dplyr)
 library(readr)
 
 #setwd("C:/Users/simon/Onedrive/Fussballdaten/uefa_ranking")
-setwd("C:/Users/Administrator/Desktop/uefa_ranking")
+setwd("C:/Users/Administrator/Desktop/UEFA_Rankings")
 
 #Load functions
 source("ranking_funktionen.R",encoding = "UTF-8")
@@ -81,7 +81,7 @@ gitpull()
 gitadd()
 gitcommit()
 gitpush()
-#
+
 #Update Datawrapper
 source("update_datawrapper.R",encoding = "UTF-8")
 
