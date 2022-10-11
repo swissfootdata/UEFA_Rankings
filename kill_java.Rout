@@ -22,9 +22,9 @@ FEHLER: Der Prozess "geckodriver.exe" wurde nicht gefunden.
 > 
 > #Stop Java-Process
 > try(system("taskkill /F /IM java.exe"))
-FEHLER: Der Prozess "java.exe" wurde nicht gefunden.
-[1] 128
+ERFOLGREICH: Der Prozess "java.exe" mit PID 1116 wurde beendet.
+[1] 0
 > 
 > proc.time()
        User      System verstrichen 
-       0.26        0.06        1.46 
+       0.28        0.07        1.45 
