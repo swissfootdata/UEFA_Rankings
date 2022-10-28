@@ -1,5 +1,5 @@
 "team","country","overall_points_team","status","overall_points_country","percentage","flag","text","stadium","latitude","longitude"
-"1.FC Köln","Germany",0.5,"not out",10.5,4.8,":de:","Germany: 10.5 points","RheinEnergie Stadion",50.933611,6.875
+"1.FC Köln","Germany",0.75,"not out",10.75,7,":de:","Germany: 10.75 points","RheinEnergie Stadion",50.933611,6.875
 "1.FC Slovácko","Czech Republic",1.375,"not out",6.25,22,":cz:","Czech Republic: 6.25 points","Mestský fotbalový stadion Miroslava Valenty",49.065556,17.471461
 "AA Gent","Belgium",0.8,"not out",9.2,8.7,":be:","Belgium: 9.2 points","Jules Ottenstadion",51.031389,3.766111
 "AC Milan","Italy",1.286,"not out",10.071,12.8,":it:","Italy: 10.071 points","Stadio Giuseppe Meazza",45.478055,9.123947
@@ -25,11 +25,11 @@
 "B36 Torshavn","Faroe Islands",0.625,"out",2.25,27.8,":fo:","Faroe Islands: 2.25 points","Gundadalur",62.0193487,-6.7811394
 "Bala Town","Wales",0.333,"out",1.167,28.6,":gb-wls:","Wales: 1.167 points","Maes Tegid",52.912222,-3.601389
 "BATE Borisov","Belarus",0,"out",0.625,0,":by:","Belarus: 0.625 points","Borisov Arena",54.192777777,28.475694444
-"Bayer Leverkusen","Germany",0.875,"not out",10.5,8.3,":de:","Germany: 10.5 points","BayArena",51.038255555,7.002205555
-"Bayern München","Germany",2.375,"not out",10.5,22.6,":de:","Germany: 10.5 points","Allianz Arena",48.218775,11.624752777
+"Bayer Leverkusen","Germany",0.875,"not out",10.75,8.1,":de:","Germany: 10.75 points","BayArena",51.038255555,7.002205555
+"Bayern München","Germany",2.375,"not out",10.75,22.1,":de:","Germany: 10.75 points","Allianz Arena",48.218775,11.624752777
 "Benfica","Portugal",3.5,"not out",9,38.9,":pt:","Portugal: 9 points","Estádio da Luz",38.752677777,-9.184680555
 "Bodø/Glimt","Norway",1.875,"not out",5.5,34.1,":no:","Norway: 5.5 points","Aspmyra Stadion",67.2775,14.384166666
-"Borussia Dortmund","Germany",1.875,"not out",10.5,17.9,":de:","Germany: 10.5 points","Westfalenstadion",51.4925,7.451667
+"Borussia Dortmund","Germany",1.875,"not out",10.75,17.4,":de:","Germany: 10.75 points","Westfalenstadion",51.4925,7.451667
 "Botev Plovdiv","Bulgaria",0.125,"out",4,3.1,":bg:","Bulgaria: 4 points","Hristo Botev Stadium",42.139861,24.764444
 "Breidablik","Iceland",1,"out",3,33.3,":is:","Iceland: 3 points","Kópavogsvöllur",64.104167,-21.896667
 "Brøndby IF","Denmark",0.5,"out",4.7,10.6,":dk:","Denmark: 4.7 points","Brøndby Stadium",55.648853,12.418358
@@ -55,7 +55,7 @@
 "Djurgårdens IF","Sweden",4,"not out",5.75,69.6,":se:","Sweden: 5.75 points","Stockholm Olympic Stadium",59.345278,18.078889
 "Dundee United","Scotland",0.2,"out",3.5,5.7,":gb-sct:","Scotland: 3.5 points","Tannadice Park",56.474703,-2.968961
 "Dynamo Kyiv","Ukraine",0.9,"not out",4.7,19.1,":ua:","Ukraine: 4.7 points","Olimpiyskiy National Sports Complex",50.433333333,30.521666666
-"Eintracht Frankfurt","Germany",1.125,"not out",10.5,10.7,":de:","Germany: 10.5 points","Waldstadion",50.068611,8.645278
+"Eintracht Frankfurt","Germany",1.125,"not out",10.75,10.5,":de:","Germany: 10.75 points","Waldstadion",50.068611,8.645278
 "Europa FC","Gibraltar",0,"out",0.875,0,":gi:","Gibraltar: 0.875 points","Victoria Stadium",36.149356,-5.350342
 "F91 Dudelange","Luxembourg",1,"out",1.125,88.9,":lu:","Luxembourg: 1.125 points","Stade Jos Nosbaum",49.472222222,6.084722222
 "FC Ballkani","Kosovo",2.125,"not out",2.875,73.9,":xk:","Kosovo: 2.875 points","Balkanabat Stadium",39.511944,54.365
@@ -168,7 +168,7 @@
 "Raków Czestochowa","Poland",1.25,"out",4.75,26.3,":pl:","Poland: 4.75 points","Miejski Stadion Pilkarski RKS",50.7766666,19.1599721
 "Rangers","Scotland",1.3,"not out",3.5,37.1,":gb-sct:","Scotland: 3.5 points","Ibrox Stadium",55.853055555,-4.309166666
 "Rapid Wien","Austria",0.6,"out",4.5,13.3,":at:","Austria: 4.5 points","Allianz Stadion",48.1981,16.2653
-"RB Leipzig","Germany",1.25,"not out",10.5,11.9,":de:","Germany: 10.5 points","Zentralstadion",51.345833,12.348056
+"RB Leipzig","Germany",1.25,"not out",10.75,11.6,":de:","Germany: 10.75 points","Zentralstadion",51.345833,12.348056
 "Real Betis","Spain",2,"not out",11.143,17.9,":es:","Spain: 11.143 points","Ciudad Deportiva Luis Del Sol",37.3517,-5.98222
 "Real Madrid","Spain",2.286,"not out",11.143,20.5,":es:","Spain: 11.143 points","Santiago Bernabéu",40.453053,-3.688344
 "Real Sociedad","Spain",1.714,"not out",11.143,15.4,":es:","Spain: 11.143 points","Anoeta Stadium",43.301378,-1.973617
@@ -177,7 +177,7 @@
 "Royal Antwerp","Belgium",0.8,"out",9.2,8.7,":be:","Belgium: 9.2 points","Stadion Broodstraat",51.2327,4.471575
 "Saburtalo Tbilisi","Georgia",0.5,"out",1.125,44.4,":ge:","Georgia: 1.125 points","Mikheil Meskhi Stadium",41.709617,44.746247
 "SC Dnipro-1","Ukraine",1.6,"not out",4.7,34,":ua:","Ukraine: 4.7 points","Dnipro Arena",48.460333,35.032472
-"SC Freiburg","Germany",1.75,"not out",10.5,16.7,":de:","Germany: 10.5 points","Dreisamstadion",47.988889,7.893056
+"SC Freiburg","Germany",1.75,"not out",10.75,16.3,":de:","Germany: 10.75 points","Dreisamstadion",47.988889,7.893056
 "SC Gjilani","Kosovo",0.25,"out",2.875,8.7,":xk:","Kosovo: 2.875 points","City Stadium",42.466667,21.464444
 "Sepsi OSK","Romania",0.25,"out",5.25,4.8,":ro:","Romania: 5.25 points","Stadionul Municipal",45.86291667,25.77613889
 "Sevilla","Spain",1.143,"not out",11.143,10.3,":es:","Spain: 11.143 points","Ramón Sánchez Pizjuán Stadium",37.383878,-5.970467
@@ -211,7 +211,7 @@
 "Tre Penne","San Marino",0,"out",0.833,0,":sm:","San Marino: 0.833 points","Stadio Fonte dell'Ovo",43.9296,12.4427
 "Tuzla City","Bosnia-Herzegovina",0.5,"out",2,25,":ba:","Bosnia-Herzegovina: 2 points","Tušanj City Stadium",44.54172,18.661528
 "UE Santa Coloma","Andorra",0,"out",0.667,0,":ad:","Andorra: 0.667 points","Estadi Comunal d'Aixovall",42.476389,1.487667
-"Union Berlin","Germany",0.75,"not out",10.5,7.1,":de:","Germany: 10.5 points","Stadion An der Alten Försterei",52.457222,13.568056
+"Union Berlin","Germany",0.75,"not out",10.75,7,":de:","Germany: 10.75 points","Stadion An der Alten Försterei",52.457222,13.568056
 "Union Saint-Gilloise","Belgium",3,"not out",9.2,32.6,":be:","Belgium: 9.2 points","Stade Joseph Marien - Joseph Marienstadion",50.8178,4.32917
 "Universitatea Craiova","Romania",0.875,"out",5.25,16.7,":ro:","Romania: 5.25 points","Stadionul Ion Oblemenco",44.313889,23.784167
 "Valmieras FK","Latvia",0,"out",2.75,0,":lv:","Latvia: 2.75 points","Örjans Vall",56.684166666,12.866388888
