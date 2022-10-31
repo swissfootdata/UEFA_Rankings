@@ -27,4 +27,4 @@ FEHLER: Der Prozess "java.exe" wurde nicht gefunden.
 > 
 > proc.time()
        User      System verstrichen 
-       0.21        0.09        1.36 
+       0.23        0.07        0.54 
