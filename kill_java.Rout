@@ -15,8 +15,6 @@ Tippen Sie 'demo()' für einige Demos, 'help()' für on-line Hilfe, oder
 'help.start()' für eine HTML Browserschnittstelle zur Hilfe.
 Tippen Sie 'q()', um R zu verlassen.
 
-[Vorher gesicherter Workspace wiederhergestellt]
-
 > #Stop Geckodriver
 > try(system("taskkill /F /IM geckodriver.exe"))
 FEHLER: Der Prozess "geckodriver.exe" wurde nicht gefunden.
@@ -24,9 +22,9 @@ FEHLER: Der Prozess "geckodriver.exe" wurde nicht gefunden.
 > 
 > #Stop Java-Process
 > try(system("taskkill /F /IM java.exe"))
-ERFOLGREICH: Der Prozess "java.exe" mit PID 7240 wurde beendet.
-[1] 0
+FEHLER: Der Prozess "java.exe" wurde nicht gefunden.
+[1] 128
 > 
 > proc.time()
        User      System verstrichen 
-       0.71        0.23        2.53 
+       0.21        0.10        0.59 
