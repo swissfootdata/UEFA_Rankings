@@ -75,5 +75,7 @@ dw_edit_chart("up5me", intro=paste0("last update: ",format(Sys.time(),"%d.%m.%Y 
 dw_publish_chart("up5me")
 
 
-
+#Access List
+dw_edit_chart("f8BVO", intro=paste0("Based on the current standing in the UEFA country ranking. Last update: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+dw_publish_chart("f8BVO")
 
