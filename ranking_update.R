@@ -24,7 +24,7 @@ try(system("taskkill /F /IM geckodriver.exe"))
 try(system("taskkill /F /IM java.exe"))
 
 #Check Update Time
-driver <- RSelenium::rsDriver(port= 4570L, browser = "firefox")
+driver <- RSelenium::rsDriver(port= 4570L, browser = "firefox",chromever = NULL, phantomver = NULL)
 remote_driver <- driver[["client"]]
   
 current_date <- Sys.Date()

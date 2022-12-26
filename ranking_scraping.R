@@ -1,5 +1,5 @@
 #Browser öffnen
-driver <- RSelenium::rsDriver(port= 4570L, browser = "firefox")
+driver <- RSelenium::rsDriver(port= 4570L, browser = "firefox",chromever = NULL, phantomver = NULL)
 
 remote_driver <- driver[["client"]]
 remote_driver$navigate("https://kassiesa.net/uefa/data/method5/crank2023.html")

@@ -1,0 +1,104 @@
+
+R version 4.0.5 (2021-03-31) -- "Shake and Throw"
+Copyright (C) 2021 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R ist freie Software und kommt OHNE JEGLICHE GARANTIE.
+Sie sind eingeladen, es unter bestimmten Bedingungen weiter zu verbreiten.
+Tippen Sie 'license()' or 'licence()' für Details dazu.
+
+R ist ein Gemeinschaftsprojekt mit vielen Beitragenden.
+Tippen Sie 'contributors()' für mehr Information und 'citation()',
+um zu erfahren, wie R oder R packages in Publikationen zitiert werden können.
+
+Tippen Sie 'demo()' für einige Demos, 'help()' für on-line Hilfe, oder
+'help.start()' für eine HTML Browserschnittstelle zur Hilfe.
+Tippen Sie 'q()', um R zu verlassen.
+
+> library(rvest)
+> library(stringr)
+> library(XML)
+> library(RSelenium)
+> library(git2r)
+> library(DatawRappr)
+> library(readxl)
+> library(dplyr)
+
+Attache Paket: 'dplyr'
+
+The following object is masked from 'package:git2r':
+
+    pull
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+> library(readr)
+
+Attache Paket: 'readr'
+
+The following object is masked from 'package:rvest':
+
+    guess_encoding
+
+> 
+> #setwd("C:/Users/simon/Onedrive/Fussballdaten/uefa_ranking")
+> setwd("C:/Users/Administrator/Desktop/UEFA_Rankings")
+> 
+> #Load functions
+> source("ranking_funktionen.R",encoding = "UTF-8")
+> 
+> #repeat {
+> #Sys.sleep(10)
+> 
+> #Stop Geckodriver
+> try(system("taskkill /F /IM geckodriver.exe"))
+FEHLER: Der Prozess "geckodriver.exe" wurde nicht gefunden.
+[1] 128
+> 
+> #Stop Java-Process
+> try(system("taskkill /F /IM java.exe"))
+FEHLER: Der Prozess "java.exe" wurde nicht gefunden.
+[1] 128
+> 
+> #Check Update Time
+> driver <- RSelenium::rsDriver(port= 4570L, browser = "firefox")
+checking Selenium Server versions:
+BEGIN: PREDOWNLOAD
+BEGIN: DOWNLOAD
+BEGIN: POSTDOWNLOAD
+checking chromedriver versions:
+BEGIN: PREDOWNLOAD
+BEGIN: DOWNLOAD
+BEGIN: POSTDOWNLOAD
+checking geckodriver versions:
+BEGIN: PREDOWNLOAD
+BEGIN: DOWNLOAD
+BEGIN: POSTDOWNLOAD
+checking phantomjs versions:
+BEGIN: PREDOWNLOAD
+BEGIN: DOWNLOAD
+BEGIN: POSTDOWNLOAD
+[1] "Connecting to remote server"
+Could not open firefox browser.
+Client error message:
+Undefined error in httr call. httr output: Failed to connect to localhost port 4570: Connection refused
+Check server log for further details.
+Warnmeldung:
+In RSelenium::rsDriver(port = 4570L, browser = "firefox") :
+  Could not determine server status.
+> remote_driver <- driver[["client"]]
+>   
+> current_date <- Sys.Date()
+> current_day <- as.numeric(format(Sys.Date(),"%d"))
+> 
+> remote_driver$navigate("https://kassiesa.net/uefa/data/method5/crank2023.html")
+Fehler in checkError(res) : 
+  Undefined error in httr call. httr output: length(url) == 1 is not TRUE
+Ruft auf: <Anonymous> -> queryRD -> checkError
+Ausführung angehalten
