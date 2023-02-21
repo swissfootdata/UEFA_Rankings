@@ -27,8 +27,8 @@ try(system("taskkill /F /IM java.exe"))
 driver <- RSelenium::rsDriver(port= 4570L, browser = "firefox",chromever = NULL, phantomver = NULL)
 remote_driver <- driver[["client"]]
   
-current_date <- Sys.Date()
-current_day <- as.numeric(format(Sys.Date(),"%d"))
+current_date <- Sys.Date()-1
+current_day <- as.numeric(format(Sys.Date()-1,"%d"))
 
 remote_driver$navigate("https://kassiesa.net/uefa/data/method5/crank2023.html")
 output <- remote_driver$findElement(using="class",value="flex-container")
@@ -53,7 +53,7 @@ try(system("taskkill /F /IM java.exe"))
 #Letztes Update laden
 last_update <- read.delim("last_update.txt",header=FALSE)
 
-monday_check <- weekdays(Sys.Date()) == "Montag" & as.numeric(format(Sys.time(),"%H")) == 9
+monday_check <- weekdays(Sys.Date()-1) == "Montag" & as.numeric(format(Sys.time(),"%H")) == 21
 
 if (last_update != text_datum ||
     monday_check == TRUE) {
