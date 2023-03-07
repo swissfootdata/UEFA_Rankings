@@ -53,7 +53,7 @@ try(system("taskkill /F /IM java.exe"))
 #Letztes Update laden
 last_update <- read.delim("last_update.txt",header=FALSE)
 
-monday_check <- weekdays(Sys.Date()) == "Montag" & as.numeric(format(Sys.time(),"%H")) == 18
+monday_check <- weekdays(Sys.Date()) == "Montag" & as.numeric(format(Sys.time(),"%H")) == 6
 
 if (last_update != text_datum ||
     monday_check == TRUE) {
