@@ -25,7 +25,7 @@
 "Arda Kardzhali","Bulgaria",0,20,0,":bg:","Bulgaria: 20 points","Arda Arena",41.6411856,25.3758564
 "Aris Limassol","Cyprus",0.2,24.475,0.8,":cy:","Cyprus: 24.475 points","Tsirio Stadium",34.700914,33.022975
 "Aris Thessaloniki","Greece",1.6,25.225,6.3,":gr:","Greece: 25.225 points","Kleanthis Vikelidis Stadium",40.600069,22.9695
-"Arsenal","England",10.857,109.286,9.9,":gb-eng:","England: 109.286 points","Emirates Stadium",51.554867,-0.109112
+"Arsenal","England",10.857,109.571,9.9,":gb-eng:","England: 109.571 points","Emirates Stadium",51.554867,-0.109112
 "Arsenal Tula","Russia",0,26.216,0,":ru:","Russia: 26.216 points","Arsenal Stadium",54.174167,37.603056
 "AS Monaco","France",5.667,61.167,9.3,":fr:","France: 61.167 points","Stade Louis II",43.727778,7.415556
 "AS Roma","Italy",14.429,81.929,17.6,":it:","Italy: 81.929 points","Stadio Olimpico",41.933872,12.454714
@@ -61,14 +61,14 @@
 "Breidablik","Iceland",2.125,7.25,29.3,":is:","Iceland: 7.25 points","Kópavogsvöllur",64.104167,-21.896667
 "Brøndby IF","Denmark",1.9,27.825,6.8,":dk:","Denmark: 27.825 points","Brøndby Stadium",55.648853,12.418358
 "Buducnost Podgorica","Montenegro",1.875,4.75,39.5,":me:","Montenegro: 4.75 points","Podgorica City Stadium",42.444728,19.264378
-"Burnley FC","England",0.5,109.286,0.5,":gb-eng:","England: 109.286 points","Turf Moor",53.789064,-2.230225
+"Burnley FC","England",0.5,109.571,0.5,":gb-eng:","England: 109.571 points","Turf Moor",53.789064,-2.230225
 "Cardiff MU","Wales",0.25,6.167,4.1,":gb-wls:","Wales: 6.167 points","Cardiff City Stadium",51.472778,-3.203056
 "CD Santa Clara","Portugal",0.833,56.217,1.5,":pt:","Portugal: 56.217 points","Estádio de São Miguel",37.763708,-25.622589
 "Cefn Druids","Wales",0.125,6.167,2,":gb-wls:","Wales: 6.167 points","The Rock",52.977212,-3.069646
 "Celtic","Scotland",12.1,36.4,33.2,":gb-sct:","Scotland: 36.4 points","Celtic Park",55.849696,-4.2055427
 "CFR Cluj","Romania",11.75,20.5,57.3,":ro:","Romania: 20.5 points","Stadionul Dr. Constantin Radulescu",46.779678,23.577247
 "Charleroi","Belgium",0.4,42.2,0.9,":be:","Belgium: 42.2 points","Stade du Pays de Charleroi",50.414609,4.453787
-"Chelsea","England",18,109.286,16.5,":gb-eng:","England: 109.286 points","Stamford Bridge",51.481666666,-0.191111111
+"Chelsea","England",18,109.571,16.4,":gb-eng:","England: 109.571 points","Stamford Bridge",51.481666666,-0.191111111
 "Chikhura Sachkhere","Georgia",1.125,8,14.1,":ge:","Georgia: 8 points","Chikhura Stadium",42.3434539,43.4117564
 "Cliftonville","Northern Ireland",0.375,8.583,4.4,":gb-nir:","Northern Ireland: 8.583 points","Solitude",54.619517,-5.947272
 "Club Brugge","Belgium",11.5,42.2,27.3,":be:","Belgium: 42.2 points","Jan Breydel Stadium",51.193269,3.181311
@@ -223,14 +223,14 @@
 "Lech Poznan","Poland",8.125,20.75,39.2,":pl:","Poland: 20.75 points","Stadion Miejski",52.397222,16.858056
 "Lechia Gdansk","Poland",0.875,20.75,4.2,":pl:","Poland: 20.75 points","Stadion Energa Gdansk",54.39,18.640278
 "Legia Warsaw","Poland",5.625,20.75,27.1,":pl:","Poland: 20.75 points","Polish Army Stadium",52.220461,21.040628
-"Leicester City","England",3.857,109.286,3.5,":gb-eng:","England: 109.286 points","Leicester City Stadium",52.620277777,-1.142222222
+"Leicester City","England",3.857,109.571,3.5,":gb-eng:","England: 109.571 points","Leicester City Stadium",52.620277777,-1.142222222
 "Levadia Tallinn","Estonia",1.208,7.583,15.9,":ee:","Estonia: 7.583 points","Kadriorg Stadium",59.434472222,24.783444444
 "Levski Sofia","Bulgaria",1.375,20,6.9,":bg:","Bulgaria: 20 points","Georgi Asparuhov Stadium",42.705467,23.363197
 "Lille OSC","France",5,61.167,8.2,":fr:","France: 61.167 points","Stade du RCL",50.611944,3.130556
 "Lillestrøm SK","Norway",0.5,29,1.7,":no:","Norway: 29 points","Åråsen Stadion",59.962752,11.063458
 "Lincoln Red Imps","Gibraltar",2.792,5.792,48.2,":gi:","Gibraltar: 5.792 points","Victoria Stadium",36.149356,-5.350342
 "Linfield Belfast","Northern Ireland",3.25,8.583,37.9,":gb-nir:","Northern Ireland: 8.583 points","Windsor Park",54.5825,-5.955
-"Liverpool","England",17.571,109.286,16.1,":gb-eng:","England: 109.286 points","Anfield",53.430833333,-2.960833333
+"Liverpool","England",17.571,109.571,16,":gb-eng:","England: 109.571 points","Anfield",53.430833333,-2.960833333
 "Lokomotiv Moscow","Russia",3.567,26.216,13.6,":ru:","Russia: 26.216 points","RZD Arena",55.80355,37.741169
 "Lokomotiv Plovdiv","Bulgaria",1.125,20,5.6,":bg:","Bulgaria: 20 points","Lokomotiv Stadium",42.133889,24.771667
 "Lokomotiva Zagreb","Croatia",0.2,25.4,0.8,":hr:","Croatia: 25.4 points","Stadion Maksimir",45.818858333,16.018077777
@@ -242,8 +242,8 @@
 "Maccabi Tel-Aviv","Israel",9.25,25,37,":il:","Israel: 25 points","Bloomfield Stadium",32.05173,34.76148
 "Makedonija GjP","North Macedonia",0.125,5.5,2.3,":mk:","North Macedonia: 5.5 points","<U+01F4>orce Petrov Stadium",42.00222222,21.36
 "Malmö FF","Sweden",12.125,23.75,51.1,":se:","Sweden: 23.75 points","Swedbank Stadion",55.583611111,12.987777777
-"Manchester City","England",20.429,109.286,18.7,":gb-eng:","England: 109.286 points","City of Manchester Stadium",53.483055555,-2.200277777
-"Manchester United","England",15.286,109.286,14,":gb-eng:","England: 109.286 points","Old Trafford",53.463055555,-2.291388888
+"Manchester City","England",20.714,109.571,18.9,":gb-eng:","England: 109.571 points","City of Manchester Stadium",53.483055555,-2.200277777
+"Manchester United","England",15.286,109.571,14,":gb-eng:","England: 109.571 points","Old Trafford",53.463055555,-2.291388888
 "MFK Ruzomberok","Slovakia",0.5,19.75,2.5,":sk:","Slovakia: 19.75 points","Štadión MFK Ružomberok",49.0825,19.28388889
 "Milsami Orhei","Moldova",0.875,12.25,7.1,":md:","Moldova: 12.25 points","CSR Orhei",47.3744,28.8192
 "Mladá Boleslav","Czech Republic",0.4,29.05,1.4,":cz:","Czech Republic: 29.05 points","Mestský stadion",50.427083,14.914783
@@ -374,7 +374,7 @@
 "Torino","Italy",0.5,81.929,0.6,":it:","Italy: 81.929 points","Stadio Olimpico Grande Torino",45.041667,7.65
 "Torpedo Kutaisi","Georgia",1,8,12.5,":ge:","Georgia: 8 points","Ramaz Shengelia Stadium",42.255141666,42.683086111
 "Torpedo Zhodino","Belarus",0,9.875,0,":by:","Belarus: 9.875 points","Torpedo Stadium",54.092361111,28.319722222
-"Tottenham Hotspur","England",12.214,109.286,11.2,":gb-eng:","England: 109.286 points","Tottenham Hotspur Stadium",51.604444444,-0.066388888
+"Tottenham Hotspur","England",12.214,109.571,11.1,":gb-eng:","England: 109.571 points","Tottenham Hotspur Stadium",51.604444444,-0.066388888
 "Trabzonspor","Turkey",2.6,32.1,8.1,":tr:","Turkey: 32.1 points","Senol Günes Stadium",40.9987,39.6463
 "Trans Narva","Estonia",0,7.583,0,":ee:","Estonia: 7.583 points","Narva Kreenholmi Stadium",59.36347,28.18465
 "Tre Fiori","San Marino",1.333,2,66.7,":sm:","San Marino: 2 points","Stadio Olimpico",43.97125,12.476972
@@ -411,10 +411,10 @@
 "Vllaznia Shkodër","Albania",0.375,6.25,6,":al:","Albania: 6.25 points","Loro Boriçi Stadium",42.070031,19.506558
 "Vojvodina Novi Sad","Serbia",0.625,32.375,1.9,":rs:","Serbia: 32.375 points","Detelinara Stadium",44.765156,20.472153
 "Vorskla Poltava","Ukraine",0.7,29.5,2.4,":ua:","Ukraine: 29.5 points","Oleksiy Butovskyi Vorskla Stadium",49.594833,34.549444
-"West Ham United","England",7.429,109.286,6.8,":gb-eng:","England: 109.286 points","London Stadium",51.538611111,-0.016388888
+"West Ham United","England",7.429,109.571,6.8,":gb-eng:","England: 109.571 points","London Stadium",51.538611111,-0.016388888
 "Willem II Tilburg","Netherlands",0.4,59.9,0.7,":nl:","Netherlands: 59.9 points","Koning Willem II Stadion",51.542778,5.066944
 "Wolfsberger AC","Austria",2.7,34,7.9,":at:","Austria: 34 points","Lavanttal-Arena",46.8253,14.8514
-"Wolverhampton Wanderers","England",3.143,109.286,2.9,":gb-eng:","England: 109.286 points","Molineux Stadium",52.590277777,-2.130277777
+"Wolverhampton Wanderers","England",3.143,109.571,2.9,":gb-eng:","England: 109.571 points","Molineux Stadium",52.590277777,-2.130277777
 "Yeni Malatyaspor","Turkey",0.5,32.1,1.6,":tr:","Turkey: 32.1 points","Malatya Inönü Stadium",38.352178,38.330494
 "Young Boys","Switzerland",11.225,31.675,35.4,":ch:","Switzerland: 31.675 points","Stadion Wankdorf",46.962778,7.465
 "Zalgiris Vilnius","Lithuania",4.25,10,42.5,":lt:","Lithuania: 10 points","LFF Stadium",54.668611,25.294444
