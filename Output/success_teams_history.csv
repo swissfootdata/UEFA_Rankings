@@ -1,301 +1,313 @@
 "flag","country","team","participations","average_points"
 ":de:","Germany","1.FC Kaiserslautern",17,1.01225490196078
-":de:","Germany","1.FC Köln",27,1.36252204585538
+":de:","Germany","1.FC Köln",27,1.39492945326279
 ,"East Germany","1.FC Magdeburg",15,1.36333333333333
-":be:","Belgium","AA Gent",22,0.912878787878788
+":be:","Belgium","AA Gent",23,0.986231884057971
 ":dk:","Denmark","AaB Aalborg",12,0.847916666666667
-":gb-sct:","Scotland","Aberdeen",36,0.896990740740741
-":it:","Italy","AC Milan",49,2.20349854227405
+":gb-sct:","Scotland","Aberdeen",37,0.872747747747748
+":it:","Italy","AC Milan",50,2.228
 ":it:","Italy","AC Parma",15,1.6202380952381
 ":at:","Austria","Admira Wacker",11,0.829545454545455
-":gr:","Greece","AEK Athens",45,0.968703703703704
+":gr:","Greece","AEK Athens",46,0.947644927536232
+":cy:","Cyprus","AEK Larnaca",10,1.20083333333333
 ":cy:","Cyprus","AEL Limassol",10,0.528333333333333
-":dk:","Denmark","AGF Aarhus",18,1.05092592592593
+":dk:","Denmark","AGF Aarhus",19,0.995614035087719
 ":se:","Sweden","AIK Stockholm",27,0.794135802469136
 ":fr:","France","AJ Auxerre",17,1.18669467787115
-":nl:","Netherlands","Ajax",59,2.14661016949153
-":be:","Belgium","Anderlecht",61,1.7301912568306
+":nl:","Netherlands","Ajax",60,2.1275
+":be:","Belgium","Anderlecht",61,1.77937158469945
 ":cy:","Cyprus","Anorthosis Famagusta",27,0.777777777777778
-":cy:","Cyprus","APOEL Nicosia",43,1.06472868217054
-":cy:","Cyprus","Apollon Limassol",25,0.727666666666667
+":cy:","Cyprus","APOEL Nicosia",44,1.04507575757576
+":cy:","Cyprus","Apollon Limassol",25,0.775666666666667
 ":am:","Armenia","Ararat Yerevan",11,0.864393939393939
 ":lu:","Luxembourg","Aris Bonnevoie",10,0.3
-":gr:","Greece","Aris Thessaloniki",21,0.673015873015873
-":gb-eng:","England","Arsenal",37,2.07579365079365
-":fr:","France","AS Monaco",32,1.40176711309524
-":it:","Italy","AS Roma",44,1.73452380952381
+":gr:","Greece","Aris Thessaloniki",22,0.642424242424242
+":gb-eng:","England","Arsenal",38,2.09823517126149
+":fr:","France","AS Monaco",32,1.4590587797619
+":it:","Italy","AS Roma",45,1.77216931216931
 ":fr:","France","AS Saint-Étienne",22,1.33755411255411
-":gb-eng:","England","Aston Villa",15,1.00100529100529
+":gb-eng:","England","Aston Villa",16,0.93844246031746
+":it:","Italy","Atalanta",10,1.40369047619048
 ":es:","Spain","Athletic Bilbao",29,1.32374110563766
-":es:","Spain","Atlético Madrid",49,1.92272432782637
-":at:","Austria","Austria Wien",46,1.14547101449275
+":es:","Spain","Atlético Madrid",50,1.90569841269841
+":at:","Austria","Austria Wien",47,1.12960992907801
 ":lu:","Luxembourg","Avenir Beggen",16,0.1875
-":nl:","Netherlands","AZ Alkmaar",21,1.70646258503401
+":nl:","Netherlands","AZ Alkmaar",22,1.81980519480519
 ":dk:","Denmark","B1903 København",11,0.643939393939394
-":fo:","Faroe Islands","B36 Torshavn",20,0.233333333333333
+":fo:","Faroe Islands","B36 Torshavn",21,0.222222222222222
 ":am:","Armenia","Banants Yerevan",12,0.135416666666667
 ":gb-wls:","Wales","Bangor City",14,0.345238095238095
 ":cz:","Czech Republic","Baník Ostrava",18,1.02361111111111
 ":gb-wls:","Wales","Barry Town",11,0.340909090909091
-":by:","Belarus","BATE Borisov",23,1.36413043478261
-":de:","Germany","Bayer Leverkusen",28,1.75191326530612
-":de:","Germany","Bayern München",55,2.44898268398268
-":il:","Israel","Beitar Jerusalem",13,0.708333333333333
-":pt:","Portugal","Benfica",62,2.26912442396313
-":tr:","Turkey","Besiktas",44,1.14090909090909
+":by:","Belarus","BATE Borisov",24,1.30729166666667
+":de:","Germany","Bayer Leverkusen",29,1.76477832512315
+":de:","Germany","Bayern München",56,2.46679421768707
+":il:","Israel","Beitar Jerusalem",14,0.657738095238095
+":pt:","Portugal","Benfica",63,2.3151171579743
+":tr:","Turkey","Besiktas",45,1.11555555555556
 ,"East Germany","BFC Dynamo Berlin",15,1.04
-":mt:","Malta","Birkirkara",21,0.251984126984127
+":mt:","Malta","Birkirkara",22,0.240530303030303
 ":pt:","Portugal","Boavista",19,1.18070175438597
+":no:","Norway","Bodø/Glimt",10,1.31416666666667
 ":ie:","Ireland","Bohemians Dublin",25,0.4
+":cz:","Czech Republic","Bohemians Praha",10,0.85
 ":it:","Italy","Bologna",10,1.18857142857143
-":de:","Germany","Borussia Dortmund",34,1.97426470588235
+":de:","Germany","Borussia Dortmund",35,1.98418367346939
 ":de:","Germany","Borussia Mönchengladbach",24,1.71378968253968
 ":dk:","Denmark","Brøndby IF",32,1.13567708333333
-":me:","Montenegro","Buducnost Podgorica",15,0.313888888888889
+":me:","Montenegro","Buducnost Podgorica",16,0.294270833333333
 ":lu:","Luxembourg","CA Spora Luxembourg",11,0.242424242424242
 ":gb-wls:","Wales","Cardiff City",14,3.42857142857143
 ,"East Germany","Carl Zeiss Jena",16,1.41666666666667
-":gb-sct:","Scotland","Celtic",58,1.74568965517241
+":gb-sct:","Scotland","Celtic",59,1.7364406779661
 ":pt:","Portugal","CF Os Belenenses",11,0.472727272727273
-":ro:","Romania","CFR Cluj",11,1.38246753246753
-":gb-eng:","England","Chelsea",31,2.4176267281106
+":ro:","Romania","CFR Cluj",12,1.4860119047619
+":gb-eng:","England","Chelsea",31,2.49596774193548
 ":gb-nir:","Northern Ireland","Cliftonville",12,0.135416666666667
-":be:","Belgium","Club Brugge",51,1.4843137254902
+":be:","Belgium","Club Brugge",52,1.50576923076923
 ":gb-nir:","Northern Ireland","Coleraine",18,0.25462962962963
 ":ie:","Ireland","Cork City",15,0.306666666666667
-":gb-nir:","Northern Ireland","Crusaders Belfast",20,0.208333333333333
-":rs:","Serbia","Crvena zvezda",60,1.70194444444444
+":gb-nir:","Northern Ireland","Crusaders Belfast",21,0.198412698412698
+":rs:","Serbia","Crvena zvezda",61,1.70560109289617
 ":lu:","Luxembourg","CS Fola Esch",12,0.239583333333333
 ":lu:","Luxembourg","CS Grevenmacher",13,0.16025641025641
 ":ru:","Russia","CSKA Moscow",27,1.67623456790123
-":bg:","Bulgaria","CSKA Sofia",48,1.10902777777778
+":bg:","Bulgaria","CSKA Sofia",49,1.09149659863946
 ":md:","Moldova","Dacia Chisinau",10,0.3
 ":es:","Spain","Deportivo La Coruña",11,1.47498196248196
-":gb-nir:","Northern Ireland","Derry City",18,0.280092592592593
-":lu:","Luxembourg","Differdange 03",11,0.295454545454545
+":gb-nir:","Northern Ireland","Derry City",19,0.265350877192982
+":lu:","Luxembourg","Differdange 03",12,0.270833333333333
+":ge:","Georgia","Dinamo Batumi",10,0.516666666666667
 ":ro:","Romania","Dinamo Bucuresti",45,1.00428571428571
-":by:","Belarus","Dinamo Minsk",27,0.963888888888889
+":by:","Belarus","Dinamo Minsk",28,0.929464285714286
 ":ru:","Russia","Dinamo Moscow",22,1.22348484848485
-":ge:","Georgia","Dinamo Tbilisi",36,1.12777777777778
+":ge:","Georgia","Dinamo Tbilisi",37,1.0972972972973
 ":al:","Albania","Dinamo Tirana",16,0.416666666666667
-":se:","Sweden","Djurgårdens IF",20,0.680833333333333
+":se:","Sweden","Djurgårdens IF",21,0.815079365079365
 ":ua:","Ukraine","Dnipro Dnipropetrovsk",14,1.37321428571429
 ,"Czechoslovakia","Dukla Praha",22,1.5719696969697
-":ie:","Ireland","Dundalk",25,0.487333333333333
+":ie:","Ireland","Dundalk",26,0.468589743589744
 ":gb-sct:","Scotland","Dundee United",27,1.02901234567901
-":hu:","Hungary","DVSC Debrecen",15,0.813888888888889
+":hu:","Hungary","DVSC Debrecen",16,0.763020833333333
 ,"East Germany","Dynamo Dresden",20,1.44083333333333
-":ua:","Ukraine","Dynamo Kyiv",52,2.20897435897436
-":de:","Germany","Eintracht Frankfurt",24,1.5515873015873
+":ua:","Ukraine","Dynamo Kyiv",53,2.17106918238994
+":de:","Germany","Eintracht Frankfurt",25,1.54952380952381
 ":lt:","Lithuania","Ekranas Panevezys",14,0.318452380952381
 ":dk:","Denmark","Esbjerg fB",13,0.718589743589744
 ":es:","Spain","Espanyol",10,1.7031746031746
 ":hu:","Hungary","ETO Györ",15,1.025
+":gi:","Gibraltar","Europa FC",10,0.195833333333333
 ":gb-eng:","England","Everton",17,1.02670401493931
-":lu:","Luxembourg","F91 Dudelange",25,0.316666666666667
+":lu:","Luxembourg","F91 Dudelange",26,0.309294871794872
 ":lt:","Lithuania","FBK Kaunas",11,0.568181818181818
-":es:","Spain","FC Barcelona",65,2.67025030525031
-":ch:","Switzerland","FC Basel",38,1.73684210526316
+":es:","Spain","FC Barcelona",66,2.65035473785474
+":ch:","Switzerland","FC Basel",39,1.82051282051282
 ":nl:","Netherlands","FC Groningen",10,0.635238095238095
-":dk:","Denmark","FC København",28,1.75029761904762
-":ch:","Switzerland","FC Luzern",14,0.260714285714286
-":dk:","Denmark","FC Midtjylland",16,0.9359375
-":fr:","France","FC Nantes",22,0.966017316017316
-":pt:","Portugal","FC Porto",61,1.94457455113193
-":at:","Austria","FC Salzburg",18,2.21388888888889
-":ad:","Andorra","FC Santa Coloma",18,0.175925925925926
+":dk:","Denmark","FC København",29,1.74166666666667
+":ch:","Switzerland","FC Lugano",10,0.455
+":ch:","Switzerland","FC Luzern",15,0.243333333333333
+":dk:","Denmark","FC Midtjylland",17,0.986764705882353
+":fr:","France","FC Nantes",22,1.03419913419913
+":pt:","Portugal","FC Porto",62,1.9615975422427
+":at:","Austria","FC Salzburg",19,2.21315789473684
+":ad:","Andorra","FC Santa Coloma",19,0.166666666666667
 ":ch:","Switzerland","FC Sion",21,0.819047619047619
 ":at:","Austria","FC Tirol Innsbruck",12,1.12708333333333
-":nl:","Netherlands","FC Twente Enschede",24,1.23700396825397
+":nl:","Netherlands","FC Twente Enschede",25,1.19152380952381
 ":nl:","Netherlands","FC Utrecht",14,0.538095238095238
-":li:","Liechtenstein","FC Vaduz",27,1.24074074074074
-":ch:","Switzerland","FC Zürich",31,0.953225806451613
-":tr:","Turkey","Fenerbahçe",46,1.21739130434783
-":hu:","Hungary","Ferencváros",46,1.43188405797101
-":nl:","Netherlands","Feyenoord",49,1.44956268221574
+":li:","Liechtenstein","FC Vaduz",28,1.32142857142857
+":ch:","Switzerland","FC Zürich",31,0.985483870967742
+":tr:","Turkey","Fenerbahçe",47,1.27234042553191
+":hu:","Hungary","Ferencváros",47,1.47056737588652
+":nl:","Netherlands","Feyenoord",50,1.50457142857143
 ":is:","Iceland","FH Hafnarfjardar",20,0.485416666666667
-":it:","Italy","Fiorentina",31,1.67210061443932
-":kz:","Kazakhstan","FK Aktobe",11,0.477272727272727
-":kz:","Kazakhstan","FK Astana",10,1.4
+":it:","Italy","Fiorentina",31,1.78961213517665
+":kz:","Kazakhstan","FK Aktobe",12,0.4375
+":kz:","Kazakhstan","FK Astana",11,1.27272727272727
 ":cz:","Czech Republic","FK Jablonec",11,0.540909090909091
-":ba:","Bosnia-Herzegovina","FK Sarajevo",21,0.53968253968254
+":ba:","Bosnia-Herzegovina","FK Sarajevo",22,0.515151515151515
 ":lv:","Latvia","FK Ventspils",21,0.470238095238095
-":ee:","Estonia","Flora Tallinn",28,0.334821428571429
+":ee:","Estonia","Flora Tallinn",29,0.323275862068966
 ":mt:","Malta","Floriana",26,0.211538461538462
 ":is:","Iceland","Fram Reykjavik",18,0.282407407407407
-":tr:","Turkey","Galatasaray",48,1.69635416666667
+":tr:","Turkey","Galatasaray",49,1.66173469387755
 ":fr:","France","Girondins Bordeaux",34,1.33785014005602
 ":pl:","Poland","GKS Katowice",12,0.576388888888889
 ":gb-nir:","Northern Ireland","Glenavon",15,0.283333333333333
-":gb-nir:","Northern Ireland","Glentoran",45,0.306481481481481
-":hr:","Croatia","GNK Dinamo",51,1.61699346405229
+":gb-nir:","Northern Ireland","Glentoran",46,0.29981884057971
+":hr:","Croatia","GNK Dinamo",52,1.62435897435897
 ":pl:","Poland","Górnik Zabrze",20,1.46291666666667
 ":ch:","Switzerland","Grasshoppers Zürich",39,1.03525641025641
 ":at:","Austria","Grazer AK",15,0.822222222222222
-":hr:","Croatia","Hajduk Split",47,1.07269503546099
-":fi:","Finland","Haka Valkeakoski",22,0.524621212121212
+":hr:","Croatia","Hajduk Split",48,1.05034722222222
+":fi:","Finland","Haka Valkeakoski",23,0.501811594202899
 ":de:","Germany","Hamburger SV",28,1.5702593537415
+":mt:","Malta","Hamrun Spartans",10,0.4125
 ":de:","Germany","Hannover 96",10,0.767857142857143
-":il:","Israel","Hapoel Beer-Sheva",12,1.0625
+":il:","Israel","Hapoel Beer-Sheva",13,1.11538461538462
 ":il:","Israel","Hapoel Tel-Aviv",16,1.5703125
-":fo:","Faroe Islands","HB Torshavn",22,0.232954545454545
-":gb-sct:","Scotland","Hearts FC",23,0.739855072463768
+":fo:","Faroe Islands","HB Torshavn",23,0.222826086956522
+":gb-sct:","Scotland","Hearts FC",24,0.742361111111111
 ":nl:","Netherlands","Heerenveen",10,0.75
 ":se:","Sweden","Helsingborg IF",10,1.23083333333333
 ":de:","Germany","Hertha BSC",18,0.995866402116402
-":gb-sct:","Scotland","Hibernian",23,1.30072463768116
+":gb-sct:","Scotland","Hibernian",24,1.24652777777778
 ":mt:","Malta","Hibernians FC",35,0.235714285714286
-":fi:","Finland","HJK Helsinki",39,0.657264957264957
+":fi:","Finland","HJK Helsinki",40,0.656458333333333
 ":hu:","Hungary","Honvéd Budapest",30,0.97
 ":is:","Iceland","IA Akranes",27,0.37037037037037
 ":is:","Iceland","IBV Vestmannaeyjar",19,0.271929824561403
 ":se:","Sweden","IF Elfsborg",17,0.663725490196078
 ":se:","Sweden","IFK Göteborg",33,1.39722222222222
 ":se:","Sweden","IFK Norrköping",19,1.02850877192982
-":it:","Italy","Internazionale",56,1.8421875
+":it:","Italy","Internazionale",57,1.88255012531328
 ":gb-eng:","England","Ipswich Town",12,1.20767195767196
 ":lu:","Luxembourg","Jeunesse d'Esch",37,0.302927927927928
-":it:","Italy","Juventus",59,2.27006658595642
+":it:","Italy","Juventus",60,2.27032738095238
 ":kz:","Kazakhstan","Kairat Almaty",12,0.673611111111111
 ":ee:","Estonia","Kalju Nomme",11,0.318181818181818
+":se:","Sweden","Kalmar FF",10,0.58
 ":dk:","Denmark","KB København",10,0.808333333333333
 ":is:","Iceland","Keflavik",14,0.199404761904762
-":al:","Albania","KF Tirana",20,0.260416666666667
-":fo:","Faroe Islands","KI Klaksvik",13,0.365384615384615
+":al:","Albania","KF Tirana",21,0.248015873015873
+":fo:","Faroe Islands","KI Klaksvik",14,0.339285714285714
 ":gb-sct:","Scotland","Kilmarnock",10,0.759166666666667
 ":is:","Iceland","KR Reykjavik",30,0.341666666666667
 ":al:","Albania","KS Flamurtari Vlorë",11,0.371212121212121
-":fi:","Finland","KuPS Kuopio",15,0.505
+":fi:","Finland","KuPS Kuopio",16,0.4734375
 ":fi:","Finland","Kuusysi Lahti",11,0.613636363636364
-":sm:","San Marino","La Fiorita",11,0.0454545454545455
-":at:","Austria","LASK",14,0.961904761904762
+":sm:","San Marino","La Fiorita",12,0.0416666666666667
+":at:","Austria","LASK",15,0.897777777777778
 ":ch:","Switzerland","Lausanne Sports",22,0.587121212121212
-":it:","Italy","Lazio",28,1.40252976190476
-":pl:","Poland","Lech Poznan",22,1.08712121212121
+":it:","Italy","Lazio",29,1.41820607553366
+":pl:","Poland","Lech Poznan",23,1.24094202898551
 ":gb-eng:","England","Leeds United",18,1.86049382716049
-":pl:","Poland","Legia Warsaw",40,1.63333333333333
-":ee:","Estonia","Levadia Tallinn",20,0.345833333333333
+":pl:","Poland","Legia Warsaw",41,1.59349593495935
+":ee:","Estonia","Levadia Tallinn",21,0.329365079365079
 ":bg:","Bulgaria","Levski-Spartak Sofia",15,0.923333333333333
-":bg:","Bulgaria","Levski Sofia",34,0.843137254901961
-":fr:","France","Lille OSC",13,1.49862637362637
+":bg:","Bulgaria","Levski Sofia",35,0.819047619047619
+":fr:","France","Lille OSC",14,1.39158163265306
 ":no:","Norway","Lillestrøm SK",19,0.547368421052632
-":gb-nir:","Northern Ireland","Linfield Belfast",49,0.454081632653061
+":gi:","Gibraltar","Lincoln Red Imps",10,0.495833333333333
+":gb-nir:","Northern Ireland","Linfield Belfast",50,0.45
 ":bg:","Bulgaria","Litex Lovech",15,0.883333333333333
-":gb-eng:","England","Liverpool",47,2.14748817966903
+":gb-eng:","England","Liverpool",48,2.14739169973545
 ":ru:","Russia","Lokomotiv Moscow",22,1.38825757575758
 ":bg:","Bulgaria","Lokomotiv Plovdiv",18,0.49537037037037
 ":bg:","Bulgaria","Lokomotiv Sofia",13,0.847435897435897
 ,"East Germany","Lokomotive Leipzig",15,1.33
-":bg:","Bulgaria","Ludogorets Razgrad",11,1.95454545454545
+":bg:","Bulgaria","Ludogorets Razgrad",12,1.96875
 ":no:","Norway","Lyn Oslo",10,0.486666666666667
-":il:","Israel","Maccabi Haifa",21,1.37103174603175
-":il:","Israel","Maccabi Tel-Aviv",23,1.46920289855072
-":se:","Sweden","Malmö FF",42,1.02261904761905
-":gb-eng:","England","Manchester City",22,2.07530663780664
-":gb-eng:","England","Manchester United",45,2.64877865961199
+":il:","Israel","Maccabi Haifa",22,1.39393939393939
+":il:","Israel","Maccabi Tel-Aviv",24,1.41840277777778
+":se:","Sweden","Malmö FF",42,1.03452380952381
+":gb-eng:","England","Manchester City",23,2.18693926846101
+":gb-eng:","England","Manchester United",46,2.67038906142167
 ":lv:","Latvia","Metalurgs Liepaja",15,0.405555555555556
 ":am:","Armenia","Mika Ashtarak",11,0.162878787878788
-":no:","Norway","Molde FK",20,0.957916666666667
+":md:","Moldova","Milsami Orhei",10,0.25
+":no:","Norway","Molde FK",21,0.983730158730159
 ":gb-sct:","Scotland","Motherwell",11,0.35530303030303
-":sk:","Slovakia","MSK Zilina",15,0.847222222222222
+":sk:","Slovakia","MSK Zilina",16,0.794270833333333
 ":hu:","Hungary","MTK Budapest",20,1.21916666666667
 ":fi:","Finland","MyPa-47",14,0.563690476190476
-":it:","Italy","Napoli",34,1.3859243697479
-":az:","Azerbaijan","Neftchi Baku",20,0.4875
-":gb-eng:","England","Newcastle United",14,1.65970804988662
-":si:","Slovenia","NK Domzale",12,0.6875
-":si:","Slovenia","NK Maribor",27,1.06635802469136
-":hr:","Croatia","NK Osijek",12,0.6125
-":hr:","Croatia","NK Rijeka",20,0.782916666666667
+":it:","Italy","Napoli",35,1.44836734693878
+":az:","Azerbaijan","Neftchi Baku",21,0.464285714285714
+":gb-eng:","England","Newcastle United",15,1.58239417989418
+":si:","Slovenia","NK Domzale",13,0.634615384615385
+":si:","Slovenia","NK Maribor",28,1.0327380952381
+":hr:","Croatia","NK Osijek",13,0.565384615384615
+":hr:","Croatia","NK Rijeka",21,0.745634920634921
 ":si:","Slovenia","Nova Gorica",15,0.316666666666667
 ":fo:","Faroe Islands","NSI Runavik",14,0.107142857142857
 ":dk:","Denmark","OB Odense",15,0.94
 ":rs:","Serbia","OFK Belgrade",11,0.742424242424243
-":fr:","France","OGC Nice",13,1.18205128205128
-":si:","Slovenia","Olimpija Ljubljana",23,0.655434782608696
-":gr:","Greece","Olympiakos Piraeus",57,1.34385964912281
+":fr:","France","OGC Nice",13,1.37435897435897
+":si:","Slovenia","Olimpija Ljubljana",24,0.628125
+":gr:","Greece","Olympiakos Piraeus",58,1.33362068965517
 ":fr:","France","Olympique Lyonnais",36,1.89626322751323
-":fr:","France","Olympique Marseille",33,1.67507215007215
-":cy:","Cyprus","Omonia Nicosia",44,0.633712121212121
+":fr:","France","Olympique Marseille",34,1.64541316526611
+":cy:","Cyprus","Omonia Nicosia",45,0.628518518518518
 ":se:","Sweden","Östers IF",14,0.353571428571429
-":gr:","Greece","Panathinaikos",51,1.23137254901961
-":gr:","Greece","PAOK Thessaloniki",41,1.01422764227642
-":fr:","France","Paris Saint-Germain",31,2.27672811059908
-":rs:","Serbia","Partizan Belgrade",47,1.37978723404255
-":al:","Albania","Partizani Tirana",24,0.534722222222222
+":gr:","Greece","Panathinaikos",52,1.20769230769231
+":gr:","Greece","PAOK Thessaloniki",42,0.990079365079365
+":fr:","France","Paris Saint-Germain",32,2.30453869047619
+":rs:","Serbia","Partizan Belgrade",48,1.4109375
+":al:","Albania","Partizani Tirana",25,0.513333333333333
 ":ro:","Romania","Petrolul Ploiesti",11,1.16666666666667
 ":gb-nir:","Northern Ireland","Portadown",15,0.236111111111111
-":lu:","Luxembourg","Progrès Niederkorn",10,0.245833333333333
-":nl:","Netherlands","PSV Eindhoven",54,1.7026455026455
-":am:","Armenia","Pyunik Yerevan",19,0.344298245614035
-":az:","Azerbaijan","Qarabag FK",18,1.32638888888889
+":lu:","Luxembourg","Progrès Niederkorn",11,0.223484848484849
+":nl:","Netherlands","PSV Eindhoven",55,1.71896103896104
+":am:","Armenia","Pyunik Yerevan",20,0.389583333333333
+":az:","Azerbaijan","Qarabag FK",19,1.36842105263158
 ":mk:","North Macedonia","Rabotnicki Skopje",13,0.612179487179487
-":be:","Belgium","Racing Genk",15,1.44666666666667
-":gb-sct:","Scotland","Rangers",57,1.92046783625731
+":be:","Belgium","Racing Genk",16,1.35625
+":gb-sct:","Scotland","Rangers",58,1.90459770114943
 ":ro:","Romania","Rapid Bucuresti",21,1.1171201814059
-":at:","Austria","Rapid Wien",54,1.39413580246914
-":fr:","France","RC Lens",13,1.06153846153846
+":at:","Austria","Rapid Wien",55,1.37060606060606
+":fr:","France","RC Lens",14,1.03333333333333
 ":fr:","France","RC Strasbourg",11,0.953787878787879
-":es:","Spain","Real Betis",13,1.07136752136752
-":es:","Spain","Real Madrid",66,2.73492664742665
-":es:","Spain","Real Sociedad",18,0.848236331569665
+":es:","Spain","Real Betis",14,1.15810657596372
+":es:","Spain","Real Madrid",67,2.75487443733712
+":es:","Spain","Real Sociedad",19,0.950208855472013
 ":es:","Spain","Real Zaragoza",18,1.35288800705467
 ":lu:","Luxembourg","Red Boys Differdange",10,0.1
 ":fi:","Finland","Reipas Lahti",10,0.6
-":no:","Norway","Rosenborg BK",40,1.32708333333333
-":be:","Belgium","Royal Antwerp",18,0.791666666666667
+":no:","Norway","Rosenborg BK",41,1.29471544715447
+":be:","Belgium","Royal Antwerp",19,0.755263157894737
 ":pl:","Poland","Ruch Chorzow",13,0.788461538461538
 ":it:","Italy","Sampdoria",13,1.2117673992674
 ":ad:","Andorra","Sant Julià",11,0.121212121212121
 ":de:","Germany","Schalke 04",24,2.01612103174603
-":ch:","Switzerland","Servette FC",30,0.789722222222222
-":es:","Spain","Sevilla",26,1.95228937728938
-":ua:","Ukraine","Shakhtar Donetsk",33,2.21414141414141
+":ch:","Switzerland","Servette FC",31,0.764247311827957
+":es:","Spain","Sevilla",27,1.99902998236332
+":ua:","Ukraine","Shakhtar Donetsk",34,2.22549019607843
 ":by:","Belarus","Shakhtior Saligorsk",15,0.327777777777778
-":ie:","Ireland","Shamrock Rovers",29,0.454310344827586
+":ie:","Ireland","Shamrock Rovers",30,0.464166666666667
 ":ie:","Ireland","Shelbourne",16,0.322916666666667
-":md:","Moldova","Sheriff Tiraspol",24,0.911458333333333
+":md:","Moldova","Sheriff Tiraspol",25,0.945
 ":am:","Armenia","Shirak Gyumri",14,0.220238095238095
-":mk:","North Macedonia","Shkendija Tetovo",11,0.534090909090909
+":mk:","North Macedonia","Shkendija Tetovo",12,0.489583333333333
 ":cz:","Czech Republic","Sigma Olomouc",11,0.827272727272727
 ":ba:","Bosnia-Herzegovina","Siroki Brijeg",17,0.419117647058824
-":no:","Norway","SK Brann Bergen",17,0.669607843137255
+":no:","Norway","SK Brann Bergen",18,0.632407407407407
 ":lv:","Latvia","Skonto Riga",22,0.869318181818182
 ":pl:","Poland","Slask Wroclaw",12,0.88125
-":cz:","Czech Republic","Slavia Praha",31,1.56854838709677
+":cz:","Czech Republic","Slavia Praha",32,1.57421875
 ":bg:","Bulgaria","Slavia Sofia",19,0.717105263157895
 ":mt:","Malta","Sliema Wanderers",38,0.237938596491228
 ":ie:","Ireland","Sligo Rovers",10,0.3
-":sk:","Slovakia","Slovan Bratislava",36,1.21851851851852
+":sk:","Slovakia","Slovan Bratislava",37,1.27342342342342
 ":cz:","Czech Republic","Slovan Liberec",12,1.37222222222222
-":cz:","Czech Republic","Sparta Praha",50,1.465
+":cz:","Czech Republic","Sparta Praha",51,1.43627450980392
 ":ru:","Russia","Spartak Moscow",42,1.65297619047619
-":sk:","Slovakia","Spartak Trnava",24,1.06388888888889
-":pt:","Portugal","Sporting Braga",24,1.28125
-":pt:","Portugal","Sporting CP Lisbon",62,1.31372887864823
-":ie:","Ireland","St. Patrick's Athletic",18,0.280092592592593
-":fr:","France","Stade Rennais",11,0.797727272727273
+":sk:","Slovakia","Spartak Trnava",25,1.02133333333333
+":pt:","Portugal","Sporting Braga",25,1.27666666666667
+":pt:","Portugal","Sporting CP Lisbon",63,1.32726757369615
+":ie:","Ireland","St. Patrick's Athletic",19,0.265350877192982
+":fr:","France","Stade Rennais",12,0.911805555555556
 ":be:","Belgium","Standard Liège",38,1.65021929824561
 ":ro:","Romania","Steaua Bucuresti",44,1.63622835497835
 ":no:","Norway","Strømsgodset IF",11,0.208333333333333
-":at:","Austria","Sturm Graz",26,0.852884615384615
+":at:","Austria","Sturm Graz",27,0.865740740740741
 ":lt:","Lithuania","Suduva Marijampole",16,0.4765625
-":me:","Montenegro","Sutjeska Niksic",10,0.175
+":me:","Montenegro","Sutjeska Niksic",11,0.159090909090909
 ":al:","Albania","Teuta Durrës",12,0.201388888888889
-":gb-wls:","Wales","The New Saints",17,0.350490196078431
-":kz:","Kazakhstan","Tobol Kustanai",10,0.275
+":gb-wls:","Wales","The New Saints",18,0.331018518518518
+":kz:","Kazakhstan","Tobol Kustanai",11,0.25
 ":it:","Italy","Torino",19,1.03558897243108
-":ge:","Georgia","Torpedo Kutaisi",11,0.325757575757576
+":ge:","Georgia","Torpedo Kutaisi",12,0.298611111111111
 ":ru:","Russia","Torpedo Moscow",19,1.07543859649123
-":gb-eng:","England","Tottenham Hotspur",29,2.08249178981938
+":gb-eng:","England","Tottenham Hotspur",29,2.15145730706076
 ":fi:","Finland","TPS Turku",13,0.455769230769231
-":tr:","Turkey","Trabzonspor",31,0.863172043010753
-":sm:","San Marino","Tre Penne",10,0.05
+":tr:","Turkey","Trabzonspor",31,0.918010752688172
+":ee:","Estonia","Trans Narva",10,0.0333333333333333
+":sm:","San Marino","Tre Penne",11,0.0454545454545455
 ":it:","Italy","Udinese",11,0.898809523809524
 ":hu:","Hungary","Újpest Dózsa",24,2.04444444444444
 ":hu:","Hungary","Újpest TE",11,0.541666666666667
 ":lu:","Luxembourg","Union Luxembourg",21,0.0952380952380952
-":ro:","Romania","Universitatea Craiova",28,0.748511904761905
+":ro:","Romania","Universitatea Craiova",28,0.757440476190476
 ":es:","Spain","Valencia",40,1.79756944444444
 ":no:","Norway","Vålerengens IF",17,0.420588235294118
 ":mt:","Malta","Valletta FC",39,0.189102564102564
@@ -305,24 +317,27 @@
 ":dk:","Denmark","Vejle BK",10,0.625
 ":de:","Germany","VfB Stuttgart",28,1.20365646258503
 ":hu:","Hungary","Videoton Fehérvár",15,1.00166666666667
-":no:","Norway","Viking Stavanger",21,0.563095238095238
-":cz:","Czech Republic","Viktoria Plzen",13,1.79230769230769
-":es:","Spain","Villarreal",16,2.13504464285714
+":no:","Norway","Viking Stavanger",21,0.575
+":fo:","Faroe Islands","Víkingur",10,0.2375
+":cz:","Czech Republic","Viktoria Plzen",14,1.7625
+":es:","Spain","Villarreal",17,2.12710084033613
 ":nl:","Netherlands","Vitesse Arnhem",15,0.754285714285714
-":pt:","Portugal","Vitória Guimarães",20,0.604047619047619
+":pt:","Portugal","Vitória Guimarães",21,0.575283446712018
 ":pt:","Portugal","Vitória Setúbal",15,0.886190476190476
-":al:","Albania","Vllaznia Shkodër",13,0.455128205128205
-":rs:","Serbia","Vojvodina Novi Sad",24,0.653472222222222
+":al:","Albania","Vllaznia Shkodër",14,0.422619047619048
+":rs:","Serbia","Vojvodina Novi Sad",25,0.627333333333333
+":ua:","Ukraine","Vorskla Poltava",10,0.395
 ":at:","Austria","Wacker Innsbruck",14,0.528571428571429
 ":de:","Germany","Werder Bremen",26,1.41817765567766
-":gb-eng:","England","West Ham United",10,1.32827380952381
+":gb-eng:","England","West Ham United",11,1.61011904761905
 ":pl:","Poland","Widzew Lódz",14,1.12380952380952
 ":at:","Austria","Wiener Sportklub",10,1.80833333333333
 ":pl:","Poland","Wisla Kraków",17,1.40441176470588
 ":ch:","Switzerland","Xamax Neuchâtel",13,1.26923076923077
-":ch:","Switzerland","Young Boys",28,1.35327380952381
-":lt:","Lithuania","Zalgiris Vilnius",24,0.552083333333333
-":ba:","Bosnia-Herzegovina","Zeljeznicar Sarajevo",19,0.612719298245614
+":ch:","Switzerland","Young Boys",29,1.31522988505747
+":lt:","Lithuania","Zalgiris Vilnius",25,0.575
+":ba:","Bosnia-Herzegovina","Zeljeznicar Sarajevo",20,0.582083333333333
 ":ru:","Russia","Zenit St. Petersburg",19,2.50175438596491
-":md:","Moldova","Zimbru Chisinau",17,0.737745098039216
-":ba:","Bosnia-Herzegovina","Zrinjski Mostar",14,0.538690476190476
+":md:","Moldova","Zimbru Chisinau",18,0.696759259259259
+":ua:","Ukraine","Zorya Luhansk",10,0.536666666666667
+":ba:","Bosnia-Herzegovina","Zrinjski Mostar",15,0.519444444444444

@@ -1,7 +1,7 @@
 uefa_country_ranking_teams <- data.frame("country","team",0,"bla",0)
 colnames(uefa_country_ranking_teams) <- c("country","team","scored_points","status","year")
 
-years <- 2023:1956
+years <- 2024:1956
 #years <- c("2023","2022","2021","2020","2019")
 
 for (y in years) {
