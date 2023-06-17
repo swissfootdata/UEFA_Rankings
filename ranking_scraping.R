@@ -2,7 +2,7 @@
 driver <- RSelenium::rsDriver(port= 4570L, browser = "firefox",chromever = NULL, phantomver = NULL)
 
 remote_driver <- driver[["client"]]
-remote_driver$navigate("https://kassiesa.net/uefa/data/method5/crank2023.html")
+remote_driver$navigate("https://kassiesa.net/uefa/data/method5/crank2024.html")
 
 output <- remote_driver$findElement(using="class",value="countrygroup")
 
@@ -81,7 +81,7 @@ current_date <- current_date-1
 }
 
 #Save old ranking with date
-save(old_data_ranking_full,file=paste0("Old_data/",current_date,"_old_data_ranking_full.rdata"))
+save(old_data_ranking_full,file=paste0("Old_data/",current_date-5,"_old_data_ranking_full.rdata"))
 
 #Load
 if (weekdays(current_date) == "Dienstag") {

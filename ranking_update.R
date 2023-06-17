@@ -30,7 +30,7 @@ remote_driver <- driver[["client"]]
 current_date <- Sys.Date()
 current_day <- as.numeric(format(Sys.Date(),"%d"))
 
-remote_driver$navigate("https://kassiesa.net/uefa/data/method5/crank2023.html")
+remote_driver$navigate("https://kassiesa.net/uefa/data/method5/crank2024.html")
 output <- remote_driver$findElement(using="class",value="flex-container")
 text_datum <- output$getElementText()[[1]]
 text_datum <- strsplit(text_datum,"\n")[[1]][3]
