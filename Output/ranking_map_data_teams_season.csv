@@ -35,7 +35,7 @@
 "Bodø/Glimt","Norway",0,"not out",0,,":no:","Norway: 0 points","Aspmyra Stadion",67.2775,14.384166666
 "Bohemians Praha","Czech Republic",0,"not out",0,,":cz:","Czech Republic: 0 points",,,
 "Borussia Dortmund","Germany",0.571,"not out",2.286,25,":de:","Germany: 2.286 points","Westfalenstadion",51.4925,7.451667
-"Breidablik","Iceland",0.333,"not out",0.333,100,":is:","Iceland: 0.333 points","Kópavogsvöllur",64.104167,-21.896667
+"Breidablik","Iceland",0.667,"not out",0.667,100,":is:","Iceland: 0.667 points","Kópavogsvöllur",64.104167,-21.896667
 "Brighton & Hove Albion","England",0,"not out",2,0,":gb-eng:","England: 2 points",,,
 "Buducnost Podgorica","Montenegro",0.333,"not out",0.333,100,":me:","Montenegro: 0.333 points","Podgorica City Stadium",42.444728,19.264378
 "Celtic","Scotland",0.8,"not out",0.8,100,":gb-sct:","Scotland: 0.8 points","Celtic Park",55.849696,-4.2055427
@@ -113,7 +113,7 @@
 "Inter Club d'Escaldes","Andorra",0,"not out",0,,":ad:","Andorra: 0 points","Estadi Comunal d'Aixovall",42.476389,1.487667
 "Internazionale","Italy",0.571,"not out",2.286,25,":it:","Italy: 2.286 points","Stadio Giuseppe Meazza",45.478055,9.123947
 "Juventus","Italy",0,"not out",2.286,0,":it:","Italy: 2.286 points","Juventus Stadium",45.1096276,7.6412431
-"KA Akureyri","Iceland",0,"not out",0.333,0,":is:","Iceland: 0.333 points",,,
+"KA Akureyri","Iceland",0,"not out",0.667,0,":is:","Iceland: 0.667 points",,,
 "Kalmar FF","Sweden",0,"not out",0,,":se:","Sweden: 0 points",,,
 "Kauno Zalgiris","Lithuania",0,"not out",0,,":lt:","Lithuania: 0 points","Darius and Girenas Stadium",54.897222,23.936944
 "Kecskeméti TE","Hungary",0,"not out",0,,":hu:","Hungary: 0 points",,,
@@ -217,7 +217,7 @@
 "Urartu FC","Armenia",0,"not out",0,,":am:","Armenia: 0 points","Urartu Stadium",40.171426,44.449938
 "Valmieras FK","Latvia",0,"not out",0,,":lv:","Latvia: 0 points","Örjans Vall",56.684166666,12.866388888
 "Víkingur","Faroe Islands",0,"not out",0,,":fo:","Faroe Islands: 0 points","Víkingsvöllur",64.117222,-21.852778
-"Vikingur Reykjavik","Iceland",0,"not out",0.333,0,":is:","Iceland: 0.333 points","KR-völlur",64.145683,-21.967728
+"Vikingur Reykjavik","Iceland",0,"not out",0.667,0,":is:","Iceland: 0.667 points","KR-völlur",64.145683,-21.967728
 "Viktoria Plzen","Czech Republic",0,"not out",0,,":cz:","Czech Republic: 0 points","Doosan Arena",49.75,13.385556
 "Villarreal","Spain",0,"not out",2.5,0,":es:","Spain: 2.5 points","Estadio de la Cerámica",39.944167,-0.103611
 "Vitória Guimarães","Portugal",0,"not out",1.333,0,":pt:","Portugal: 1.333 points","Afonso Henriques Stadium",41.445833,-8.301111
