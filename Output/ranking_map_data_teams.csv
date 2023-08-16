@@ -64,7 +64,7 @@
 "Cardiff MU","Wales",0.25,5.792,4.3,":gb-wls:","Wales: 5.792 points","Cardiff City Stadium",51.472778,-3.203056
 "CD Santa Clara","Portugal",0.833,47.317,1.8,":pt:","Portugal: 47.317 points","Estádio de São Miguel",37.763708,-25.622589
 "Celtic","Scotland",10.025,31.15,32.2,":gb-sct:","Scotland: 31.15 points","Celtic Park",55.849696,-4.2055427
-"CFR Cluj","Romania",11.25,20.5,54.9,":ro:","Romania: 20.5 points","Stadionul Dr. Constantin Radulescu",46.779678,23.577247
+"CFR Cluj","Romania",11.25,20.75,54.2,":ro:","Romania: 20.75 points","Stadionul Dr. Constantin Radulescu",46.779678,23.577247
 "Charleroi","Belgium",0.4,35.6,1.1,":be:","Belgium: 35.6 points","Stade du Pays de Charleroi",50.414609,4.453787
 "Chelsea","England",13.714,88.929,15.4,":gb-eng:","England: 88.929 points","Stamford Bridge",51.481666666,-0.191111111
 "Chikhura Sachkhere","Georgia",0.625,7.625,8.2,":ge:","Georgia: 7.625 points","Chikhura Stadium",42.3434539,43.4117564
@@ -105,12 +105,12 @@
 "Espanyol","Spain",2.214,75.929,2.9,":es:","Spain: 75.929 points","Estadi Cornellà-El Prat",41.347861,2.075667
 "Europa FC","Gibraltar",0.958,4.958,19.3,":gi:","Gibraltar: 4.958 points","Victoria Stadium",36.149356,-5.350342
 "F91 Dudelange","Luxembourg",3.875,8.375,46.3,":lu:","Luxembourg: 8.375 points","Stade Jos Nosbaum",49.472222222,6.084722222
-"Farul Constanta","Romania",1,20.5,4.9,":ro:","Romania: 20.5 points",,,
+"Farul Constanta","Romania",1.25,20.75,6,":ro:","Romania: 20.75 points",,,
 "FC Arouca","Portugal",0.167,47.317,0.4,":pt:","Portugal: 47.317 points",,,
 "FC Ballkani","Kosovo",3.125,10.292,30.4,":xk:","Kosovo: 10.292 points","Balkanabat Stadium",39.511944,54.365
 "FC Barcelona","Spain",10.786,75.929,14.2,":es:","Spain: 75.929 points","Camp Nou",41.380833,2.1225
 "FC Basel","Switzerland",14.95,28.575,52.3,":ch:","Switzerland: 28.575 points","St. Jakob-Park",47.541389,7.62
-"FC Botosani","Romania",0.5,20.5,2.4,":ro:","Romania: 20.5 points","Stadionul Municipal",47.7483,26.6519
+"FC Botosani","Romania",0.5,20.75,2.4,":ro:","Romania: 20.75 points","Stadionul Municipal",47.7483,26.6519
 "FC Drita","Kosovo",2.333,10.292,22.7,":xk:","Kosovo: 10.292 points","Stadium Bogovinje",41.4375,22.7689
 "FC Fehérvár","Hungary",2.75,18.875,14.6,":hu:","Hungary: 18.875 points","Sóstói Stadion",47.17369444,18.41536111
 "FC Gomel","Belarus",0,6.25,0,":by:","Belarus: 6.25 points","Central Stadium",52.436527777,31.012361111
@@ -138,7 +138,7 @@
 "FC Vitebsk","Belarus",0.125,6.25,2,":by:","Belarus: 6.25 points","Vitebsky Central Sport Complex",55.198472222,30.229305555
 "FC Zürich","Switzerland",1.625,28.575,5.7,":ch:","Switzerland: 28.575 points","Letzigrund",47.382791,8.503801
 "FCB Magpies","Gibraltar",0.417,4.958,8.4,":gi:","Gibraltar: 4.958 points","Victoria Stadium",36.149356,-5.350342
-"FCSB","Romania",4.375,20.5,21.3,":ro:","Romania: 20.5 points","National Arena",44.4372,26.1525
+"FCSB","Romania",4.375,20.75,21.1,":ro:","Romania: 20.75 points","National Arena",44.4372,26.1525
 "Fenerbahçe","Turkey",6.35,29.6,21.5,":tr:","Turkey: 29.6 points","Sükrü Saracoglu Stadium",40.9875,29.036666666
 "Ferencváros","Hungary",12.125,18.875,64.2,":hu:","Hungary: 18.875 points","Groupama Arena",47.475277777,19.096111111
 "Feronikeli","Kosovo",1.25,10.292,12.1,":xk:","Kosovo: 10.292 points","Rexhep Rexhepi Stadium",42.616446,20.903551
@@ -321,7 +321,7 @@
 "SC Dnipro-1","Ukraine",1.9,25,7.6,":ua:","Ukraine: 25 points","Dnipro Arena",48.460333,35.032472
 "SC Freiburg","Germany",1.875,69.554,2.7,":de:","Germany: 69.554 points","Dreisamstadion",47.988889,7.893056
 "SC Gjilani","Kosovo",1.042,10.292,10.1,":xk:","Kosovo: 10.292 points","City Stadium",42.466667,21.464444
-"Sepsi OSK","Romania",1.125,20.5,5.5,":ro:","Romania: 20.5 points","Stadionul Municipal",45.86291667,25.77613889
+"Sepsi OSK","Romania",1.125,20.75,5.4,":ro:","Romania: 20.75 points","Stadionul Municipal",45.86291667,25.77613889
 "Servette FC","Switzerland",1.05,28.575,3.7,":ch:","Switzerland: 28.575 points","Stade de Genève",46.177778,6.1275
 "Sevilla","Spain",12.214,75.929,16.1,":es:","Spain: 75.929 points","Ramón Sánchez Pizjuán Stadium",37.383878,-5.970467
 "Sfântul Gheorghe","Moldova",0.375,12.375,3,":md:","Moldova: 12.375 points","Suruceni Stadium",46.9844,28.667
@@ -385,7 +385,7 @@
 "Union Berlin","Germany",3.375,69.554,4.9,":de:","Germany: 69.554 points","Stadion An der Alten Försterei",52.457222,13.568056
 "Union Saint-Gilloise","Belgium",4,35.6,11.2,":be:","Belgium: 35.6 points","Stade Joseph Marien - Joseph Marienstadion",50.8178,4.32917
 "Union Titus Pétange","Luxembourg",0.125,8.375,1.5,":lu:","Luxembourg: 8.375 points","Stade Municipal, Pétange",49.557211111,5.856486111
-"Universitatea Craiova","Romania",2,20.5,9.8,":ro:","Romania: 20.5 points","Stadionul Ion Oblemenco",44.313889,23.784167
+"Universitatea Craiova","Romania",2,20.75,9.6,":ro:","Romania: 20.75 points","Stadionul Ion Oblemenco",44.313889,23.784167
 "Urartu FC","Armenia",0.25,10.625,2.4,":am:","Armenia: 10.625 points","Urartu Stadium",40.171426,44.449938
 "Valencia","Spain",2.429,75.929,3.2,":es:","Spain: 75.929 points","Mestalla Stadium",39.466667,-0.375
 "Vålerengens IF","Norway",0.25,25.5,1,":no:","Norway: 25.5 points","Mjörnvallen Idrottsplats",57.930595168,12.504277315
@@ -395,7 +395,7 @@
 "Velez Mostar","Bosnia-Herzegovina",0.875,9.125,9.6,":ba:","Bosnia-Herzegovina: 9.125 points","Stadion pod Bijelim Brijegom",43.345556,17.795278
 "VfL Wolfsburg","Germany",3.357,69.554,4.8,":de:","Germany: 69.554 points","Volkswagen Arena",52.431944,10.803889
 "Viborg FF","Denmark",0.8,24.325,3.3,":dk:","Denmark: 24.325 points","Evergi Viborg Arena",56.455897,9.402064
-"Viitorul Constanta","Romania",0.25,20.5,1.2,":ro:","Romania: 20.5 points","Viitorul Stadium",44.26388889,28.55583333
+"Viitorul Constanta","Romania",0.25,20.75,1.2,":ro:","Romania: 20.75 points","Viitorul Stadium",44.26388889,28.55583333
 "Viking Stavanger","Norway",1,25.5,3.9,":no:","Norway: 25.5 points","Viking Stadion",58.914611,5.730442
 "Víkingur","Faroe Islands",0.625,9.5,6.6,":fo:","Faroe Islands: 9.5 points","Víkingsvöllur",64.117222,-21.852778
 "Vikingur Reykjavik","Iceland",2.125,8.583,24.8,":is:","Iceland: 8.583 points","KR-völlur",64.145683,-21.967728
