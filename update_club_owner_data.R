@@ -31,6 +31,9 @@ current_points <- current_points %>%
          date = Sys.Date())
 
 #Get old data and add
+old_data <- read.csv("https://raw.githubusercontent.com/swissfootdata/UEFA_Rankings/master/Output/club_owner_data.csv", encoding = "UTF-8")
 
-
+current_points <- rbind(current_points,old_data)
 write.csv(current_points,"Output/club_owner_data.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
+
+print("New club owner data scraped")
