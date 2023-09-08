@@ -68,6 +68,9 @@ source("ranking_teams_scraping.R",encoding = "UTF-8")
 #Update Maps
 source("create_maps.R",encoding = "UTF-8")
   
+#Update Club Owner Data
+
+    
 #Store Last update
 cat(text_datum,file="last_update.txt")
 
