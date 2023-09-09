@@ -55,8 +55,8 @@ last_update <- read.delim("last_update.txt",header=FALSE)
 
 monday_check <- weekdays(Sys.Date()) == "Montag" & as.numeric(format(Sys.time(),"%H")) == 6
 
-if (last_update == text_datum ||
-    monday_check != TRUE) {
+if (last_update != text_datum ||
+    monday_check == TRUE) {
 print("Aktuelle Daten gefunden")
 
 #Update Ranking Data
