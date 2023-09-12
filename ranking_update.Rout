@@ -102,10 +102,10 @@ $`moz:platformVersion`
 [1] "10.0"
 
 $`moz:processID`
-[1] 2216
+[1] 3216
 
 $`moz:profile`
-[1] "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileMGppaf"
+[1] "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebuk1gW"
 
 $`moz:shutdownTimeout`
 [1] 60000
@@ -146,10 +146,10 @@ $unhandledPromptBehavior
 [1] "dismiss and notify"
 
 $webdriver.remote.sessionid
-[1] "dc238c2c-8fe5-4560-a9bc-856bf742299d"
+[1] "85477630-4f83-4c4b-8520-3b33dcfb4ba1"
 
 $id
-[1] "dc238c2c-8fe5-4560-a9bc-856bf742299d"
+[1] "85477630-4f83-4c4b-8520-3b33dcfb4ba1"
 
 > remote_driver <- driver[["client"]]
 >   
@@ -173,12 +173,12 @@ $id
 > 
 > #Stop Geckodriver
 > try(system("taskkill /F /IM geckodriver.exe"))
-ERFOLGREICH: Der Prozess "geckodriver.exe" mit PID 4852 wurde beendet.
-[1] 0
+FEHLER: Der Prozess "geckodriver.exe" wurde nicht gefunden.
+[1] 128
 > 
 > #Stop Java-Process
 > try(system("taskkill /F /IM java.exe"))
-ERFOLGREICH: Der Prozess "java.exe" mit PID 1320 wurde beendet.
+ERFOLGREICH: Der Prozess "java.exe" mit PID 2724 wurde beendet.
 [1] 0
 > 
 > #Letztes Update laden
@@ -266,10 +266,10 @@ $`moz:platformVersion`
 [1] "10.0"
 
 $`moz:processID`
-[1] 4296
+[1] 5980
 
 $`moz:profile`
-[1] "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCkvbVV"
+[1] "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1e63RQ"
 
 $`moz:shutdownTimeout`
 [1] 60000
@@ -310,12 +310,12 @@ $unhandledPromptBehavior
 [1] "dismiss and notify"
 
 $webdriver.remote.sessionid
-[1] "0db24f10-0ce6-48d8-98ac-8077497c1b0d"
+[1] "7da489c6-7dc0-4a0a-9434-8419edbb41e4"
 
 $id
-[1] "0db24f10-0ce6-48d8-98ac-8077497c1b0d"
+[1] "7da489c6-7dc0-4a0a-9434-8419edbb41e4"
 
-ERFOLGREICH: Der Prozess "java.exe" mit PID 3632 wurde beendet.
+ERFOLGREICH: Der Prozess "java.exe" mit PID 5836 wurde beendet.
 New names:
 * `` -> `...1`
 * `` -> `...2`
@@ -3248,140 +3248,3 @@ New names:
                                                                                       text_datawrapper_season
 1 Cosmos: <b>0.167</b> (50%, out)<br>La Fiorita: <b>0.167</b> (50%, out)<br>Tre Penne: <b>0</b> (0%, out)<br>
 Joining, by = "club"
-[1] "New club owner data scraped"
-Already up to date.
-[master 264aa3a] commit from Rstudio
- 7 files changed, 3534 insertions(+), 328 deletions(-)
- create mode 100644 Old_data/2023-09-09_old_data_ranking_full.rdata
-To https://github.com/swissfootdata/UEFA_Rankings.git
-   405ffb8..264aa3a  master -> master
-[1] "New key was saved!"
-Data in VViWE successfully updated.
-
-Chart VViWE succesfully updated.
-
-Chart VViWE published!
-### Responsive iFrame-code: ###
-<iframe title="UEFA Country Ranking: Live Standings" aria-label="Table" id="datawrapper-chart-VViWE" src="https://datawrapper.dwcdn.net/VViWE/266/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1183" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-
-### Chart-URL:###
-https://datawrapper.dwcdn.net/VViWE/266/
-Data in awxBw successfully updated.
-
-Chart awxBw succesfully updated.
-
-Chart awxBw published!
-### Responsive iFrame-code: ###
-<iframe title="Uefa Country Ranking: The most successful teams in the current season" aria-label="Table" id="datawrapper-chart-awxBw" src="https://datawrapper.dwcdn.net/awxBw/207/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1585" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-
-### Chart-URL:###
-https://datawrapper.dwcdn.net/awxBw/207/
-Data in M08Ux successfully updated.
-
-Chart M08Ux succesfully updated.
-
-Chart M08Ux published!
-### Responsive iFrame-code: ###
-<iframe title="Uefa Country Ranking: Which teams contribute the most to the overall score in the current season? " aria-label="Split Bars" id="datawrapper-chart-M08Ux" src="https://datawrapper.dwcdn.net/M08Ux/205/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="7871" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-
-### Chart-URL:###
-https://datawrapper.dwcdn.net/M08Ux/205/
-Data in oSHCF successfully updated.
-
-Chart oSHCF succesfully updated.
-
-Chart oSHCF published!
-### Responsive iFrame-code: ###
-<iframe title="Power Map of International Club Football Season 22/23" aria-label="Map" id="datawrapper-chart-oSHCF" src="https://datawrapper.dwcdn.net/oSHCF/253/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="778" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-
-### Chart-URL:###
-https://datawrapper.dwcdn.net/oSHCF/253/
-Data in Oh2nr successfully updated.
-
-Chart Oh2nr succesfully updated.
-
-Chart Oh2nr published!
-### Responsive iFrame-code: ###
-<iframe title="Power Map of International Club Football Season 22/23: Teams Overview" aria-label="Map" id="datawrapper-chart-Oh2nr" src="https://datawrapper.dwcdn.net/Oh2nr/219/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="698" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-
-### Chart-URL:###
-https://datawrapper.dwcdn.net/Oh2nr/219/
-Data in v88MJ successfully updated.
-
-Chart v88MJ succesfully updated.
-
-Chart v88MJ published!
-### Responsive iFrame-code: ###
-<iframe title="Uefa Country Ranking: Which teams contribute the most to the overall score in the last 5 seasons?" aria-label="Split Bars" id="datawrapper-chart-v88MJ" src="https://datawrapper.dwcdn.net/v88MJ/234/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="12544" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-
-### Chart-URL:###
-https://datawrapper.dwcdn.net/v88MJ/234/
-Data in qw90m successfully updated.
-
-Chart qw90m succesfully updated.
-
-Chart qw90m published!
-### Responsive iFrame-code: ###
-<iframe title="Uefa Country Ranking: The most successful teams in the last five seasons" aria-label="Table" id="datawrapper-chart-qw90m" src="https://datawrapper.dwcdn.net/qw90m/235/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3046" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-
-### Chart-URL:###
-https://datawrapper.dwcdn.net/qw90m/235/
-Data in xFGfR successfully updated.
-
-Chart xFGfR succesfully updated.
-
-Chart xFGfR published!
-### Responsive iFrame-code: ###
-<iframe title="Power Map of International Club Football: Nations Overview" aria-label="Map" id="datawrapper-chart-xFGfR" src="https://datawrapper.dwcdn.net/xFGfR/237/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="778" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-
-### Chart-URL:###
-https://datawrapper.dwcdn.net/xFGfR/237/
-Data in zXf6G successfully updated.
-
-Chart zXf6G succesfully updated.
-
-Chart zXf6G published!
-### Responsive iFrame-code: ###
-<iframe title="Power Map of International Club Football: Teams Overview" aria-label="Map" id="datawrapper-chart-zXf6G" src="https://datawrapper.dwcdn.net/zXf6G/215/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="672" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-
-### Chart-URL:###
-https://datawrapper.dwcdn.net/zXf6G/215/
-Data in up5me successfully updated.
-
-Chart up5me succesfully updated.
-
-Chart up5me published!
-### Responsive iFrame-code: ###
-<iframe title="Uefa Country Ranking: The teams with the largest share of overall points in their country" aria-label="Table" id="datawrapper-chart-up5me" src="https://datawrapper.dwcdn.net/up5me/232/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="927" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-
-### Chart-URL:###
-https://datawrapper.dwcdn.net/up5me/232/
-Chart f8BVO succesfully updated.
-
-Chart f8BVO published!
-### Responsive iFrame-code: ###
-<iframe title="UEFA Country Ranking: Access List for Season 25/26" aria-label="Tabelle" id="datawrapper-chart-f8BVO" src="https://datawrapper.dwcdn.net/f8BVO/111/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2898" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-
-### Chart-URL:###
-https://datawrapper.dwcdn.net/f8BVO/111/
-FEHLER: Der Prozess "geckodriver.exe" wurde nicht gefunden.
-FEHLER: Der Prozess "java.exe" wurde nicht gefunden.
-[1] 128
-Warnmeldung:
-In read.table(file = file, header = header, sep = sep, quote = quote,  :
-  unvollstädige letzte Zeile von readTableHeader in 'C:/Users/Administrator/Desktop/Github_Token/token.txt' gefunden
-> 
-> proc.time()
-       User      System verstrichen 
-     222.18        2.92      672.76 

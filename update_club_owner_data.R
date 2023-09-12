@@ -45,6 +45,7 @@ current_points <- teams %>%
 #Get old data and add
 old_data <- read.csv("Output/club_owner_data.csv", encoding = "UTF-8")
 old_data$date <- as.Date(old_data$date)
+colnames(old_data)[1] <- "id"
 all_points <- rbind(current_points,old_data)
 
 #Save data
@@ -72,8 +73,6 @@ current_points <- current_points %>%
 owner_data <- read_xlsx("./Data/owner_data.xlsx")
 owner_data$overall_value_text <- paste0(owner_data$value_overall," Mio. €")
 owner_data$full_name <- paste0(owner_data$first_name," ",owner_data$last_name)
-
-
 
 owner_data_overview <- data.frame("player_id","Owner",0,0,0,0,
                                   "Money Spent","Motto","Twitter","Favorite Club")
