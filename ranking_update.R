@@ -61,12 +61,21 @@ print("Aktuelle Daten gefunden")
 
 #Update Ranking Data
 source("ranking_scraping.R",encoding = "UTF-8")
+  
+#Stop Geckodriver
+try(system("taskkill /F /IM geckodriver.exe"))
+  
+#Stop Java-Process
+try(system("taskkill /F /IM java.exe"))  
 
 #Update Team Data
 source("ranking_teams_scraping.R",encoding = "UTF-8")
 
 #Update Maps
 source("create_maps.R",encoding = "UTF-8")
+  
+#Update Datawrapper
+source("update_datawrapper.R",encoding = "UTF-8")
   
 #Update Club Owner Data
 source("update_club_owner_data.R",encoding = "UTF-8")
@@ -84,15 +93,6 @@ gitpull()
 gitadd()
 gitcommit()
 gitpush()
-
-#Update Datawrapper
-source("update_datawrapper.R",encoding = "UTF-8")
-
-#Stop Geckodriver
-try(system("taskkill /F /IM geckodriver.exe"))
-
-#Stop Java-Process
-try(system("taskkill /F /IM java.exe"))
 
 } else {
 print("Noch keine aktuellen Daten gefunden")  
