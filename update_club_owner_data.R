@@ -24,19 +24,27 @@ repeat {
   if (length(team_points) < 10) {
     break
   }
-  
 }
-
 
 current_points <- current_points[-1,]
 current_points$team <- gsub("Glasgow Rangers","Rangers",current_points$team)
 current_points$team <- gsub("Servette FC Genève","Servette FC",current_points$team)
 
+#Team in or out
+status <- webpage %>%
+  html_nodes("td") %>%
+  html_attr("class")%>%
+  na.omit()
+
+status <- status[seq(1,length(status),2)]
+status <- ifelse(status == "aleft blue","&#x2714;&#xFE0F;","&#x274C;")
+
 current_points <- current_points %>%
   mutate(match_points = as.numeric(match_points),
          bonus_points = as.numeric(bonus_points),
          points_overall = match_points+bonus_points,
-         date = Sys.Date())
+         date = Sys.Date(),
+         status = status)
 
 #Merge with team data
 current_points <- teams %>%
@@ -71,13 +79,12 @@ current_points <- current_points %>%
 
 #Get Owner Data
 owner_data <- read_xlsx("./Data/owner_data.xlsx")
-owner_data$overall_value_text <- paste0(owner_data$value_overall," Mio. €")
 owner_data$full_name <- paste0(owner_data$first_name," ",owner_data$last_name)
 
 owner_data_overview <- data.frame("player_id","Owner",0,0,0,0,
-                                  "Money Spent","Motto","Twitter","Favorite Club")
+                                  0,"Motto","Twitter","Favorite Club")
 colnames(owner_data_overview) <- c("player_id","Owner","Points Overall","Match Points","Bonus Points","Points Gained This Week",
-                                   "Money Spent","Motto","Twitter","Favorite Club")
+                                   "Money Spent in Mio. €","Motto","Twitter","Favorite Club")
 for (o in 1:nrow(owner_data)) {
   owner_portfolio <- current_points %>%
     filter(current_points$id == owner_data$team1_id[o] |
@@ -97,12 +104,12 @@ for (o in 1:nrow(owner_data)) {
                           sum(owner_portfolio$match_points),
                           sum(owner_portfolio$bonus_points),
                           sum(owner_portfolio$gain_points_overall),
-                          owner_data$overall_value_text[o],
+                          owner_data$value_overall[o],
                           owner_data$motto[o],
                           owner_data$twitter[o],
                           owner_data$favorite_club[o])
   colnames(new_entry) <- c("player_id","Owner","Points Overall","Match Points","Bonus Points","Points Gained This Week",
-                           "Money Spent","Motto","Twitter","Favorite Club")
+                           "Money Spent in Mio. €","Motto","Twitter","Favorite Club")
   
   owner_data_overview <- rbind(owner_data_overview,new_entry)
 }    
@@ -111,7 +118,7 @@ owner_data_overview <- owner_data_overview[-1,]
 
 owner_data_overview <- owner_data_overview %>%
   arrange(desc(`Points Overall`),
-          `Money Spent`,
+          `Money Spent in Mio. €`,
           Owner) %>%
   mutate(`Points Overall` = paste0("<b>",`Points Overall`,"</b>"))
 
@@ -124,7 +131,8 @@ success_clubs <- current_points %>%
          nation,
          match_points,
          bonus_points,
-         points_overall) %>%
+         points_overall,
+         status) %>%
   arrange(desc(points_overall),
           club) %>%
   mutate(points_overall = paste0("<b>",points_overall,"</b>"))
@@ -138,7 +146,8 @@ efficiency_clubs <- current_points %>%
          nation,
          value_table,
          points_overall,
-         mio_per_point) %>%
+         mio_per_point,
+         status) %>%
   arrange(desc(mio_per_point),
           value_table) %>%
   mutate(mio_per_point = paste0("<b>",mio_per_point,"</b>"))
