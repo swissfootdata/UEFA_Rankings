@@ -158,4 +158,6 @@ efficiency_clubs <- current_points %>%
 
 write.csv(efficiency_clubs, "Output/efficiency_clubs.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
+cat(toString(Sys.time()),file="Output/last_update.txt")
+
 print("New club owner data scraped")
