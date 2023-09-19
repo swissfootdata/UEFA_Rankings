@@ -54,11 +54,11 @@ current_points <- teams %>%
 old_data <- read.csv("Output/club_owner_data.csv", encoding = "UTF-8")
 old_data$date <- as.Date(old_data$date)
 colnames(old_data)[1] <- "id"
-all_points <- rbind(current_points,old_data)
 
-all_points <- all_points %>%
-  filter(date < Sys.Date()-3 |
-           date == Sys.Date())
+old_data <- old_data %>%
+  filter(date < Sys.Date()-3)
+
+all_points <- rbind(current_points,old_data)
 
 #Save data
 write.csv(all_points,"Output/club_owner_data.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
