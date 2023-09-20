@@ -1,852 +1,928 @@
 "player_id","Owner","Points Overall","Match Points","Bonus Points","Points Gained This Week","Money Spent in Mio. €","Motto","Twitter","Favorite Club"
-"778","Oguzhan Arslan","<b>34</b>",2,32,2,1145.79,,"@",
-"933","Alex Baynham","<b>29</b>",5,24,5,1980.83,,"@AlexBaynham","Norwich City"
-"836","Gordon Morrison","<b>28</b>",4,24,4,1927.58,"No Surrender","@bouncy_bouncy","Rangers"
-"473","Silas Wieland","<b>28</b>",4,24,4,1997.55,,"@","Swansea"
-"643","Pascal Utz","<b>27</b>",3,24,3,1993.01,,"@",
-"801","Chris -","<b>26</b>",2,24,2,1930.84,"Win is Win","@","FC Basel"
-"254","Ruben Schönenberger","<b>26</b>",2,24,2,1994.58,,"@rubensch",
-"663","Grant Mackie","<b>26</b>",6,20,6,1995.76,,"@grantm_09","Hibernian"
+"778","Oguzhan Arslan","<b>37</b>",5,32,5,1145.79,,"@",
+"801","Chris -","<b>30</b>",6,24,6,1930.84,"Win is Win","@","FC Basel"
+"933","Alex Baynham","<b>30</b>",6,24,6,1980.83,,"@AlexBaynham","Norwich City"
+"254","Ruben Schönenberger","<b>30</b>",6,24,6,1994.58,,"@rubensch",
+"473","Silas Wieland","<b>30</b>",6,24,6,1997.55,,"@","Swansea"
+"240","Nick B.","<b>30</b>",6,24,6,1998.45,,"@",
+"836","Gordon Morrison","<b>29</b>",5,24,5,1927.58,"No Surrender","@bouncy_bouncy","Rangers"
+"643","Pascal Utz","<b>29</b>",5,24,5,1993.01,,"@",
+"136","Romain Gonon","<b>28</b>",8,20,8,1890.13,"Auuu Nooooord","@","RC Lens"
+"299","Tony Buzka","<b>28</b>",4,24,4,1935.95,,"@",
+"839","Lipz Fisher","<b>28</b>",4,24,4,1994.98,,"@LipzBE_",
+"711","David Brunner","<b>27</b>",3,24,3,1624.27,,"@",
+"663","Grant Mackie","<b>27</b>",7,20,7,1995.76,,"@grantm_09","Hibernian"
+"11","Martin Imobersteg","<b>27</b>",7,20,7,1997.84,"Make money not friends",,"YB"
+"96","Lucas Araujo","<b>27</b>",7,20,7,1999.79,,"@lukinho_17",
+"950","Ross McManus","<b>26</b>",6,20,6,1826.93,,"@",
 "94","Adam Hasenfratz","<b>26</b>",2,24,2,1997.85,,"@",
-"240","Nick B.","<b>26</b>",2,24,2,1998.45,,"@",
-"711","David Brunner","<b>24</b>",0,24,0,1624.27,,"@",
-"136","Romain Gonon","<b>24</b>",4,20,4,1890.13,"Auuu Nooooord","@","RC Lens"
-"299","Tony Buzka","<b>24</b>",0,24,0,1935.95,,"@",
-"808","Belgian Football Stats","<b>24</b>",4,20,4,1980.13,"In Belgium We Trust","@belfootstats",
-"158","Chris Scott","<b>24</b>",4,20,4,1988.21,,"@christtocs",
-"839","Lipz Fisher","<b>24</b>",0,24,0,1994.98,,"@LipzBE_",
-"11","Martin Imobersteg","<b>24</b>",4,20,4,1997.84,"Make money not friends",,"YB"
-"1027","Antoine Linard","<b>24</b>",4,20,4,1998.82,,"@antlinard",
-"916","Pavel Domnicev","<b>24</b>",4,20,4,1999.47,"Praha je...","Tchevp@","Slavia Praha"
-"950","Ross McManus","<b>23</b>",3,20,3,1826.93,,"@",
-"500","Adil Demir","<b>23</b>",3,20,3,1966.23,"KEEP FIGHTING","@FANGSLI1905","GALATASARAY"
-"890","Joren Froyen","<b>23</b>",3,20,3,1992.75,"Clubs I like + Club Brugge","@jorenfroyen","Genk"
-"369","Szymon Korytnicki","<b>23</b>",3,20,3,1999.03,,,
-"27","Pol Qat","<b>22</b>",2,20,2,1973.25,"Football is Freedom","@polqat","Servette FC"
-"906","Lukasz Bozykowski","<b>22</b>",2,20,2,1977.71,,"@LukaszBoz","Pogon Szczecin"
-"1045","Aaron Hoff","<b>22</b>",2,20,2,1986.01,,"@","FC St. Pauli"
+"1027","Antoine Linard","<b>26</b>",6,20,6,1998.82,,"@antlinard",
+"277","Kubas Kuba","<b>26</b>",6,20,6,1998.91,,"@",
+"544","Danu J","<b>26</b>",6,20,6,1999.33,,"@danuel1980",
+"500","Adil Demir","<b>25</b>",5,20,5,1966.23,"KEEP FIGHTING","@FANGSLI1905","GALATASARAY"
+"710","Müller Christian","<b>25</b>",5,20,5,1969.09,,"@",
+"808","Belgian Football Stats","<b>25</b>",5,20,5,1980.13,"In Belgium We Trust","@belfootstats",
+"158","Chris Scott","<b>25</b>",5,20,5,1988.21,,"@christtocs",
+"542","Ivan Zoni","<b>25</b>",5,20,5,1998,,"@","Servette"
+"369","Szymon Korytnicki","<b>25</b>",5,20,5,1999.03,,,
+"916","Pavel Domnicev","<b>25</b>",5,20,5,1999.47,"Praha je...","Tchevp@","Slavia Praha"
+"651","rene kainz","<b>24</b>",4,20,4,1901.25,,"@",
+"564","Christian Rüfenacht","<b>24</b>",4,20,4,1934.69,,"@","BSC YB"
+"922","Daniel Kuzma","<b>24</b>",8,16,8,1951.16,,"@",
+"505","Max Trummer","<b>24</b>",8,16,8,1970.94,"I am that is","@trummerMax","Sturm Graz"
+"27","Pol Qat","<b>24</b>",4,20,4,1973.25,"Football is Freedom","@polqat","Servette FC"
+"906","Lukasz Bozykowski","<b>24</b>",4,20,4,1977.71,,"@LukaszBoz","Pogon Szczecin"
+"907","Aleš Viktor Capek","<b>24</b>",4,20,4,1980.66,,"@",
+"890","Joren Froyen","<b>24</b>",4,20,4,1992.75,"Clubs I like + Club Brugge","@jorenfroyen","Genk"
+"238","Elif Sarigoz Kutuk","<b>24</b>",4,20,4,1995.1,"We are the best, forget the rest!","@","Atletico Madrid"
+"558","Nik Rohrer","<b>24</b>",4,20,4,1997.34,,"@",
+"407","Rochus Zopp","<b>24</b>",4,20,4,1997.36,,"@DaRocco",
+"41","Fabien P.","<b>24</b>",4,20,4,1999.46,,"@FabGroundhopper",
+"1","Swiss Football Data","<b>23</b>",3,20,3,1950.66,"Data analysis for the win!","@swissfootdata",
+"545","Fabio Macca","<b>23</b>",7,16,7,1983.36,"one point more is better than one point less","@",
+"964","Karol Krakowiak","<b>23</b>",7,16,7,1983.48,,"@iamkrakowiak",
+"1045","Aaron Hoff","<b>23</b>",3,20,3,1986.01,,"@","FC St. Pauli"
+"303","Kuba G","<b>23</b>",3,20,3,1995.03,,"@",
+"356","Krzysztof Barticzka","<b>23</b>",7,16,7,1999.13,,"@KBarticzka","MKS Pogon Szczecin"
+"760","Renato Fuchs","<b>23</b>",3,20,3,1999.73,"Win","@","Fc Basel"
+"693","Emrello Mamarcelli","<b>22</b>",6,16,6,1911.22,,"@",
+"915","Paul Harrison","<b>22</b>",6,16,6,1970.68,,"@","Servette"
+"879","Adam Maciejewski","<b>22</b>",6,16,6,1978.04,,"@Adam91pl","Lech Poznan"
+"635","Paul Preston","<b>22</b>",6,16,6,1984.98,,"@MrQuizWorthing","Preston North End"
+"257","Jean Thomas","<b>22</b>",6,16,6,1985.92,,"@",
+"668","Zak Meyer","<b>22</b>",2,20,2,1990.58,"Swiss football to the moon","@zmazebowl","Liverpool FC"
+"623","Thomas Deuringer","<b>22</b>",2,20,2,1990.95,"nid für de Lohn, fürd Region","@","FC Basel"
 "732","Wout Meeuwssen","<b>22</b>",2,20,2,1995.63,"Chasse Puree","@","LIverpool"
-"558","Nik Rohrer","<b>22</b>",2,20,2,1997.34,,"@",
-"407","Rochus Zopp","<b>22</b>",2,20,2,1997.36,,"@DaRocco",
-"277","Kubas Kuba","<b>22</b>",2,20,2,1998.91,,"@",
-"544","Danu J","<b>22</b>",2,20,2,1999.33,,"@danuel1980",
-"96","Lucas Araujo","<b>22</b>",2,20,2,1999.79,,"@lukinho_17",
-"651","rene kainz","<b>21</b>",1,20,1,1901.25,,"@",
-"564","Christian Rüfenacht","<b>21</b>",1,20,1,1934.69,,"@","BSC YB"
-"710","Müller Christian","<b>21</b>",1,20,1,1969.09,,"@",
-"879","Adam Maciejewski","<b>21</b>",5,16,5,1978.04,,"@Adam91pl","Lech Poznan"
-"907","Aleš Viktor Capek","<b>21</b>",1,20,1,1980.66,,"@",
-"964","Karol Krakowiak","<b>21</b>",5,16,5,1983.48,,"@iamkrakowiak",
-"303","Kuba G","<b>21</b>",1,20,1,1995.03,,"@",
-"238","Elif Sarigoz Kutuk","<b>21</b>",1,20,1,1995.1,"We are the best, forget the rest!","@","Atletico Madrid"
-"720","Patrick Dodane","<b>21</b>",1,20,1,1997.81,,"@",
+"185","Thom Kiener","<b>22</b>",2,20,2,1995.85,,"@","BSC YB"
+"694","Amit Levy","<b>22</b>",6,16,6,1997.43,,"@amitlevy30","Hapoel Beer Sheva"
+"720","Patrick Dodane","<b>22</b>",2,20,2,1997.81,,"@",
+"63","Ruben Soetewey","<b>22</b>",2,20,2,1998.53,,"@Nebur340","RC Lens"
+"1075","yann sokamessou","<b>21</b>",5,16,5,1789.03,,"@jayannfaceb",
+"522","Anna Konovalova","<b>21</b>",5,16,5,1824.12,,"@iamanch",
+"340","Krzysztof Silka","<b>21</b>",5,16,5,1990.61,,"@SiKrzysztof","Wisla Kraków"
+"69","André Ferreira","<b>21</b>",5,16,5,1992.1,,"@branco_marega","FC Porto"
+"617","Michael Renaudin","<b>21</b>",5,16,5,1992.79,,,
+"688","Milos Andjelic","<b>21</b>",5,16,5,1996.28,"Never in doubt","@AndjelicM","Crvena zvezda"
+"781","Noel Ritschard","<b>21</b>",5,16,5,1997.54,"umeee","@","FCZ"
+"74","Luc van der Veen","<b>21</b>",5,16,5,1998.05,,"@","Manchester United"
+"601","Lukas Weber","<b>21</b>",5,16,5,1999.29,,"@",
+"577","saban gençtürk","<b>21</b>",1,20,1,1999.52,,"@",
 "744","Mehmet Ali Kütük","<b>21</b>",5,16,5,2000,"To dare is to do","@","Fenerbahce"
-"1075","yann sokamessou","<b>20</b>",4,16,4,1789.03,,"@jayannfaceb",
-"1","Swiss Football Data","<b>20</b>",0,20,0,1950.66,"Data analysis for the win!","@swissfootdata",
-"922","Daniel Kuzma","<b>20</b>",4,16,4,1951.16,,"@",
+"390","Kuba Jot","<b>20</b>",4,16,4,1784.26,,"@qbicaa",
+"661","Tommy Massie","<b>20</b>",4,16,4,1842.86,,"@mt1903_","Aberdeen"
+"302","Konrad Kubon","<b>20</b>",4,16,4,1858.78,,"@biedrona1404",
+"650","Andelo Roguljic","<b>20</b>",8,12,8,1899.1,,"@andjelo1207",
+"733","Camille Hoover","<b>20</b>",4,16,4,1956.29,"Navigating the toxic maze","@DrogieSR","GCZ"
 "61","Ward Dobbelaere","<b>20</b>",4,16,4,1957.89,,"@",
+"58","Aaron Wark","<b>20</b>",4,16,4,1958.83,,"@warkymuse","rangers"
 "379","Seb Bieganski","<b>20</b>",4,16,4,1961.18,,"@sebbolla","Lech Poznan"
-"505","Max Trummer","<b>20</b>",4,16,4,1970.94,"I am that is","@trummerMax","Sturm Graz"
-"545","Fabio Macca","<b>20</b>",4,16,4,1983.36,"one point more is better than one point less","@",
+"21","AxpoSL YoungBoy","<b>20</b>",4,16,4,1963.13,,"@AxpoSLYoungBoy",
+"762","Juan Benjumea","<b>20</b>",8,12,8,1967.76,,"@_juanbenjumea","USG & Betis"
+"686","Quinn Preston","<b>20</b>",4,16,4,1976.98,,"@","Manchester United"
+"536","Karol Rybaczuk","<b>20</b>",4,16,4,1978.75,"Old Firms and a pinch of Moneyball","@k_rybaczuk","FC Barcelona"
+"59","Andrew Willimott","<b>20</b>",4,16,4,1983.54,,"@",
 "491","Luca Maranzano","<b>20</b>",4,16,4,1987.73,,"@","AC Milan"
-"668","Zak Meyer","<b>20</b>",0,20,0,1990.58,"Swiss football to the moon","@zmazebowl","Liverpool FC"
-"623","Thomas Deuringer","<b>20</b>",0,20,0,1990.95,"nid für de Lohn, fürd Region","@","FC Basel"
-"617","Michael Renaudin","<b>20</b>",4,16,4,1992.79,,,
-"185","Thom Kiener","<b>20</b>",0,20,0,1995.85,,"@","BSC YB"
+"404","Beni Nordmann","<b>20</b>",4,16,4,1987.87,,"@","FC Basel"
+"430","Benjamin Weber","<b>20</b>",4,16,4,1991.93,"Buy expensive, sell cheap","@benni_weber_s04","Schalke 04"
+"457","Bas Vos","<b>20</b>",4,16,4,1994.81,"No words but deeds","@Bas1411","Feyenoord"
+"1008","Zelislaw Zyzynski","<b>20</b>",4,16,4,1995.98,"Have fun!","@ZelekZyzynski",
+"893","Harud Harthmuth","<b>20</b>",4,16,4,1996.34,,"@",
 "917","Thomas Moschig","<b>20</b>",4,16,4,1997.41,,,
-"781","Noel Ritschard","<b>20</b>",4,16,4,1997.54,"umeee","@","FCZ"
-"542","Ivan Zoni","<b>20</b>",0,20,0,1998,,"@","Servette"
-"63","Ruben Soetewey","<b>20</b>",0,20,0,1998.53,,"@Nebur340","RC Lens"
-"356","Krzysztof Barticzka","<b>20</b>",4,16,4,1999.13,,"@KBarticzka","MKS Pogon Szczecin"
+"723","M Ku","<b>20</b>",4,16,4,1997.69,,"@",
+"939","Bartosz Pilarczyk","<b>20</b>",4,16,4,1997.84,,"@bartez1993","Legia Warsaw"
+"962","Dave Fegan","<b>20</b>",4,16,4,1998.28,"Glasgowsfinest","@dfegan6","Celtic"
+"181","Bastien Mangeat","<b>20</b>",4,16,4,1998.44,,"@bmangeat","Servette"
 "376","Maria Ts","<b>20</b>",4,16,4,1999.42,"bravery and stupidity","@bestie_mensch","FC Basel"
-"41","Fabien P.","<b>20</b>",0,20,0,1999.46,,"@FabGroundhopper",
-"577","saban gençtürk","<b>20</b>",0,20,0,1999.52,,"@",
-"760","Renato Fuchs","<b>20</b>",0,20,0,1999.73,"Win","@","Fc Basel"
+"370","Tomasz Lorens","<b>20</b>",4,16,4,1999.5,"Business is business","@","Fc Barcelona"
+"1081","Adrien Personne","<b>20</b>",4,16,4,1999.88,"SchnappiChenapan",,"1. FC Köln"
+"610","Michael Hai","<b>19</b>",3,16,3,1481,,"@Michaelhai9","Macabi haifa"
+"1039","Target: LAST","<b>19</b>",3,16,3,1810.48,"First from the bottom!","@Nomolso_N_Djer","Z Basel, z Basel, z Basel a mym rhyy"
+"167","Adam Sankowski","<b>19</b>",3,16,3,1853.29,"Take what you can, give nothing back.","@adsun22","BSC Young Boys"
+"752","Eliot Zeka","<b>19</b>",3,16,3,1898.04,,"@KSV1890","Servette FC"
+"197","Oscar Kjær Petersen","<b>19</b>",3,16,3,1941.06,,"@","Tottenham"
+"150","Sylvain Habegger","<b>19</b>",3,16,3,1945.43,,"@peau2chef","Neuchâtel Xamax"
 "983","Robert Banburski","<b>19</b>",3,16,3,1947.95,,"@",
-"536","Karol Rybaczuk","<b>19</b>",3,16,3,1978.75,"Old Firms and a pinch of Moneyball","@k_rybaczuk","FC Barcelona"
-"688","Milos Andjelic","<b>19</b>",3,16,3,1996.28,"Never in doubt","@AndjelicM","Crvena zvezda"
+"874","Bartosz Krupnik","<b>19</b>",3,16,3,1952.09,"Po to Bozia dala oczy, zeby robic na oko.","@ZaH001","Wisla Kraków"
+"954","Jack Vamplew","<b>19</b>",7,12,7,1952.93,,"@FPL_Kid",
+"614","Fili .","<b>19</b>",3,16,3,1961.67,,"@",
+"600","Mads Leirvik","<b>19</b>",3,16,3,1963.78,,"@leirviking","Viking FK"
+"512","Marco Tastutan","<b>19</b>",3,16,3,1976.13,,"@",
+"813","Bjarne Planckaert","<b>19</b>",3,16,3,1978.85,,"@","Club Brugge"
+"831","Bert Stoks","<b>19</b>",3,16,3,1981.71,,"@",
+"328","Alan D'Arcy","<b>19</b>",3,16,3,1984.84,,"@weeweegie","Rangers"
+"38","Simon R","<b>19</b>",3,16,3,1986.96,,"@",
+"386","Dro Ne","<b>19</b>",3,16,3,1989.83,,"@",
+"389","Przemyslaw Pek","<b>19</b>",3,16,3,1991.19,,"@",
+"9","Andri Parravicin","<b>19</b>",7,12,7,1994.32,,"@_droide_",
+"30","Stephane Combe","<b>19</b>",3,16,3,1994.83,,"@Stephane_Combe",
+"176","Jonas Bracher","<b>19</b>",3,16,3,1995.6,,"@brachjon",
+"177","Marco Burkolter","<b>19</b>",3,16,3,1995.95,,"@Lpresidente_","Fc Basel"
 "281","Jakub T.","<b>19</b>",3,16,3,1997.06,"yolo","@JakubKunanh","Widzew Lódz"
-"694","Amit Levy","<b>19</b>",3,16,3,1997.43,,"@amitlevy30","Hapoel Beer Sheva"
-"74","Luc van der Veen","<b>19</b>",3,16,3,1998.05,,"@","Manchester United"
+"572","Dominik Thurnherr","<b>19</b>",3,16,3,1998.31,,"@",
+"594","Nathan Campbell","<b>19</b>",3,16,3,1998.86,"Aye Ready",,"Rangers"
+"552","Ursula Wyss","<b>19</b>",3,16,3,1999.52,"Forever hopeful","@","Young Boys"
+"367","David Amstutz","<b>19</b>",3,16,3,1999.59,,"@",
+"702","J F","<b>19</b>",3,16,3,1999.78,"Geh nie denselben Weg wie andere! Außer du bist in einem dunklen Wald, hast dich verlaufen und weißt nicht wo es lang geht","@","FC St.Gallen"
 "526","Lucien Roger","<b>18</b>",2,16,2,988.12,,"@",
-"390","Kuba Jot","<b>18</b>",2,16,2,1784.26,,"@qbicaa",
+"827","Mieszko Pugowski","<b>18</b>",2,16,2,1212.31,"One more game and I close the FM","@AustriackaPilka",
 "144","Chris Raza","<b>18</b>",2,16,2,1830.3,,"@",
-"661","Tommy Massie","<b>18</b>",2,16,2,1842.86,,"@mt1903_","Aberdeen"
-"693","Emrello Mamarcelli","<b>18</b>",2,16,2,1911.22,,"@",
-"150","Sylvain Habegger","<b>18</b>",2,16,2,1945.43,,"@peau2chef","Neuchâtel Xamax"
-"874","Bartosz Krupnik","<b>18</b>",2,16,2,1952.09,"Po to Bozia dala oczy, zeby robic na oko.","@ZaH001","Wisla Kraków"
-"733","Camille Hoover","<b>18</b>",2,16,2,1956.29,"Navigating the toxic maze","@DrogieSR","GCZ"
-"21","AxpoSL YoungBoy","<b>18</b>",2,16,2,1963.13,,"@AxpoSLYoungBoy",
-"762","Juan Benjumea","<b>18</b>",6,12,6,1967.76,,"@_juanbenjumea","USG & Betis"
-"915","Paul Harrison","<b>18</b>",2,16,2,1970.68,,"@","Servette"
-"512","Marco Tastutan","<b>18</b>",2,16,2,1976.13,,"@",
-"686","Quinn Preston","<b>18</b>",2,16,2,1976.98,,"@","Manchester United"
-"831","Bert Stoks","<b>18</b>",2,16,2,1981.71,,"@",
-"328","Alan D'Arcy","<b>18</b>",2,16,2,1984.84,,"@weeweegie","Rangers"
-"257","Jean Thomas","<b>18</b>",2,16,2,1985.92,,"@",
-"38","Simon R","<b>18</b>",2,16,2,1986.96,,"@",
-"404","Beni Nordmann","<b>18</b>",2,16,2,1987.87,,"@","FC Basel"
-"69","André Ferreira","<b>18</b>",2,16,2,1992.1,,"@branco_marega","FC Porto"
+"1073","Gregory Missinne","<b>18</b>",6,12,6,1888.81,"Bluvn Goan","@","Club Brugge"
+"525","d b","<b>18</b>",2,16,2,1929.46,,"@",
+"742","Moritz Loosli","<b>18</b>",2,16,2,1933.68,,"@LoosliMoritz","Bscyb"
+"1017","Tuna Utku Vatansever","<b>18</b>",2,16,2,1936.09,,"@",
+"659","Hayden Macdonald","<b>18</b>",6,12,6,1945.03,"No Surrender","@HMM_1872","Rangers FC"
+"489","Tajemniczy Ktos","<b>18</b>",6,12,6,1947.09,"('-_-')","@","Stella Lubon"
+"7","Aki Kaurismäki","<b>18</b>",6,12,6,1950.83,,"@sinameki91","Trabzonspor"
+"81","Evan Greer","<b>18</b>",6,12,6,1954.86,,"@","Rangers"
+"184","Bartosch Raphael","<b>18</b>",2,16,2,1971.34,"Fight and win","@Bande55_","Fc Basel 1893"
+"947","Thibault Wuersch","<b>18</b>",2,16,2,1975.61,,"@RandomEpicName",
+"244","simon wandeler","<b>18</b>",2,16,2,1982.8,,"@",
+"334","Sevtin Yumer","<b>18</b>",6,12,6,1986.71,"Win it all","@seyfettinselcuk","Fenerbahce"
+"886","Tadeusz Gontar","<b>18</b>",6,12,6,1992.23,,"@","Legia"
 "246","Rob Martens","<b>18</b>",2,16,2,1993.14,,"@RobMartens_","PSV"
-"457","Bas Vos","<b>18</b>",2,16,2,1994.81,"No words but deeds","@Bas1411","Feyenoord"
-"177","Marco Burkolter","<b>18</b>",2,16,2,1995.95,,"@Lpresidente_","Fc Basel"
-"1008","Zelislaw Zyzynski","<b>18</b>",2,16,2,1995.98,"Have fun!","@ZelekZyzynski",
-"723","M Ku","<b>18</b>",2,16,2,1997.69,,"@",
-"939","Bartosz Pilarczyk","<b>18</b>",2,16,2,1997.84,,"@bartez1993","Legia Warsaw"
-"181","Bastien Mangeat","<b>18</b>",2,16,2,1998.44,,"@bmangeat","Servette"
-"601","Lukas Weber","<b>18</b>",2,16,2,1999.29,,"@",
-"702","J F","<b>18</b>",2,16,2,1999.78,"Geh nie denselben Weg wie andere! Außer du bist in einem dunklen Wald, hast dich verlaufen und weißt nicht wo es lang geht","@","FC St.Gallen"
-"1081","Adrien Personne","<b>18</b>",2,16,2,1999.88,"SchnappiChenapan",,"1. FC Köln"
-"610","Michael Hai","<b>17</b>",1,16,1,1481,,"@Michaelhai9","Macabi haifa"
-"302","Konrad Kubon","<b>17</b>",1,16,1,1858.78,,"@biedrona1404",
-"197","Oscar Kjær Petersen","<b>17</b>",1,16,1,1941.06,,"@","Tottenham"
+"382","Yunus Emre Bagiban","<b>18</b>",2,16,2,1993.94,"Rags to Riches","@yunusemrebgbn","Galatasaray"
+"97","David Meili","<b>18</b>",2,16,2,1994.29,,"@Tired_Robot","FC Basel"
+"869","Robert Gotthardt","<b>18</b>",6,12,6,1994.38,"Auf die Schwoazn","@","SK Sturm Graz"
+"24","Mathias Kainz","<b>18</b>",6,12,6,1999.43,"Wer zahlt, schafft an!","@MathiasKainz","Austria Klagenfurt"
+"1060","Rani El Hassan","<b>18</b>",6,12,6,1999.55,,"@cmpaso",
+"680","Huseyn Musayev","<b>17</b>",5,12,5,1873.89,,"@","Qarabag FC"
+"575","Lucas Rey","<b>17</b>",5,12,5,1895.46,,"@BicolasNurdisso","FC Printse-Nendaz"
+"374","Michal Pomiecinski","<b>17</b>",5,12,5,1915.09,"For the win","@wosinw","Bayern"
 "305","Mat W","<b>17</b>",1,16,1,1957.78,,"@DWMati","RB Leipzig"
-"58","Aaron Wark","<b>17</b>",1,16,1,1958.83,,"@warkymuse","rangers"
-"614","Fili .","<b>17</b>",1,16,1,1961.67,,"@",
-"184","Bartosch Raphael","<b>17</b>",1,16,1,1971.34,"Fight and win","@Bande55_","Fc Basel 1893"
+"175","Mister Laudrup","<b>17</b>",5,12,5,1958.51,,"@",
+"703","Pascal Steiger","<b>17</b>",1,16,1,1958.74,,"@",
 "1067","Rob Kedge","<b>17</b>",5,12,5,1972.18,,"@RobKedge","Arsenal"
+"8","Livio Beerli","<b>17</b>",5,12,5,1973.78,,"@LAR_Livz","GC"
 "143","Adam Robertson","<b>17</b>",1,16,1,1978.59,"No Surrender","@atrobbo","Rangers"
-"813","Bjarne Planckaert","<b>17</b>",1,16,1,1978.85,,"@","Club Brugge"
-"244","simon wandeler","<b>17</b>",1,16,1,1982.8,,"@",
-"59","Andrew Willimott","<b>17</b>",1,16,1,1983.54,,"@",
-"635","Paul Preston","<b>17</b>",1,16,1,1984.98,,"@MrQuizWorthing","Preston North End"
-"30","Stephane Combe","<b>17</b>",1,16,1,1994.83,,"@Stephane_Combe",
-"962","Dave Fegan","<b>17</b>",1,16,1,1998.28,"Glasgowsfinest","@dfegan6","Celtic"
-"572","Dominik Thurnherr","<b>17</b>",1,16,1,1998.31,,"@",
-"827","Mieszko Pugowski","<b>16</b>",0,16,0,1212.31,"One more game and I close the FM","@AustriackaPilka",
-"1039","Target: LAST","<b>16</b>",0,16,0,1810.48,"First from the bottom!","@Nomolso_N_Djer","Z Basel, z Basel, z Basel a mym rhyy"
-"522","Anna Konovalova","<b>16</b>",0,16,0,1824.12,,"@iamanch",
-"167","Adam Sankowski","<b>16</b>",0,16,0,1853.29,"Take what you can, give nothing back.","@adsun22","BSC Young Boys"
-"752","Eliot Zeka","<b>16</b>",0,16,0,1898.04,,"@KSV1890","Servette FC"
+"425","Melvin Wåhlén","<b>17</b>",5,12,5,1984,"victoria amat curam","@MelvinW05","Liverpool FC, Degerfors IF"
+"108","Mikkel Skouborg","<b>17</b>",5,12,5,1984.33,"You miss all the shots you don't take.","@skouborg","FC København"
+"269","Luc Burger","<b>17</b>",1,16,1,1986.94,,"@",
+"794","Emir Ildiz","<b>17</b>",5,12,5,1990.61,"La Vittoria Sara Nostra","@bittyband","Besiktas"
+"1061","jeremy wood","<b>17</b>",5,12,5,1991.54,,"@woodjere","aberdeen"
+"967","mehmet emin mutlu","<b>17</b>",5,12,5,1992.19,,"@m_eminmutlu","Trabzonspor"
+"204","Imso Dns","<b>17</b>",5,12,5,1993.01,"Y'a pas plus fort","@imsodns","LS"
+"701","Patrick Dell'Oca","<b>17</b>",5,12,5,1995.78,,"@",
+"645","Abbie Young","<b>17</b>",5,12,5,1997.38,,"@",
+"222","Onur Bartik","<b>17</b>",5,12,5,1998.33,,,"Fenerbahçe"
+"714","Michael Christen","<b>17</b>",5,12,5,1999.27,,"@",
+"818","Chris L","<b>16</b>",4,12,4,1398.45,"It is what it is","@JetsTHFCCeltics","Tottenham"
+"463","Dino Rubcic","<b>16</b>",4,12,4,1825.34,,"@Dino_2908","NK Rijeka"
+"840","Pavle Radojkovic","<b>16</b>",4,12,4,1858.18,"If u not first well u last","@paya_r13","Red Star"
+"40","Magnus Frimann","<b>16</b>",4,12,4,1922.11,,"@","FC København"
 "52","Axel Gaspoz","<b>16</b>",4,12,4,1927.01,,"@","Servette"
-"525","d b","<b>16</b>",0,16,0,1929.46,,"@",
-"742","Moritz Loosli","<b>16</b>",0,16,0,1933.68,,"@LoosliMoritz","Bscyb"
-"1017","Tuna Utku Vatansever","<b>16</b>",0,16,0,1936.09,,"@",
 "745","Bastian Cau","<b>16</b>",4,12,4,1940.86,,"@SCFVideo","SC Freiburg"
-"659","Hayden Macdonald","<b>16</b>",4,12,4,1945.03,"No Surrender","@HMM_1872","Rangers FC"
-"489","Tajemniczy Ktos","<b>16</b>",4,12,4,1947.09,"('-_-')","@","Stella Lubon"
-"81","Evan Greer","<b>16</b>",4,12,4,1954.86,,"@","Rangers"
 "140","Zach Klugo","<b>16</b>",4,12,4,1955.94,,"@",
-"703","Pascal Steiger","<b>16</b>",0,16,0,1958.74,,"@",
-"600","Mads Leirvik","<b>16</b>",0,16,0,1963.78,,"@leirviking","Viking FK"
+"644","Tack Head","<b>16</b>",4,12,4,1958.77,,"@",
+"12","Timeo Wulle","<b>16</b>",4,12,4,1961.38,"In EL, CL, ECL everything is possible","@timtim1818","BSC YB"
 "539","Jordy Brussee","<b>16</b>",4,12,4,1965.37,"We are going to a win every cup ;)","@JordyRotterdam","Feyenoord"
-"947","Thibault Wuersch","<b>16</b>",0,16,0,1975.61,,"@RandomEpicName",
+"60","Evran Akman","<b>16</b>",4,12,4,1967.48,"Quaresma>>","@","Besiktas"
+"707","Nikolaos Garefalakis","<b>16</b>",4,12,4,1972.71,,"@","Olympiakos"
+"484","Jarno Witkamp","<b>16</b>",4,12,4,1975.5,,"@",
 "275","Radoslaw Sarnik","<b>16</b>",4,12,4,1984.21,,"@Radeks94",
-"334","Sevtin Yumer","<b>16</b>",4,12,4,1986.71,"Win it all","@seyfettinselcuk","Fenerbahce"
-"269","Luc Burger","<b>16</b>",0,16,0,1986.94,,"@",
-"386","Dro Ne","<b>16</b>",0,16,0,1989.83,,"@",
-"340","Krzysztof Silka","<b>16</b>",0,16,0,1990.61,,"@SiKrzysztof","Wisla Kraków"
-"389","Przemyslaw Pek","<b>16</b>",0,16,0,1991.19,,"@",
-"430","Benjamin Weber","<b>16</b>",0,16,0,1991.93,"Buy expensive, sell cheap","@benni_weber_s04","Schalke 04"
-"382","Yunus Emre Bagiban","<b>16</b>",0,16,0,1993.94,"Rags to Riches","@yunusemrebgbn","Galatasaray"
-"97","David Meili","<b>16</b>",0,16,0,1994.29,,"@Tired_Robot","FC Basel"
-"869","Robert Gotthardt","<b>16</b>",4,12,4,1994.38,"Auf die Schwoazn","@","SK Sturm Graz"
-"176","Jonas Bracher","<b>16</b>",0,16,0,1995.6,,"@brachjon",
-"893","Harud Harthmuth","<b>16</b>",0,16,0,1996.34,,"@",
+"682","Mirsaid Seyidzadeh","<b>16</b>",4,12,4,1987.13,,"@","Qarabag FK"
+"418","Lukas Hugentobler","<b>16</b>",4,12,4,1991.63,"Ai Stadt Ai Club Ai Liebi","@Lukaz1893","FC Basel"
+"1053","Marin Golubic","<b>16</b>",4,12,4,1994.93,,"@marinc3kk","Rijeka"
+"1048","Ali Farhat","<b>16</b>",4,12,4,1995.83,"World champions of what ?","@derpariser",
+"287","Marcin Grudziaz","<b>16</b>",4,12,4,1995.9,"Latwiej kijek obcienkowac niz go potem pogrubasic","@MarcinGrudziaz","Legia"
+"253","Jeroen Leenders","<b>16</b>",4,12,4,1996.09,"There are more airplanes in the sea, than there are submarines in the air","@_jeroen_67","AZ Alkmaar"
+"986","xhe malja","<b>16</b>",4,12,4,1996.88,,"@xhemalja",
 "312","Adam Stasiowski","<b>16</b>",4,12,4,1996.97,,"@",
-"645","Abbie Young","<b>16</b>",4,12,4,1997.38,,"@",
-"594","Nathan Campbell","<b>16</b>",0,16,0,1998.86,"Aye Ready",,"Rangers"
-"714","Michael Christen","<b>16</b>",4,12,4,1999.27,,"@",
-"370","Tomasz Lorens","<b>16</b>",0,16,0,1999.5,"Business is business","@","Fc Barcelona"
-"552","Ursula Wyss","<b>16</b>",0,16,0,1999.52,"Forever hopeful","@","Young Boys"
-"367","David Amstutz","<b>16</b>",0,16,0,1999.59,,"@",
+"346","Grzegorz Glinka","<b>16</b>",4,12,4,1997.58,,"@GregorrOfficial","Legia Warsaw"
+"585","David K","<b>16</b>",4,12,4,1999.26,,"@",
+"727","Michael Niegel","<b>16</b>",4,12,4,1999.66,,"@",
+"232","Ludvig Ståhl","<b>16</b>",4,12,4,1999.78,"i spent way too much time buying the clubs","@ludvigclws","Malmö FF"
 "237","Leonardo Hernández","<b>15</b>",3,12,3,1694.88,,"@","AC Milan"
-"7","Aki Kaurismäki","<b>15</b>",3,12,3,1950.83,,"@sinameki91","Trabzonspor"
-"954","Jack Vamplew","<b>15</b>",3,12,3,1952.93,,"@FPL_Kid",
-"60","Evran Akman","<b>15</b>",3,12,3,1967.48,"Quaresma>>","@","Besiktas"
+"431","Turker G","<b>15</b>",3,12,3,1791.59,,"@gzrtrkr",
+"102","Erling Flovsky","<b>15</b>",3,12,3,1908.86,"Ensemble rien est impossible","@Nono_EAG","Glasgow Rangers"
+"274","Milosz Krysiak","<b>15</b>",3,12,3,1916.07,"Per Aspera Ad Astra","@","Warta Poznan"
+"941","Michal Marton","<b>15</b>",3,12,3,1922.72,,"@martonesign",
+"932","Bilal Atilkan","<b>15</b>",3,12,3,1925.09,"Ya hep ya hiç","@","Besiktas"
+"669","Nik Hart","<b>15</b>",3,12,3,1940.1,,"@",
+"510","Ben Matthes","<b>15</b>",3,12,3,1959.4,"realise realise realise","@benma44","Manchester United"
+"769","Urs Widmer","<b>15</b>",3,12,3,1961.56,"weiw","@","BSC Young Boys"
+"65","Max Camilleri","<b>15</b>",3,12,3,1964.81,"YASA Fenerbahçe","@MaxTheLantern","Fenerbahçe"
+"200","Poyraz Saldir","<b>15</b>",3,12,3,1967.61,,"@",
+"401","Mikolaj Dowejko","<b>15</b>",3,12,3,1973.4,,"@",
+"537","Tom Jakomini","<b>15</b>",3,12,3,1974.99,"SK Lation","@JakominiTom","Schwarz Weiß Graz"
+"857","Tobias Holik","<b>15</b>",3,12,3,1977.99,,"@",
+"678","Teymur Shamidinov","<b>15</b>",3,12,3,1980.07,"Dima","@","Bayern"
+"1016","Daniel Karui Saemala","<b>15</b>",3,12,3,1982.56,"North London is Red","@Hovdingen93","Midtjylland"
+"1007","Emmy Noether","<b>15</b>",3,12,3,1983.33,"YNWA","@","BSC Young Boys"
+"969","utkan aydin","<b>15</b>",3,12,3,1983.6,"zuuuaaaa","@oukkana","besiktas"
+"563","Truls Rostrup","<b>15</b>",3,12,3,1984.1,"Strike from below.","@totalmannen",
+"494","Nicolas Salathe","<b>15</b>",3,12,3,1984.8,,"@",
 "14","Marcus Novaa","<b>15</b>",3,12,3,1985.93,,"@","FC Midtjylland"
-"682","Mirsaid Seyidzadeh","<b>15</b>",3,12,3,1987.13,,"@","Qarabag FK"
-"1061","jeremy wood","<b>15</b>",3,12,3,1991.54,,"@woodjere","aberdeen"
-"346","Grzegorz Glinka","<b>15</b>",3,12,3,1997.58,,"@GregorrOfficial","Legia Warsaw"
+"604","Mark Middelhuis","<b>15</b>",3,12,3,1987.18,,"@veldmaatboys","FC Twente"
+"1055","Nico Bucher","<b>15</b>",3,12,3,1987.64,,"@Mr__",
+"73","Jens Weirich","<b>15</b>",3,12,3,1988.73,,"@","FC Basel"
+"716","Simon Hofstetter","<b>15</b>",3,12,3,1989.11,,"@","FC Basel"
+"130","Sven Schumann","<b>15</b>",3,12,3,1989.19,,"@","FC Basel"
+"897","Dominik Tyszka","<b>15</b>",3,12,3,1991.75,,"@",
+"856","Tobias Holik","<b>15</b>",3,12,3,1993.46,,"@","Sparta Prague"
+"672","Ignaz Müller","<b>15</b>",3,12,3,1995,,"@",
+"264","mi tsch","<b>15</b>",3,12,3,1996.82,,"@",
+"679","Cavid Necefov","<b>15</b>",3,12,3,1996.87,"mes que un club","@cavid_i_m","Qarabag FK"
+"443","Thano Moorthy","<b>15</b>",3,12,3,1996.96,"11 players 1 heart","@","Servette"
+"888","Filip Slezák","<b>15</b>",3,12,3,1997.19,,"@",
+"239","R Z","<b>15</b>",3,12,3,1997.41,,"@",
+"163","Bruno Vinski","<b>15</b>",3,12,3,1997.96,,"@crowalski","Arsenal"
+"1038","Germain Hancq","<b>15</b>",3,12,3,1998.09,,"@",
+"1066","Craig Adair","<b>15</b>",3,12,3,1998.14,,"@craigybhoy94","Celtic"
+"116","Julian Janssen","<b>15</b>",3,12,3,1998.25,".","@","."
 "605","Stefan Widmer","<b>15</b>",3,12,3,1998.37,,"@herrshearer","BSC YB, NUFC"
+"982","mehmet emin mutlu","<b>15</b>",3,12,3,1998.46,,"@m_eminmutlu","Trabzonspor"
+"624","Jens Moorthamer","<b>15</b>",3,12,3,1998.53,,"@jenskemo","Standard de Liege"
+"889","Oskar Lodowski","<b>15</b>",3,12,3,1998.8,,"@lodzio.miodzio","Legia"
+"700","Simon Stierli","<b>15</b>",3,12,3,1998.92,,"@",
+"111","Flac Murray","<b>15</b>",3,12,3,1999.45,,"@","FC Basel 1893"
+"531","Melvin Trösch","<b>15</b>",3,12,3,1999.48,"Buy the best!","@MelvinTrosch","FC Basel 1893"
+"284","Emil Dudzik","<b>15</b>",3,12,3,1999.55,,"@EmilD1906","Wisla Kraków"
 "80","Nemanja Nemo Antonijevic","<b>14</b>",2,12,2,1386.09,"CL is overrated","@NemoAntonijevic","Dortmund"
 "638","Aiden Urquhart","<b>14</b>",2,12,2,1681.82,,"@",
 "952","Ludovic Medwed","<b>14</b>",2,12,2,1710.03,,"@ludomwd","Servette FC"
-"431","Turker G","<b>14</b>",2,12,2,1791.59,,"@gzrtrkr",
-"463","Dino Rubcic","<b>14</b>",2,12,2,1825.34,,"@Dino_2908","NK Rijeka"
-"840","Pavle Radojkovic","<b>14</b>",2,12,2,1858.18,"If u not first well u last","@paya_r13","Red Star"
-"1073","Gregory Missinne","<b>14</b>",2,12,2,1888.81,"Bluvn Goan","@","Club Brugge"
-"575","Lucas Rey","<b>14</b>",2,12,2,1895.46,,"@BicolasNurdisso","FC Printse-Nendaz"
-"650","Andelo Roguljic","<b>14</b>",2,12,2,1899.1,,"@andjelo1207",
-"102","Erling Flovsky","<b>14</b>",2,12,2,1908.86,"Ensemble rien est impossible","@Nono_EAG","Glasgow Rangers"
-"374","Michal Pomiecinski","<b>14</b>",2,12,2,1915.09,"For the win","@wosinw","Bayern"
-"40","Magnus Frimann","<b>14</b>",2,12,2,1922.11,,"@","FC København"
-"669","Nik Hart","<b>14</b>",2,12,2,1940.1,,"@",
-"175","Mister Laudrup","<b>14</b>",2,12,2,1958.51,,"@",
-"644","Tack Head","<b>14</b>",2,12,2,1958.77,,"@",
-"510","Ben Matthes","<b>14</b>",2,12,2,1959.4,"realise realise realise","@benma44","Manchester United"
+"588","David Schnider","<b>14</b>",2,12,2,1736.55,,"@","FC Winterthur"
+"332","Norbert Rompczyk","<b>14</b>",2,12,2,1759.66,,"@NorbiDupomTrabi","Arka Gdynia"
+"607","Mattia Monteforte","<b>14</b>",6,8,6,1801.68,,"@",
+"141","Matthias Kohler","<b>14</b>",2,12,2,1880.7,,"@",
+"949","Bilal Yildiz","<b>14</b>",2,12,2,1895.11,,"@",
+"54","Osman Karalar","<b>14</b>",2,12,2,1913.31,"Trust the Turkish clubs!","@KaralarOsman1",
+"488","Samuel Brask","<b>14</b>",2,12,2,1955.11,,"@samuel_brask","FC København"
+"896","Radoslaw Czerwiec","<b>14</b>",2,12,2,1959.63,"I like potatos and sadistic teams","@StylowySM","Polish National Team"
 "72","Eddie Gibson","<b>14</b>",2,12,2,1964.98,,"@","Rangers"
+"415","Konrad Mizera","<b>14</b>",2,12,2,1965.56,,"@","Raków Czestochowa"
 "112","Daan Van Nyen","<b>14</b>",2,12,2,1967.54,,"@","RSC Anderlecht"
-"200","Poyraz Saldir","<b>14</b>",2,12,2,1967.61,,"@",
-"707","Nikolaos Garefalakis","<b>14</b>",2,12,2,1972.71,,"@","Olympiakos"
-"8","Livio Beerli","<b>14</b>",2,12,2,1973.78,,"@LAR_Livz","GC"
+"924","Jens Moorthamer","<b>14</b>",2,12,2,1969.98,,"@jenskemo1","Standard"
+"381","Lukasz Wolski","<b>14</b>",6,8,6,1972.33,,"@",
+"978","Görkem Kus","<b>14</b>",6,8,6,1975,,"@turknetzede",
 "799","Batuhan Erzaim","<b>14</b>",2,12,2,1975.19,"Buy high, sell low","@batu_e1903","Besiktas"
+"654","Marek Kuzminski","<b>14</b>",6,8,6,1977.03,"We Do Not Bow","@Marco_Martell94","FC Barcelona"
+"579","Pascal Moghe","<b>14</b>",2,12,2,1977.41,"go for GOLD","@bullbear83","FCSG1879"
+"265","Fabio Andrea","<b>14</b>",2,12,2,1977.5,,"@",
 "231","Cornelius van Gimst","<b>14</b>",2,12,2,1977.74,"UECL rules","@corneel_van","KAA Gent"
+"1059","Nicolas Puchat","<b>14</b>",2,12,2,1977.85,,"@nicopuchat","Servette FC"
 "233","Luca Beck","<b>14</b>",2,12,2,1979.93,"I have 0 Ball knowledge","@","YOUNG BOYS BERN"
 "39","Maxime Dubi","<b>14</b>",2,12,2,1980.59,,"@M0_Crocodile",
-"1007","Emmy Noether","<b>14</b>",2,12,2,1983.33,"YNWA","@","BSC Young Boys"
+"347","Toni Adediran","<b>14</b>",2,12,2,1983.53,,"@tonez02",
 "786","Tony Ramirez","<b>14</b>",2,12,2,1983.58,,"@",
 "504","Walthiero Van der Kamp","<b>14</b>",2,12,2,1984.77,,"@walthiero","Young Boys"
-"1055","Nico Bucher","<b>14</b>",2,12,2,1987.64,,"@Mr__",
+"803","Tobias Niederhauser","<b>14</b>",2,12,2,1987.15,,"@tnhser","BSC YB"
 "634","TY Chu","<b>14</b>",2,12,2,1988.47,,"@needle_hill","Benfica"
-"716","Simon Hofstetter","<b>14</b>",2,12,2,1989.11,,"@","FC Basel"
+"824","Tim Keller","<b>14</b>",2,12,2,1988.81,"They call it Moneyball or something!","@imkeller_5","FC Basel 1893"
 "938","Aydin CAGDAS","<b>14</b>",2,12,2,1989.56,,"@acagdas","Fenerbahce"
-"794","Emir Ildiz","<b>14</b>",2,12,2,1990.61,"La Vittoria Sara Nostra","@bittyband","Besiktas"
-"418","Lukas Hugentobler","<b>14</b>",2,12,2,1991.63,"Ai Stadt Ai Club Ai Liebi","@Lukaz1893","FC Basel"
-"967","mehmet emin mutlu","<b>14</b>",2,12,2,1992.19,,"@m_eminmutlu","Trabzonspor"
-"886","Tadeusz Gontar","<b>14</b>",2,12,2,1992.23,,"@","Legia"
+"521","Donat Roduner","<b>14</b>",2,12,2,1989.61,,"@",
+"33","Daan Warming","<b>14</b>",6,8,6,1991.01,"Feyenoord to the club world cup","@","Feyenoord"
+"1047","Martin Mcinnes","<b>14</b>",2,12,2,1993.06,,"@Mr_SmileyFace6","Rangers"
+"285","Robert Konopka","<b>14</b>",2,12,2,1993.88,,"@RobbieCris88208",
+"636","Thomas Cruickshanks","<b>14</b>",2,12,2,1994.11,,"@",
+"372","Lukasz Podgórski","<b>14</b>",2,12,2,1994.85,,"@Pagor93","Juventus"
 "570","Simi *","<b>14</b>",2,12,2,1995.16,"De Leu ufem Liebli scho set chlie","@simi_1901","Fc Luzern"
-"1048","Ali Farhat","<b>14</b>",2,12,2,1995.83,"World champions of what ?","@derpariser",
+"118","Mishel Cela","<b>14</b>",2,12,2,1995.49,,"@",
 "721","Maxence Dini","<b>14</b>",2,12,2,1995.83,,"@",
-"287","Marcin Grudziaz","<b>14</b>",2,12,2,1995.9,"Latwiej kijek obcienkowac niz go potem pogrubasic","@MarcinGrudziaz","Legia"
-"253","Jeroen Leenders","<b>14</b>",2,12,2,1996.09,"There are more airplanes in the sea, than there are submarines in the air","@_jeroen_67","AZ Alkmaar"
+"666","Hugo Meisser","<b>14</b>",2,12,2,1995.87,,"@hug0_1501",
+"556","Laurenz S.","<b>14</b>",2,12,2,1996.53,"Less big Many small They all can become tall","@ybberneru97","BSC Young Boys"
+"15","Matthias Loser","<b>14</b>",2,12,2,1996.55,"Show me the money!","@matsloser","FC Basel"
+"98","Daniel sali zämme","<b>14</b>",2,12,2,1996.58,"Kot und Ehre! Freiheit für alle in Tschechien Inhaftierten!","@salizaemme","FC Basel hiE"
 "965","Michael Nussbächer","<b>14</b>",2,12,2,1996.68,,"@Nussi7","Young Boys Bern"
-"264","mi tsch","<b>14</b>",2,12,2,1996.82,,"@",
+"992","Jonas Zürrer","<b>14</b>",2,12,2,1997.24,"gut kick","@digittyjones","FC Zürich"
 "45","Fabian Roos","<b>14</b>",2,12,2,1997.38,"By Reason or by Force","@Dilamufc",
-"1038","Germain Hancq","<b>14</b>",2,12,2,1998.09,,"@",
-"624","Jens Moorthamer","<b>14</b>",2,12,2,1998.53,,"@jenskemo","Standard de Liege"
+"180","Alexandre Roulet","<b>14</b>",2,12,2,1997.43,"YOLO","@alexandrealro","Fc basel"
+"547","Marc Bertschy","<b>14</b>",2,12,2,1998.2,,"@",
+"186","Michael Tschaeni","<b>14</b>",2,12,2,1998.21,,"@MiTschaeni",
+"823","Pierre Jaquet","<b>14</b>",2,12,2,1998.43,,"@EmperorDvalin",
 "43","Lucas Roger","<b>14</b>",2,12,2,1998.69,,"@","SERVETTE"
 "919","Hubert Kabzinski","<b>14</b>",2,12,2,1998.77,,"@axevvv","Real Madrid"
-"889","Oskar Lodowski","<b>14</b>",2,12,2,1998.8,,"@lodzio.miodzio","Legia"
-"700","Simon Stierli","<b>14</b>",2,12,2,1998.92,,"@",
 "165","Stefan Zivkovic","<b>14</b>",2,12,2,1999.05,,"@SZ_992","Red Star"
 "100","Stefan Poot","<b>14</b>",2,12,2,1999.1,,"@CHfootballscout","Liverpool"
-"585","David K","<b>14</b>",2,12,2,1999.26,,"@",
-"24","Mathias Kainz","<b>14</b>",2,12,2,1999.43,"Wer zahlt, schafft an!","@MathiasKainz","Austria Klagenfurt"
-"531","Melvin Trösch","<b>14</b>",2,12,2,1999.48,"Buy the best!","@MelvinTrosch","FC Basel 1893"
-"1060","Rani El Hassan","<b>14</b>",2,12,2,1999.55,,"@cmpaso",
-"727","Michael Niegel","<b>14</b>",2,12,2,1999.66,,"@",
-"232","Ludvig Ståhl","<b>14</b>",2,12,2,1999.78,"i spent way too much time buying the clubs","@ludvigclws","Malmö FF"
+"1040","Mickael Leduc","<b>14</b>",2,12,2,1999.28,,"@",
+"1026","Victorien Rodondi","<b>14</b>",2,12,2,1999.56,,"@",
+"1000","Ned Ebbe","<b>14</b>",2,12,2,1999.74,,"@",
 "846","Bonne Keehnen","<b>14</b>",2,12,2,1999.91,,"@",
+"276","Pawel Marzec","<b>14</b>",2,12,2,1999.93,,"@",
 "223","Adam Allan","<b>13</b>",1,12,1,1732.1,"Blue through and through","@_adz85","Glasgow Rangers"
-"332","Norbert Rompczyk","<b>13</b>",1,12,1,1759.66,,"@NorbiDupomTrabi","Arka Gdynia"
-"54","Osman Karalar","<b>13</b>",1,12,1,1913.31,"Trust the Turkish clubs!","@KaralarOsman1",
-"941","Michal Marton","<b>13</b>",1,12,1,1922.72,,"@martonesign",
+"569","saymar marr","<b>13</b>",1,12,1,1762.61,,"@JustRandomAck","Breidablik"
+"748","Matthew Hartley","<b>13</b>",1,12,1,1922.94,,"@matthew122333","HTAFC"
+"478","Jeff Brown","<b>13</b>",1,12,1,1936.58,,"@",
 "520","Simon Egger","<b>13</b>",1,12,1,1937.68,"If you can't beat them - buy them","@simoninski","FC Basel 1893"
 "746","Alex Reichart","<b>13</b>",1,12,1,1946.47,"some dream about profitable football clubs – we make them!","@larouxlex","Servette FC"
-"896","Radoslaw Czerwiec","<b>13</b>",1,12,1,1959.63,"I like potatos and sadistic teams","@StylowySM","Polish National Team"
-"12","Timeo Wulle","<b>13</b>",1,12,1,1961.38,"In EL, CL, ECL everything is possible","@timtim1818","BSC YB"
-"401","Mikolaj Dowejko","<b>13</b>",1,12,1,1973.4,,"@",
 "804","Simon Tanner","<b>13</b>",1,12,1,1974.37,,"@sapins_moeff",
-"484","Jarno Witkamp","<b>13</b>",1,12,1,1975.5,,"@",
-"265","Fabio Andrea","<b>13</b>",1,12,1,1977.5,,"@",
 "215","mark mckay","<b>13</b>",1,12,1,1978.93,,"@niconicoraskin","rangers"
-"347","Toni Adediran","<b>13</b>",1,12,1,1983.53,,"@tonez02",
-"969","utkan aydin","<b>13</b>",1,12,1,1983.6,"zuuuaaaa","@oukkana","besiktas"
-"604","Mark Middelhuis","<b>13</b>",1,12,1,1987.18,,"@veldmaatboys","FC Twente"
-"824","Tim Keller","<b>13</b>",1,12,1,1988.81,"They call it Moneyball or something!","@imkeller_5","FC Basel 1893"
-"1047","Martin Mcinnes","<b>13</b>",1,12,1,1993.06,,"@Mr_SmileyFace6","Rangers"
+"242","Andrew Caskie","<b>13</b>",5,8,5,1984.23,,"@caskieandrew",
+"1019","Štepán Komárek","<b>13</b>",5,8,5,1986.65,,"@Komix_SKS","Slavia"
+"241","Richard Wilson","<b>13</b>",5,8,5,1989.21,,"@hyfprw",
+"1035","Gael Englebert","<b>13</b>",5,8,5,1991.93,,"@GaelFord","RSCAnderlecht"
+"764","Kevin Sigel","<b>13</b>",5,8,5,1992.14,"Dür Räge und Wind","@","YB"
+"842","Wojciech Zareba","<b>13</b>",5,8,5,1992.78,,"@",
+"936","Rok Testen","<b>13</b>",5,8,5,1993.58,,"@","Olimpija Ljubljana"
 "1043","Ruben Monette","<b>13</b>",1,12,1,1994.49,,"@","STVV"
-"556","Laurenz S.","<b>13</b>",1,12,1,1996.53,"Less big Many small They all can become tall","@ybberneru97","BSC Young Boys"
-"1066","Craig Adair","<b>13</b>",1,12,1,1998.14,,"@craigybhoy94","Celtic"
-"547","Marc Bertschy","<b>13</b>",1,12,1,1998.2,,"@",
-"116","Julian Janssen","<b>13</b>",1,12,1,1998.25,".","@","."
-"222","Onur Bartik","<b>13</b>",1,12,1,1998.33,,,"Fenerbahçe"
+"730","Filip Marek","<b>13</b>",5,8,5,1996.32,"Win","@wellerman9","Leicester"
+"581","Michal N.","<b>13</b>",5,8,5,1996.41,,"@","Raków Czestochowa"
+"48","Lewis Carroll","<b>13</b>",1,12,1,1996.45,,"@",
+"107","Lukas Kerzendörfer","<b>13</b>",5,8,5,1996.48,,"@flying_lukas","Freiburg"
+"704","Simon Ammann","<b>13</b>",1,12,1,1996.73,"dres","@","Internazionale"
+"790","c britnell","<b>13</b>",5,8,5,1996.75,"cheap as chips",,
+"626","Stefan Rolli","<b>13</b>",5,8,5,1997.61,,"@",
+"908","Jens Vertongen","<b>13</b>",5,8,5,1998.55,,"@",
+"887","Manuel Tuscher","<b>13</b>",5,8,5,1998.63,,"@",
+"22","Kjell van Amersvoort","<b>13</b>",1,12,1,1998.68,,"@kjellvinklein","Vitesse"
 "618","Dario Greco","<b>13</b>",1,12,1,1998.98,,"@","YB"
-"276","Pawel Marzec","<b>13</b>",1,12,1,1999.93,,"@",
-"818","Chris L","<b>12</b>",0,12,0,1398.45,"It is what it is","@JetsTHFCCeltics","Tottenham"
+"729","Jean-Luc Berger","<b>13</b>",1,12,1,1999.61,,"@","Servette FC"
+"894","Dominik Rollauer","<b>13</b>",5,8,5,1999.98,,"@ukuesz",
 "456","Wertousek Wert","<b>12</b>",0,12,0,1539.94,,"@wertousek","Slavia"
-"588","David Schnider","<b>12</b>",0,12,0,1736.55,,"@","FC Winterthur"
-"569","saymar marr","<b>12</b>",0,12,0,1762.61,,"@JustRandomAck","Breidablik"
-"607","Mattia Monteforte","<b>12</b>",4,8,4,1801.68,,"@",
+"145","Dominik Donzé","<b>12</b>",4,8,4,1693.46,"Work smarter not harder","@dominikdonze","FC Basel 1893"
+"263","Martin Catillaz","<b>12</b>",4,8,4,1808.37,"Fokus","@mcaedi","Young Boys Bern"
+"448","Adrian Boruch","<b>12</b>",4,8,4,1809.57,"Nawet jesli przegrywasz, musisz walczyc","@adiczko","Real Madrid"
+"199","Tomáš Havlík","<b>12</b>",4,8,4,1816.81,"Nil satis nisi optimum","@Havlajz","Slavia Praha"
 "883","Joel Hägele","<b>12</b>",4,8,4,1865.7,,"@","Barcelona"
-"680","Huseyn Musayev","<b>12</b>",0,12,0,1873.89,,"@","Qarabag FC"
-"141","Matthias Kohler","<b>12</b>",0,12,0,1880.7,,"@",
-"949","Bilal Yildiz","<b>12</b>",0,12,0,1895.11,,"@",
 "695","Martin Baturina","<b>12</b>",0,12,0,1910.54,,"@","Besiktas"
-"274","Milosz Krysiak","<b>12</b>",0,12,0,1916.07,"Per Aspera Ad Astra","@","Warta Poznan"
-"748","Matthew Hartley","<b>12</b>",0,12,0,1922.94,,"@matthew122333","HTAFC"
-"932","Bilal Atilkan","<b>12</b>",0,12,0,1925.09,"Ya hep ya hiç","@","Besiktas"
-"478","Jeff Brown","<b>12</b>",0,12,0,1936.58,,"@",
-"488","Samuel Brask","<b>12</b>",0,12,0,1955.11,,"@samuel_brask","FC København"
+"414","Mateusz Konsek","<b>12</b>",4,8,4,1945.93,,"@Mateusz79606544","Real madrit"
+"903","Ülke puan Analiz","<b>12</b>",4,8,4,1948.96,"<U+0001F1F9><U+0001F1F7><U+0001F1F9><U+0001F1F7>","@ulke_puan",
+"134","Jákup Ósá","<b>12</b>",4,8,4,1953.38,,"@",
 "812","Kenebey Kirsehir","<b>12</b>",4,8,4,1956.65,,"@","Fenerbahçe"
-"769","Urs Widmer","<b>12</b>",0,12,0,1961.56,"weiw","@","BSC Young Boys"
+"696","Stinco Clandestino","<b>12</b>",4,8,4,1960.76,,"@",
 "450","David Schalk","<b>12</b>",0,12,0,1961.93,,"@",
-"65","Max Camilleri","<b>12</b>",0,12,0,1964.81,"YASA Fenerbahçe","@MaxTheLantern","Fenerbahçe"
-"415","Konrad Mizera","<b>12</b>",0,12,0,1965.56,,"@","Raków Czestochowa"
+"474","David Parkes","<b>12</b>",4,8,4,1965.51,,"@dpnina10","Fiorentina/Anderlecht"
 "330","Kieran Crossman","<b>12</b>",4,8,4,1966.03,,"@kieranjcrossman",
-"924","Jens Moorthamer","<b>12</b>",0,12,0,1969.98,,"@jenskemo1","Standard"
-"381","Lukasz Wolski","<b>12</b>",4,8,4,1972.33,,"@",
-"537","Tom Jakomini","<b>12</b>",0,12,0,1974.99,"SK Lation","@JakominiTom","Schwarz Weiß Graz"
-"978","Görkem Kus","<b>12</b>",4,8,4,1975,,"@turknetzede",
-"654","Marek Kuzminski","<b>12</b>",4,8,4,1977.03,"We Do Not Bow","@Marco_Martell94","FC Barcelona"
-"579","Pascal Moghe","<b>12</b>",0,12,0,1977.41,"go for GOLD","@bullbear83","FCSG1879"
-"1059","Nicolas Puchat","<b>12</b>",0,12,0,1977.85,,"@nicopuchat","Servette FC"
-"857","Tobias Holik","<b>12</b>",0,12,0,1977.99,,"@",
-"678","Teymur Shamidinov","<b>12</b>",0,12,0,1980.07,"Dima","@","Bayern"
+"77","Joseph Corlett","<b>12</b>",4,8,4,1970.73,,"@joeycorlett",
+"741","Alain Légeret","<b>12</b>",4,8,4,1977.42,"Tempora mori tempora mundis recorda","@","Bayern München"
 "91","Raphael Kirn","<b>12</b>",0,12,0,1980.29,,"@","SC Freiburg"
-"1016","Daniel Karui Saemala","<b>12</b>",0,12,0,1982.56,"North London is Red","@Hovdingen93","Midtjylland"
+"755","Hoschi Dude","<b>12</b>",4,8,4,1980.4,,"@",
+"47","Milko Warming","<b>12</b>",4,8,4,1980.74,"Feyenoord to the Club World Cup","@","Feyenoord"
 "336","Bartek Kosek","<b>12</b>",4,8,4,1983.46,,"@BBarttolini",
-"425","Melvin Wåhlén","<b>12</b>",0,12,0,1984,"victoria amat curam","@MelvinW05","Liverpool FC, Degerfors IF"
-"563","Truls Rostrup","<b>12</b>",0,12,0,1984.1,"Strike from below.","@totalmannen",
-"108","Mikkel Skouborg","<b>12</b>",0,12,0,1984.33,"You miss all the shots you don't take.","@skouborg","FC København"
-"494","Nicolas Salathe","<b>12</b>",0,12,0,1984.8,,"@",
+"948","Ilker Ugur","<b>12</b>",4,8,4,1983.96,,"@",
+"498","Kerem Cengiz","<b>12</b>",4,8,4,1985.19,,"@kerem_cengizz","galatasaray"
 "361","Kacper Krzyzostaniak","<b>12</b>",4,8,4,1985.73,,"@",
-"803","Tobias Niederhauser","<b>12</b>",0,12,0,1987.15,,"@tnhser","BSC YB"
+"493","Aleksa Milinkov","<b>12</b>",4,8,4,1987.14,,"@","Red Star Belgrade"
+"719","Bas Kahr","<b>12</b>",4,8,4,1987.8,,"@baskahr",
 "806","Juan Benjumea","<b>12</b>",4,8,4,1988.16,,"@_juanbenjumea",
-"73","Jens Weirich","<b>12</b>",0,12,0,1988.73,,"@","FC Basel"
-"130","Sven Schumann","<b>12</b>",0,12,0,1989.19,,"@","FC Basel"
-"521","Donat Roduner","<b>12</b>",0,12,0,1989.61,,"@",
+"691","Milos Andjelic","<b>12</b>",4,8,4,1989.18,"Also never in doubt","@","Crvena zvezda"
+"477","Noa Parren","<b>12</b>",4,8,4,1989.51,"For French teams thinking is a city in China","@","Fortuna Sittard"
+"168","Plouky Roi du ciel","<b>12</b>",4,8,4,1990,,"@","Monaco"
 "428","Nicola Imfeld","<b>12</b>",4,8,4,1990.91,"GC isch und blibt Rekordmeister<U+0001F618>","@Nicola_Imfeld","GC Zürich"
-"33","Daan Warming","<b>12</b>",4,8,4,1991.01,"Feyenoord to the club world cup","@","Feyenoord"
-"897","Dominik Tyszka","<b>12</b>",0,12,0,1991.75,,"@",
-"204","Imso Dns","<b>12</b>",0,12,0,1993.01,"Y'a pas plus fort","@imsodns","LS"
-"856","Tobias Holik","<b>12</b>",0,12,0,1993.46,,"@","Sparta Prague"
-"285","Robert Konopka","<b>12</b>",0,12,0,1993.88,,"@RobbieCris88208",
-"636","Thomas Cruickshanks","<b>12</b>",0,12,0,1994.11,,"@",
-"9","Andri Parravicin","<b>12</b>",0,12,0,1994.32,,"@_droide_",
-"372","Lukasz Podgórski","<b>12</b>",0,12,0,1994.85,,"@Pagor93","Juventus"
-"1053","Marin Golubic","<b>12</b>",0,12,0,1994.93,,"@marinc3kk","Rijeka"
-"672","Ignaz Müller","<b>12</b>",0,12,0,1995,,"@",
-"118","Mishel Cela","<b>12</b>",0,12,0,1995.49,,"@",
-"701","Patrick Dell'Oca","<b>12</b>",0,12,0,1995.78,,"@",
-"666","Hugo Meisser","<b>12</b>",0,12,0,1995.87,,"@hug0_1501",
+"692","David Weibel","<b>12</b>",4,8,4,1992.03,,"@",
+"955","Filip Kwiatkowski","<b>12</b>",4,8,4,1993.66,,"@szczerbateq","Arsenal"
+"527","M Oertle","<b>12</b>",4,8,4,1994.23,"Moneyball","@_moertle",
+"632","Alain Légeret","<b>12</b>",4,8,4,1994.87,,"@","Bayenr München"
 "422","Luca Apotheloz","<b>12</b>",4,8,4,1996.2,,,"Servette"
-"48","Lewis Carroll","<b>12</b>",0,12,0,1996.45,,"@",
-"15","Matthias Loser","<b>12</b>",0,12,0,1996.55,"Show me the money!","@matsloser","FC Basel"
-"98","Daniel sali zämme","<b>12</b>",0,12,0,1996.58,"Kot und Ehre! Freiheit für alle in Tschechien Inhaftierten!","@salizaemme","FC Basel hiE"
-"704","Simon Ammann","<b>12</b>",0,12,0,1996.73,"dres","@","Internazionale"
-"679","Cavid Necefov","<b>12</b>",0,12,0,1996.87,"mes que un club","@cavid_i_m","Qarabag FK"
-"986","xhe malja","<b>12</b>",0,12,0,1996.88,,"@xhemalja",
+"615","Sebastien Walthert","<b>12</b>",4,8,4,1996.41,,"@","Servette FC"
 "453","Marek Mak","<b>12</b>",4,8,4,1996.95,,"@",
-"443","Thano Moorthy","<b>12</b>",0,12,0,1996.96,"11 players 1 heart","@","Servette"
-"888","Filip Slezák","<b>12</b>",0,12,0,1997.19,,"@",
-"992","Jonas Zürrer","<b>12</b>",0,12,0,1997.24,"gut kick","@digittyjones","FC Zürich"
-"239","R Z","<b>12</b>",0,12,0,1997.41,,"@",
-"180","Alexandre Roulet","<b>12</b>",0,12,0,1997.43,"YOLO","@alexandrealro","Fc basel"
-"163","Bruno Vinski","<b>12</b>",0,12,0,1997.96,,"@crowalski","Arsenal"
+"509","Marc Christiano","<b>12</b>",4,8,4,1997.5,,"@","Young Boys"
+"266","Hüseyin Yücel","<b>12</b>",4,8,4,1997.58,"The one with Icardi on their team WINS","@hellobadi","Galatasaray"
+"633","Stuart MacLean","<b>12</b>",4,8,4,1998.01,"Tunnocks > Toblerone","@SameOldStuart","Rangers"
 "876","Mirek Ozóg","<b>12</b>",4,8,4,1998.04,"What if You’re Right and They’re Wrong","@","Barcelona"
-"186","Michael Tschaeni","<b>12</b>",0,12,0,1998.21,,"@MiTschaeni",
-"823","Pierre Jaquet","<b>12</b>",0,12,0,1998.43,,"@EmperorDvalin",
-"982","mehmet emin mutlu","<b>12</b>",0,12,0,1998.46,,"@m_eminmutlu","Trabzonspor"
 "164","duke raoul","<b>12</b>",0,12,0,1998.56,"why not","@duke420","LFC"
-"22","Kjell van Amersvoort","<b>12</b>",0,12,0,1998.68,,"@kjellvinklein","Vitesse"
 "355","Kamil Kowalski","<b>12</b>",4,8,4,1998.7,,"@kamil__kowalski",
 "945","Max Zalcman","<b>12</b>",4,8,4,1998.76,,"@mz_foot",
+"213","Damiano Mirabelli","<b>12</b>",4,8,4,1998.88,"The Mathemagician",,"Fc Basel"
+"648","Jonathan Swindell","<b>12</b>",4,8,4,1998.9,,"@","Aberdeen"
+"943","Kamil Sleczka","<b>12</b>",4,8,4,1998.98,,"@",
+"161","Neal Aebersold","<b>12</b>",4,8,4,1999.05,,"@","BSC Young Boys"
 "99","Cüneyt Aytaç","<b>12</b>",4,8,4,1999.21,"Fenerbahçe is life","@cuneytaytac","Fenerbahçe"
-"1040","Mickael Leduc","<b>12</b>",0,12,0,1999.28,,"@",
-"111","Flac Murray","<b>12</b>",0,12,0,1999.45,,"@","FC Basel 1893"
-"284","Emil Dudzik","<b>12</b>",0,12,0,1999.55,,"@EmilD1906","Wisla Kraków"
-"1026","Victorien Rodondi","<b>12</b>",0,12,0,1999.56,,"@",
-"729","Jean-Luc Berger","<b>12</b>",0,12,0,1999.61,,"@","Servette FC"
-"1000","Ned Ebbe","<b>12</b>",0,12,0,1999.74,,"@",
+"529","Sakis Koukos","<b>12</b>",4,8,4,1999.3,,"@","PAOK"
 "990","Levin Susar","<b>12</b>",0,12,0,1999.77,,"@Lvnssr","Fenerbahçe"
 "1077","Kingsley Reborn","<b>12</b>",0,12,0,1999.83,,"@kingsleyreb0rn","Arsenal"
+"885","Karol Majówa","<b>12</b>",4,8,4,1999.91,,"@",
 "953","Alex Bukch","<b>12</b>",4,8,4,1999.94,,"@",
 "243","Tyler Kerr","<b>11</b>",3,8,3,1525.04,"Die to get three points","@Tyler_GF4","Rangers"
+"1080","Demian Gugger","<b>11</b>",3,8,3,1853.91,"No time left just random selection","@demiyoooo","YB"
+"1033","aydincan ozdemir","<b>11</b>",3,8,3,1865.05,,"@azzurri1907","fenerbahce"
+"481","George Klitsis","<b>11</b>",3,8,3,1894.19,"Future dreamers",,
+"279","Bugra Mercan","<b>11</b>",3,8,3,1917.53,,"@bugramercan","Besiktas"
+"739","Jarne Schellinckx","<b>11</b>",3,8,3,1926.09,,"@jarne2000",
+"796","Wirunpat Kitipipat","<b>11</b>",3,8,3,1935.56,"Invest as you will die tomorrow",,"Liverpool"
+"426","Robert Garrick","<b>11</b>",3,8,3,1936.58,"Ready","@glasrang",
+"1032","Berath Demirel","<b>11</b>",3,8,3,1939.53,,"@","Fenerbahçe"
+"1029","Faruk Isik","<b>11</b>",3,8,3,1943.46,"Türkiyem","@","Besiktas"
+"1030","Redmer Bouma","<b>11</b>",3,8,3,1953.26,,"@",
+"689","Stigni .","<b>11</b>",3,8,3,1956.55,,"@stigni",
+"737","Théo Koui","<b>11</b>",3,8,3,1960.91,,"@","Dresden"
+"224","riccardo ferraro","<b>11</b>",3,8,3,1966.71,,"@rf1893",
+"321","Antonio Giachino","<b>11</b>",3,8,3,1968.95,"WWM",,
+"676","Michail Pantourakis","<b>11</b>",3,8,3,1969.28,,,
+"378","Marcin Mani","<b>11</b>",3,8,3,1969.73,,"@mani10pl",
+"162","Nicolas Walgraffe","<b>11</b>",3,8,3,1972.73,,"@","Standard de Liège"
+"771","Ben Doeven","<b>11</b>",3,8,3,1973.76,"Let´s go!","@","AFC Ajax"
+"413","Niek Wouters","<b>11</b>",3,8,3,1974.19,"Veni, Vidi, obtinuit III puncta",,"Brighton"
+"834","Futbol Warszawa","<b>11</b>",3,8,3,1975.28,,"@FWarszawie",
+"135","Adrian Aagesen","<b>11</b>",3,8,3,1979.27,"Victoria Concordia Crescit","@Aagesenadrian","Arsenal"
+"203","Søren Kjær Nielsen","<b>11</b>",3,8,3,1979.45,,"@sorenkjar","Tottenham"
+"270","Alex Hofer","<b>11</b>",3,8,3,1980.38,,"@inc_alx","BSC YB"
 "480","Jonathan Nicola","<b>11</b>",3,8,3,1980.88,,"@",
-"242","Andrew Caskie","<b>11</b>",3,8,3,1984.23,,"@caskieandrew",
+"475","Zeno Gorgels","<b>11</b>",3,8,3,1982.36,,"@",
+"884","Piotr Pawlaczyk","<b>11</b>",3,8,3,1982.53,,"@","Raków czestochowa"
+"439","FRANCOIS ERRARD","<b>11</b>",3,8,3,1983.79,,"@",
 "229","Stuart Dalgleish","<b>11</b>",3,8,3,1984.61,"Ready","@","Rangers"
+"1078","Marcin Biernacki","<b>11</b>",3,8,3,1984.98,"Great Mix of Competitions","@Biernalyst","Manchester United"
 "717","Lukas Frei","<b>11</b>",3,8,3,1986.33,,"@",
 "718","Lukas Frei","<b>11</b>",3,8,3,1986.33,,"@",
+"655","Christian Alonso","<b>11</b>",3,8,3,1987.07,,"@",
+"1072","Lukasz Bielawski","<b>11</b>",3,8,3,1987.14,,"@",
 "73","Pavel Domnicev","<b>11</b>",3,8,3,1987.33,"No money no fun!","@doit","Slavia Prague"
-"1035","Gael Englebert","<b>11</b>",3,8,3,1991.93,,"@GaelFord","RSCAnderlecht"
+"64","Oliver Zesiger","<b>11</b>",3,8,3,1987.85,"The early bird catches the worm. But the second mouse gets the cheese.","@aulit_z","FC Biel/Bienne"
+"835","Matej Bruzl","<b>11</b>",3,8,3,1989.61,,,"Sparta Praha"
+"698","Swiss Power","<b>11</b>",3,8,3,1989.98,"Fuck Red Bull","@",
+"13","Freddy Harper-Davis","<b>11</b>",3,8,3,1990.08,,"@",
+"442","Lukas Baca","<b>11</b>",3,8,3,1991.16,,"@",
 "317","Dawid Shha","<b>11</b>",3,8,3,1992.01,"Jebac real","@D1dekkk","BVB"
 "878","Eugene Kolesnyk","<b>11</b>",3,8,3,1992.28,"Win Peaks","@EugeneKo_92","Barcelona"
+"1051","Marcel Witas","<b>11</b>",3,8,3,1992.73,,"@mrcl1606","Legia Warszawa"
+"447","Salih Sohret","<b>11</b>",3,8,3,1993.71,"Rising Sun Over Earth","@onursohret","Fenerbahçe"
+"856","Przemyslaw Antoszczyk-Marciniak","<b>11</b>",3,8,3,1994,"Vincere non è importante, è l'unica cosa che conta","@Przemek_A_M","Juventus FC"
+"34","Tom Tom","<b>11</b>",3,8,3,1994.44,,"@",
+"931","Taner Ocak","<b>11</b>",3,8,3,1994.84,,"@taner35NL","Galatasaray"
+"19","Guillaume Gaoutte","<b>11</b>",3,8,3,1995.14,,"@gaoutte","Marseille"
+"665","Nicolas X","<b>11</b>",3,8,3,1995.2,"FC Potato","@",
+"677","Michail Pantourakis","<b>11</b>",3,8,3,1995.21,,,
+"149","Andrea Siciliano","<b>11</b>",3,8,3,1995.23,,"@","Milan"
+"1070","Krzysztof Lach","<b>11</b>",3,8,3,1995.28,,"@",
+"187","Mathieu Fauchère","<b>11</b>",3,8,3,1995.71,,"@Maedhros_16","Sion"
+"705","Sven Doc","<b>11</b>",3,8,3,1995.73,,"@","FC BASEL"
 "101","Rune De Rore","<b>11</b>",3,8,3,1996.34,,"@",
-"790","c britnell","<b>11</b>",3,8,3,1996.75,"cheap as chips",,
+"160","Bugra Oter","<b>11</b>",3,8,3,1996.66,,"@bu_ggyy","Fenerbahce"
+"684","Batur Bicer","<b>11</b>",3,8,3,1996.84,,"@","Besiktas"
+"492","Florian Bodoky","<b>11</b>",3,8,3,1997.18,,"@",
+"845","Mateusz Baginski","<b>11</b>",3,8,3,1997.28,"Hala Madrid","@matiq123","Real Madrid"
+"673","Ersel Evyapan","<b>11</b>",3,8,3,1997.72,,"@Icarruss",
+"785","Tomas Fara","<b>11</b>",3,8,3,1998.35,"knock it back, have another one","@","Dynamo CB"
+"972","Jeffrey Gabriel","<b>11</b>",3,8,3,1998.55,,"@",
+"110","Dominik Maeder","<b>11</b>",3,8,3,1998.62,"Wallies of the World unite","@ShogunDomi","FC Basel"
+"784","Elsad Muradov","<b>11</b>",3,8,3,1998.7,":3","@cryIex","Qarabag"
+"961","Szymon Bozykowski","<b>11</b>",3,8,3,1998.71,,"@","Legia Warszawa"
+"792","Thibault Walgraffe","<b>11</b>",3,8,3,1999,,"@",
+"90","Alex Donaldson","<b>11</b>",3,8,3,1999.04,,"@",
+"616","Fabian Spahr","<b>11</b>",3,8,3,1999.73,,,
+"697","Sean Woodman","<b>11</b>",3,8,3,1999.81,,"@woody773","Glasgow Rangers"
 "391","Bezimel Thehoneypot","<b>10</b>",2,8,2,1163.98,,"@Bezimiel",
+"29","Ninja Miky","<b>10</b>",2,8,2,1206.6,"Buy Smaller Clubs and make them successfull","@ninjamiky","BSC Young Boys"
 "455","Matthias Linder","<b>10</b>",2,8,2,1256.48,,,"FC Zürich"
+"338","Robin Almasulu","<b>10</b>",2,8,2,1656.39,,"@",
+"546","Thomas Quhelnik","<b>10</b>",2,8,2,1690.18,,"@","Sturm Graz"
 "57","Blaise Grüner","<b>10</b>",2,8,2,1742.52,"COYW","@","Fulham FC"
 "777","Mathieu Reichert","<b>10</b>",2,8,2,1812.2,,"@",
-"1080","Demian Gugger","<b>10</b>",2,8,2,1853.91,"No time left just random selection","@demiyoooo","YB"
-"1033","aydincan ozdemir","<b>10</b>",2,8,2,1865.05,,"@azzurri1907","fenerbahce"
-"481","George Klitsis","<b>10</b>",2,8,2,1894.19,"Future dreamers",,
+"458","Lucas Desseigne","<b>10</b>",2,8,2,1838.98,,"@","Servette"
+"122","ellar crn","<b>10</b>",2,8,2,1894.78,,"@conceicao_idlib",
 "383","James Melville","<b>10</b>",2,8,2,1897.83,,"@ixatara","Manchester United"
-"279","Bugra Mercan","<b>10</b>",2,8,2,1917.53,,"@bugramercan","Besiktas"
 "882","Jayan Metro","<b>10</b>",2,8,2,1920.41,,"@",
+"433","Joel Blanc","<b>10</b>",2,8,2,1922.33,,"@Rasta_Jol",
 "597","Sarujan Maheswaran","<b>10</b>",2,8,2,1935.15,,"@",
-"796","Wirunpat Kitipipat","<b>10</b>",2,8,2,1935.56,"Invest as you will die tomorrow",,"Liverpool"
 "802","Daniel Strahinov","<b>10</b>",2,8,2,1938.89,,"@","Levski Sofia"
 "833","Pawel Opillo","<b>10</b>",2,8,2,1939.89,,"@","Legia Warszawa"
-"1029","Faruk Isik","<b>10</b>",2,8,2,1943.46,"Türkiyem","@","Besiktas"
 "406","Rafal Starosta","<b>10</b>",2,8,2,1945.98,,"@",
-"134","Jákup Ósá","<b>10</b>",2,8,2,1953.38,,"@",
+"324","Radoslaw Stachnik","<b>10</b>",2,8,2,1950.18,,"@","Brighton & Hove Albion"
+"212","Colin Murray","<b>10</b>",2,8,2,1950.66,"We are the people","@ColinMu46255799","Rangers"
+"595","Strahinja Nikolic","<b>10</b>",2,8,2,1952.63,,"@","Crvena zvezda"
 "855","Bartosz Adamski","<b>10</b>",2,8,2,1954.85,"Be better than others","@B_Adamski","Slask Wroclaw"
-"689","Stigni .","<b>10</b>",2,8,2,1956.55,,"@stigni",
 "1046","maxime ibeas","<b>10</b>",2,8,2,1958.93,,"@VeVenom","OM"
-"474","David Parkes","<b>10</b>",2,8,2,1965.51,,"@dpnina10","Fiorentina/Anderlecht"
+"206","R R","<b>10</b>",2,8,2,1962.36,,"@",
 "393","Artur Gorczyca","<b>10</b>",2,8,2,1967.93,,"@artur_gorczyca","Newcastle United"
+"419","ge fe","<b>10</b>",2,8,2,1968.15,"No","@",
+"366","Jedrzej Jedrasiak","<b>10</b>",2,8,2,1971.28,,"@j_jedrasiak","Inter Milan"
+"16","Bobby M","<b>10</b>",2,8,2,1972.23,"No Surrender","@bobby_1872","Rangers"
 "620","Simon Ammann","<b>10</b>",2,8,2,1974.85,,"@","Barcelona"
 "942","František Láša","<b>10</b>",2,8,2,1975.41,,,
-"47","Milko Warming","<b>10</b>",2,8,2,1980.74,"Feyenoord to the Club World Cup","@","Feyenoord"
-"884","Piotr Pawlaczyk","<b>10</b>",2,8,2,1982.53,,"@","Raków czestochowa"
+"1041","Karolina Eschik","<b>10</b>",2,8,2,1978.18,,"@",
+"1056","Claude Peze","<b>10</b>",2,8,2,1981.7,,"@claudpeze",
+"1025","Kumral Temel","<b>10</b>",2,8,2,1983.23,"Aksi bizi bozar..!","@pray_bjk","Brighton"
 "829","Jimmy B","<b>10</b>",2,8,2,1983.29,,"@","Feyenoord"
 "599","Michal Voldán","<b>10</b>",2,8,2,1983.94,,"@michal_voldan",
-"948","Ilker Ugur","<b>10</b>",2,8,2,1983.96,,"@",
 "44","Hakim E","<b>10</b>",2,8,2,1984.51,"I did this on random","@_mrdoorey",
-"655","Christian Alonso","<b>10</b>",2,8,2,1987.07,,"@",
-"493","Aleksa Milinkov","<b>10</b>",2,8,2,1987.14,,"@","Red Star Belgrade"
-"1072","Lukasz Bielawski","<b>10</b>",2,8,2,1987.14,,"@",
+"747","Turan Suzan","<b>10</b>",2,8,2,1987.04,,"@","Sivasspor"
+"1036","Manu Van Wetter","<b>10</b>",2,8,2,1987.18,"nie pleuje, 9000","@ManuVanWetter","AA Gent"
+"319","Blazej Chyla","<b>10</b>",2,8,2,1987.21,,"@",
 "590","Thaïs Chételat","<b>10</b>",2,8,2,1987.51,,"@","Liverpool"
-"719","Bas Kahr","<b>10</b>",2,8,2,1987.8,,"@baskahr",
+"582","Jonas Künzi","<b>10</b>",2,8,2,1987.91,,"@itsmejonas_",
+"553","Christof Flück","<b>10</b>",2,8,2,1989.04,"Round thing in the not round thing","@fluegu_","BSC Young Boys"
+"987","Ahmet Kaya","<b>10</b>",2,8,2,1989.13,,"@",
 "83","Marcio Pinto","<b>10</b>",2,8,2,1989.44,,"@el_tuga1","SL Benfica and Servette"
-"477","Noa Parren","<b>10</b>",2,8,2,1989.51,"For French teams thinking is a city in China","@","Fortuna Sittard"
-"835","Matej Bruzl","<b>10</b>",2,8,2,1989.61,,,"Sparta Praha"
+"971","Ertugrul Okan","<b>10</b>",2,8,2,1989.58,"All I do Is Win","@ertugrulokan","Besiktas"
+"627","Scotland's Coefficient II","<b>10</b>",2,8,2,1989.81,"Return your empty jar of Scottish tears for a refund","@scotlandscoeff1",
 "821","Arne Joris","<b>10</b>",2,8,2,1989.96,,"@","Union Saint-Gilloise"
-"168","Plouky Roi du ciel","<b>10</b>",2,8,2,1990,,"@","Monaco"
-"13","Freddy Harper-Davis","<b>10</b>",2,8,2,1990.08,,"@",
 "507","Lilin Zhang","<b>10</b>",2,8,2,1990.33,,"@liltraveling",
 "31","CLIVE TYRER","<b>10</b>",2,8,2,1990.62,"Fatbear's Sporting Diaries","@Fatbear'sDiaries","Brighton and Hove Albion"
 "753","Elif Suzan","<b>10</b>",2,8,2,1991.65,,"@",
-"764","Kevin Sigel","<b>10</b>",2,8,2,1992.14,"Dür Räge und Wind","@","YB"
-"1051","Marcel Witas","<b>10</b>",2,8,2,1992.73,,"@mrcl1606","Legia Warszawa"
-"842","Wojciech Zareba","<b>10</b>",2,8,2,1992.78,,"@",
 "506","Maike Hensgens","<b>10</b>",2,8,2,1992.91,"Coëfficiënten polonaise",,"Ajax"
-"936","Rok Testen","<b>10</b>",2,8,2,1993.58,,"@","Olimpija Ljubljana"
-"955","Filip Kwiatkowski","<b>10</b>",2,8,2,1993.66,,"@szczerbateq","Arsenal"
-"447","Salih Sohret","<b>10</b>",2,8,2,1993.71,"Rising Sun Over Earth","@onursohret","Fenerbahçe"
-"856","Przemyslaw Antoszczyk-Marciniak","<b>10</b>",2,8,2,1994,"Vincere non è importante, è l'unica cosa che conta","@Przemek_A_M","Juventus FC"
+"62","Nathalie D","<b>10</b>",2,8,2,1993.2,"Carpe Diem","@PazzaNathy3","Inter Milan"
+"483","Mehmet Mert Kaplan","<b>10</b>",2,8,2,1993.84,,"@MehmetMertKpln","Fenerbahçe"
 "853","Bartosz Czyzewski","<b>10</b>",2,8,2,1994.02,"moneyball","@merksen99","Wisla Plock"
-"34","Tom Tom","<b>10</b>",2,8,2,1994.44,,"@",
-"19","Guillaume Gaoutte","<b>10</b>",2,8,2,1995.14,,"@gaoutte","Marseille"
-"705","Sven Doc","<b>10</b>",2,8,2,1995.73,,"@","FC BASEL"
+"1022","Ciaran Hugh Reid","<b>10</b>",2,8,2,1994.61,,"@","Celtic"
+"322","Jan Giolbas","<b>10</b>",2,8,2,1994.91,,"@Jazzi909",
+"123","Henrik Zimmermann","<b>10</b>",2,8,2,1995.43,,"@",
 "1011","Nixon Pike","<b>10</b>",2,8,2,1996.17,"Why lose when you can win?","@JoaoAreYouDoing","Man City + Servette FC"
 "198","raphael rehmann","<b>10</b>",2,8,2,1996.21,,,
-"730","Filip Marek","<b>10</b>",2,8,2,1996.32,"Win","@wellerman9","Leicester"
-"581","Michal N.","<b>10</b>",2,8,2,1996.41,,"@","Raków Czestochowa"
-"615","Sebastien Walthert","<b>10</b>",2,8,2,1996.41,,"@","Servette FC"
-"107","Lukas Kerzendörfer","<b>10</b>",2,8,2,1996.48,,"@flying_lukas","Freiburg"
+"125","Simon Urhofer","<b>10</b>",2,8,2,1996.56,"Long Live Europa Conference League","@SimonUrhofer","LASK"
 "775","Julien Blezis","<b>10</b>",2,8,2,1997,,"Ibedridus - Julien Blezis","SERVETTE FC"
-"845","Mateusz Baginski","<b>10</b>",2,8,2,1997.28,"Hala Madrid","@matiq123","Real Madrid"
 "202","Sergio Pastor","<b>10</b>",2,8,2,1997.43,,"@sergiopsvg","Freiburg"
-"509","Marc Christiano","<b>10</b>",2,8,2,1997.5,,"@","Young Boys"
 "891","Jan Ždárek","<b>10</b>",2,8,2,1997.61,,"@jan__zdarek",
 "899","Jan Ždárek","<b>10</b>",2,8,2,1997.61,,"@jan__zdarek",
-"626","Stefan Rolli","<b>10</b>",2,8,2,1997.61,,"@",
-"673","Ersel Evyapan","<b>10</b>",2,8,2,1997.72,,"@Icarruss",
-"633","Stuart MacLean","<b>10</b>",2,8,2,1998.01,"Tunnocks > Toblerone","@SameOldStuart","Rangers"
+"132","Lew McGoo","<b>10</b>",2,8,2,1997.84,,"@","Rangers"
+"131","Ante Radeljic","<b>10</b>",2,8,2,1997.98,"The more, the merrier","@","Manchester United"
 "713","Oliver Eckelhart","<b>10</b>",2,8,2,1998.08,,"@",
-"785","Tomas Fara","<b>10</b>",2,8,2,1998.35,"knock it back, have another one","@","Dynamo CB"
-"908","Jens Vertongen","<b>10</b>",2,8,2,1998.55,,"@",
+"76","Declan Campbell","<b>10</b>",2,8,2,1998.14,,"@",
+"245","Philipp Rüfenacht","<b>10</b>",2,8,2,1998.31,,"@",
+"385","Birnweich Basler","<b>10</b>",2,8,2,1998.38,"Business isch Business, Privat isch Privat (-David Degen)","@bireweich1893","FC Basel 1893"
 "562","Florian Raz","<b>10</b>",2,8,2,1998.61,"Maxime peccantes, quia nihil peccare conantur.","@razinger",
-"887","Manuel Tuscher","<b>10</b>",2,8,2,1998.63,,"@",
 "75","Mads Emil Abrahamson","<b>10</b>",2,8,2,1998.64,"Go big or go home","@_MadsEmil","AC Milan"
-"784","Elsad Muradov","<b>10</b>",2,8,2,1998.7,":3","@cryIex","Qarabag"
-"961","Szymon Bozykowski","<b>10</b>",2,8,2,1998.71,,"@","Legia Warszawa"
+"49","David Medroa","<b>10</b>",2,8,2,1998.65,,"@",
+"214","Jindrich Krátký","<b>10</b>",2,8,2,1998.74,,,
 "768","Richard Specht","<b>10</b>",2,8,2,1998.97,,"@richiespecht","SK Rapid"
-"529","Sakis Koukos","<b>10</b>",2,8,2,1999.3,,"@","PAOK"
+"517","Joel Gerster","<b>10</b>",2,8,2,1999.28,,"@",
+"262","Andi Kaufmann","<b>10</b>",2,8,2,1999.3,,,
+"502","Sebastian Andersson","<b>10</b>",2,8,2,1999.34,"Hoping for a miracle!","@sebbenandersson",
+"619","Richard Fussballgott","<b>10</b>",2,8,2,1999.38,,"@",
+"170","Pierre avw","<b>10</b>",2,8,2,1999.61,,"@pierreavw","Ajax"
 "236","Bobby Bob","<b>10</b>",2,8,2,1999.74,,"@",
-"697","Sean Woodman","<b>10</b>",2,8,2,1999.81,,"@woody773","Glasgow Rangers"
-"885","Karol Majówa","<b>10</b>",2,8,2,1999.91,,"@",
-"894","Dominik Rollauer","<b>10</b>",2,8,2,1999.98,,"@ukuesz",
+"934","Robospov Osphram","<b>9</b>",1,8,1,733.08,,"@",
+"1068","Brian Cops","<b>9</b>",1,8,1,1313.8,,,
+"712","Gabriel Batistuta","<b>9</b>",1,8,1,1656.82,,"@",
 "114","Y B","<b>9</b>",1,8,1,1817.17,,"@",
-"458","Lucas Desseigne","<b>9</b>",1,8,1,1838.98,,"@","Servette"
-"212","Colin Murray","<b>9</b>",1,8,1,1950.66,"We are the people","@ColinMu46255799","Rangers"
+"66","Anders Noer","<b>9</b>",1,8,1,1818.53,"The future is not what it used to be","@BemBuford11","Leeds"
+"461","Hector Lange","<b>9</b>",1,8,1,1914.55,,"@hector_lange","Basel"
+"365","HUBERT Szczech","<b>9</b>",1,8,1,1923.36,"Follow the sun","@",
+"87","Ryszard Kucharski","<b>9</b>",1,8,1,1928.61,"Raz przegrywasz, innym razem tez przegrywasz","@RysiekSuszy","Lech Poznan, Valur Reykiavik"
+"291","emin yavuz","<b>9</b>",1,8,1,1930.81,,"@",
+"1044","Christoph Böhlen","<b>9</b>",1,8,1,1945.95,,"@",
+"565","SEVEN SEVEN","<b>9</b>",1,8,1,1947.01,"BELIEVE",,
 "399","Michal P","<b>9</b>",1,8,1,1952.31,,"@panpreses",
+"881","Caner Gündüz","<b>9</b>",1,8,1,1954.09,"We're focusing on the next matches","@UlkePuan",
+"18","Chris Wachtler","<b>9</b>",1,8,1,1958.12,,"@chris_wachtler","KI Klaksvik"
+"20","Nikola Krsmanic","<b>9</b>",1,8,1,1960.68,,"@","Crvena zvezda"
+"608","Patrick Schär","<b>9</b>",1,8,1,1961.64,,"@ExtraDip78",
 "503","Vojtech Kinda","<b>9</b>",1,8,1,1968.09,,"@VojtaKinda","Slavia Prague"
-"419","ge fe","<b>9</b>",1,8,1,1968.15,"No","@",
-"16","Bobby M","<b>9</b>",1,8,1,1972.23,"No Surrender","@bobby_1872","Rangers"
-"203","Søren Kjær Nielsen","<b>9</b>",1,8,1,1979.45,,"@sorenkjar","Tottenham"
+"985","Angelo Marras","<b>9</b>",1,8,1,1968.33,,"@","FC Basel"
+"859","Mateusz Mikolajczak","<b>9</b>",1,8,1,1968.91,,"@",
+"1067","Martin N","<b>9</b>",1,8,1,1978.54,,"@",
 "532","Pawel Muszynski","<b>9</b>",1,8,1,1981.23,,"@",
-"475","Zeno Gorgels","<b>9</b>",1,8,1,1982.36,,"@",
+"408","Ufuk Can Meydan","<b>9</b>",1,8,1,1985.43,,"@ucmeydan","Besiktas"
+"1054","Renato Fuchs","<b>9</b>",1,8,1,1985.81,,"@refox_26","Fc Basel"
 "671","Kerem Eyuboglu","<b>9</b>",1,8,1,1986.01,"I believe in our turkish rivals","@kerem_eyb","Galatasaray"
-"319","Blazej Chyla","<b>9</b>",1,8,1,1987.21,,"@",
-"64","Oliver Zesiger","<b>9</b>",1,8,1,1987.85,"The early bird catches the worm. But the second mouse gets the cheese.","@aulit_z","FC Biel/Bienne"
-"691","Milos Andjelic","<b>9</b>",1,8,1,1989.18,"Also never in doubt","@","Crvena zvezda"
+"429","Tobias Walt","<b>9</b>",1,8,1,1986.78,,"TobiasWalt@",
+"523","malin mayer","<b>9</b>",1,8,1,1987.48,,"@","basel"
+"810","Dominic Aerts","<b>9</b>",1,8,1,1992.63,,"@praet0rian86",
 "622","Nik Jošt","<b>9</b>",1,8,1,1992.81,,"@sloveninho1",
+"756","Christian K.","<b>9</b>",1,8,1,1993.54,,"@","BSC Young Boys"
 "171","Rab Forsyth","<b>9</b>",1,8,1,1994.04,"Ready","@rab_kebab","Rangers"
-"149","Andrea Siciliano","<b>9</b>",1,8,1,1995.23,,"@","Milan"
+"613","Christian K.","<b>9</b>",1,8,1,1995.65,"Ever tried. Ever failed. No matter. Try again. Fail better.","@","YB"
+"218","Stephen Morrison","<b>9</b>",1,8,1,1995.88,"Deep fried pizza","@stemorry",
+"567","Pippie Beegden","<b>9</b>",1,8,1,1996.31,"It was as if that great rush of anger had washed me clean, emptied me of hope, and, gazing up at the dark sky spangled with its signs and stars, for the first time, I laid my heart open to the benign indifference of the universe. To feel it so like myself, indeed, so brotherly, made me realize that I'd been happy, and that I was happy still. For all to be accomplished, for me to feel less lonely, all that remained to hope was that on the day of my execution there should be a huge crowd of spectators and that they should greet me with howls of execration.","@","Roda JC Kerkrade"
+"173","Stefan Keller","<b>9</b>",1,8,1,1996.36,"C'mon Young Boys!","@stYBu","BSC Young Boys"
 "249","Lukas Schmid","<b>9</b>",1,8,1,1996.82,,"@",
-"76","Declan Campbell","<b>9</b>",1,8,1,1998.14,,"@",
-"648","Jonathan Swindell","<b>9</b>",1,8,1,1998.9,,"@","Aberdeen"
-"90","Alex Donaldson","<b>9</b>",1,8,1,1999.04,,"@",
+"454","Sven Trottmann","<b>9</b>",1,8,1,1996.96,,"@Sven1033","FC Basel"
+"405","Lars Grasmück","<b>9</b>",1,8,1,1997.97,,"@","Eintracht Frankfurt"
+"557","Stefan Vetsch","<b>9</b>",1,8,1,1998.62,"Don't hate the player, hate the game","@","YB"
+"396","Kuba Bogusz","<b>9</b>",1,8,1,1999.15,"idk","@kjuba165","Manchester United"
 "182","Kai von Fintel","<b>9</b>",1,8,1,1999.3,,"@NFL_Sentiments","Sporting KC"
 "999","Fabian Hankey","<b>9</b>",1,8,1,1999.31,,"@",
-"502","Sebastian Andersson","<b>9</b>",1,8,1,1999.34,"Hoping for a miracle!","@sebbenandersson",
-"619","Richard Fussballgott","<b>9</b>",1,8,1,1999.38,,"@",
-"170","Pierre avw","<b>9</b>",1,8,1,1999.61,,"@pierreavw","Ajax"
-"934","Robospov Osphram","<b>8</b>",0,8,0,733.08,,"@",
-"29","Ninja Miky","<b>8</b>",0,8,0,1206.6,"Buy Smaller Clubs and make them successfull","@ninjamiky","BSC Young Boys"
-"1068","Brian Cops","<b>8</b>",0,8,0,1313.8,,,
+"820","Michael Zuberbühler","<b>9</b>",1,8,1,1999.35,,"@",
+"335","Nopan Dapoint","<b>9</b>",1,8,1,1999.38,,"@",
+"351","Matthis Van Wesemael","<b>9</b>",1,8,1,1999.61,,"@","kan gent"
+"524","Nick Conway","<b>9</b>",1,8,1,1999.93,,"@nicholasconway","YB"
 "441","Dejan Cah","<b>8</b>",0,8,0,1652.51,"""we'll be champions if they allow it""","@","Hajduk Split"
-"338","Robin Almasulu","<b>8</b>",0,8,0,1656.39,,"@",
-"712","Gabriel Batistuta","<b>8</b>",0,8,0,1656.82,,"@",
-"546","Thomas Quhelnik","<b>8</b>",0,8,0,1690.18,,"@","Sturm Graz"
-"145","Dominik Donzé","<b>8</b>",0,8,0,1693.46,"Work smarter not harder","@dominikdonze","FC Basel 1893"
-"263","Martin Catillaz","<b>8</b>",0,8,0,1808.37,"Fokus","@mcaedi","Young Boys Bern"
-"448","Adrian Boruch","<b>8</b>",0,8,0,1809.57,"Nawet jesli przegrywasz, musisz walczyc","@adiczko","Real Madrid"
-"199","Tomáš Havlík","<b>8</b>",0,8,0,1816.81,"Nil satis nisi optimum","@Havlajz","Slavia Praha"
-"66","Anders Noer","<b>8</b>",0,8,0,1818.53,"The future is not what it used to be","@BemBuford11","Leeds"
+"268","Skanelaget Skanelaget","<b>8</b>",4,4,4,1733.85,,"@skanelaget",
+"67","Hakan Alex Sen","<b>8</b>",4,4,4,1782.4,"Boycott New 24/25 Format!","@finnishkebab","Besiktas"
+"191","Liam Wenger","<b>8</b>",4,4,4,1856.6,,"@NopeYouNot",
 "902","Ako Proto","<b>8</b>",0,8,0,1882.54,,"@AkoProtoo","Racing Genk"
-"122","ellar crn","<b>8</b>",0,8,0,1894.78,,"@conceicao_idlib",
-"461","Hector Lange","<b>8</b>",0,8,0,1914.55,,"@hector_lange","Basel"
-"433","Joel Blanc","<b>8</b>",0,8,0,1922.33,,"@Rasta_Jol",
-"365","HUBERT Szczech","<b>8</b>",0,8,0,1923.36,"Follow the sun","@",
-"739","Jarne Schellinckx","<b>8</b>",0,8,0,1926.09,,"@jarne2000",
-"87","Ryszard Kucharski","<b>8</b>",0,8,0,1928.61,"Raz przegrywasz, innym razem tez przegrywasz","@RysiekSuszy","Lech Poznan, Valur Reykiavik"
-"291","emin yavuz","<b>8</b>",0,8,0,1930.81,,"@",
-"426","Robert Garrick","<b>8</b>",0,8,0,1936.58,"Ready","@glasrang",
-"1032","Berath Demirel","<b>8</b>",0,8,0,1939.53,,"@","Fenerbahçe"
-"414","Mateusz Konsek","<b>8</b>",0,8,0,1945.93,,"@Mateusz79606544","Real madrit"
-"1044","Christoph Böhlen","<b>8</b>",0,8,0,1945.95,,"@",
-"565","SEVEN SEVEN","<b>8</b>",0,8,0,1947.01,"BELIEVE",,
-"903","Ülke puan Analiz","<b>8</b>",0,8,0,1948.96,"<U+0001F1F9><U+0001F1F7><U+0001F1F9><U+0001F1F7>","@ulke_puan",
-"324","Radoslaw Stachnik","<b>8</b>",0,8,0,1950.18,,"@","Brighton & Hove Albion"
-"595","Strahinja Nikolic","<b>8</b>",0,8,0,1952.63,,"@","Crvena zvezda"
-"1030","Redmer Bouma","<b>8</b>",0,8,0,1953.26,,"@",
+"872","Oliver Dykes","<b>8</b>",4,4,4,1912.8,,"@oliverdykes","Chelsea"
+"842","Kilian Weber","<b>8</b>",4,4,4,1933.98,"Predicted overperformers for this international season","@kilian_weber","FC Schaffhausen"
 "156","Stefan Trottmann","<b>8</b>",0,8,0,1953.29,,"@StefT96","FC Zürich"
-"881","Caner Gündüz","<b>8</b>",0,8,0,1954.09,"We're focusing on the next matches","@UlkePuan",
-"18","Chris Wachtler","<b>8</b>",0,8,0,1958.12,,"@chris_wachtler","KI Klaksvik"
+"501","Damian Lupinski","<b>8</b>",4,4,4,1955.2,,,"Arsenal"
+"776","Ülke puan Analiz","<b>8</b>",4,4,4,1958.78,"Avrupa kirmizi beyaz olacak <U+0001F1F9><U+0001F1F7>","@ulke_puan",
 "1063","Branko Popovic","<b>8</b>",0,8,0,1959.04,,"@krkanpopan","Red Star"
-"20","Nikola Krsmanic","<b>8</b>",0,8,0,1960.68,,"@","Crvena zvezda"
-"696","Stinco Clandestino","<b>8</b>",0,8,0,1960.76,,"@",
-"737","Théo Koui","<b>8</b>",0,8,0,1960.91,,"@","Dresden"
-"608","Patrick Schär","<b>8</b>",0,8,0,1961.64,,"@ExtraDip78",
-"206","R R","<b>8</b>",0,8,0,1962.36,,"@",
-"224","riccardo ferraro","<b>8</b>",0,8,0,1966.71,,"@rf1893",
-"985","Angelo Marras","<b>8</b>",0,8,0,1968.33,,"@","FC Basel"
-"859","Mateusz Mikolajczak","<b>8</b>",0,8,0,1968.91,,"@",
-"321","Antonio Giachino","<b>8</b>",0,8,0,1968.95,"WWM",,
-"676","Michail Pantourakis","<b>8</b>",0,8,0,1969.28,,,
-"378","Marcin Mani","<b>8</b>",0,8,0,1969.73,,"@mani10pl",
-"77","Joseph Corlett","<b>8</b>",0,8,0,1970.73,,"@joeycorlett",
-"366","Jedrzej Jedrasiak","<b>8</b>",0,8,0,1971.28,,"@j_jedrasiak","Inter Milan"
-"162","Nicolas Walgraffe","<b>8</b>",0,8,0,1972.73,,"@","Standard de Liège"
-"771","Ben Doeven","<b>8</b>",0,8,0,1973.76,"Let´s go!","@","AFC Ajax"
-"413","Niek Wouters","<b>8</b>",0,8,0,1974.19,"Veni, Vidi, obtinuit III puncta",,"Brighton"
 "121","Bogdan Simic","<b>8</b>",0,8,0,1974.32,,"@","Crvena Zvezda"
-"834","Futbol Warszawa","<b>8</b>",0,8,0,1975.28,,"@FWarszawie",
-"741","Alain Légeret","<b>8</b>",0,8,0,1977.42,"Tempora mori tempora mundis recorda","@","Bayern München"
-"1041","Karolina Eschik","<b>8</b>",0,8,0,1978.18,,"@",
-"1067","Martin N","<b>8</b>",0,8,0,1978.54,,"@",
-"135","Adrian Aagesen","<b>8</b>",0,8,0,1979.27,"Victoria Concordia Crescit","@Aagesenadrian","Arsenal"
-"270","Alex Hofer","<b>8</b>",0,8,0,1980.38,,"@inc_alx","BSC YB"
-"755","Hoschi Dude","<b>8</b>",0,8,0,1980.4,,"@",
+"528","Michal Domzalski","<b>8</b>",4,4,4,1975.39,,"@",
+"848","Pawel Roszyk","<b>8</b>",4,4,4,1979.1,,"@pawelroszyk",
+"586","Ege Ozcan","<b>8</b>",4,4,4,1979.76,,"@ozcanege","Fenerbahce"
+"749","Oguzhan Uyunc","<b>8</b>",4,4,4,1980.32,,"@","Fenerbahçe"
 "417","Samuel Schöbi","<b>8</b>",0,8,0,1980.72,,"@",
-"1056","Claude Peze","<b>8</b>",0,8,0,1981.7,,"@claudpeze",
-"1025","Kumral Temel","<b>8</b>",0,8,0,1983.23,"Aksi bizi bozar..!","@pray_bjk","Brighton"
-"439","FRANCOIS ERRARD","<b>8</b>",0,8,0,1983.79,,"@",
-"1078","Marcin Biernacki","<b>8</b>",0,8,0,1984.98,"Great Mix of Competitions","@Biernalyst","Manchester United"
-"498","Kerem Cengiz","<b>8</b>",0,8,0,1985.19,,"@kerem_cengizz","galatasaray"
-"408","Ufuk Can Meydan","<b>8</b>",0,8,0,1985.43,,"@ucmeydan","Besiktas"
-"1054","Renato Fuchs","<b>8</b>",0,8,0,1985.81,,"@refox_26","Fc Basel"
-"1019","Štepán Komárek","<b>8</b>",0,8,0,1986.65,,"@Komix_SKS","Slavia"
-"429","Tobias Walt","<b>8</b>",0,8,0,1986.78,,"TobiasWalt@",
-"747","Turan Suzan","<b>8</b>",0,8,0,1987.04,,"@","Sivasspor"
-"1036","Manu Van Wetter","<b>8</b>",0,8,0,1987.18,"nie pleuje, 9000","@ManuVanWetter","AA Gent"
-"523","malin mayer","<b>8</b>",0,8,0,1987.48,,"@","basel"
-"582","Jonas Künzi","<b>8</b>",0,8,0,1987.91,,"@itsmejonas_",
+"166","Simon de Jong","<b>8</b>",4,4,4,1980.8,,"@","SC Heerenveen"
+"670","Slawomir Gerej","<b>8</b>",4,4,4,1981.4,,"@",
+"85","Raffi L","<b>8</b>",4,4,4,1982.15,,"@raffi1901",
+"387","Filip Unierzyski","<b>8</b>",4,4,4,1982.88,"Polska Gurom!","@","Pogon Szczecin"
+"78","James Fotheringham","<b>8</b>",4,4,4,1983.58,"Ironowl FM on YouTube","@IronowlFM","Sheffield Wednesday"
+"660","Fraser McDougall","<b>8</b>",4,4,4,1984.97,"Humza Yousaf Loyal RSC","@MFearghal","Rangers"
+"657","Scott Smith","<b>8</b>",4,4,4,1985.53,,"@",
+"398","Shefqet Fejzo","<b>8</b>",4,4,4,1986.98,,"@ShefqetFejzo11","AEK Athens"
 "148","Simon Spelman","<b>8</b>",0,8,0,1988.38,,"@simonspelman","FC Lugano"
 "858","Dario Schnetzer","<b>8</b>",0,8,0,1988.69,"BVB WILL WIN THE CL","@daarsc21","BVB"
-"553","Christof Flück","<b>8</b>",0,8,0,1989.04,"Round thing in the not round thing","@fluegu_","BSC Young Boys"
 "656","Oli Anken","<b>8</b>",0,8,0,1989.08,,"@",
-"987","Ahmet Kaya","<b>8</b>",0,8,0,1989.13,,"@",
-"241","Richard Wilson","<b>8</b>",0,8,0,1989.21,,"@hyfprw",
-"971","Ertugrul Okan","<b>8</b>",0,8,0,1989.58,"All I do Is Win","@ertugrulokan","Besiktas"
 "412","Arkadiusz Michalak","<b>8</b>",0,8,0,1989.72,,"@","GKS Tychy"
-"627","Scotland's Coefficient II","<b>8</b>",0,8,0,1989.81,"Return your empty jar of Scottish tears for a refund","@scotlandscoeff1",
+"82","Ping Pong","<b>8</b>",4,4,4,1989.78,"Hapoel Zona","@","Maccabi Tel Aviv"
 "320","Niko Laic","<b>8</b>",0,8,0,1989.88,,"@",
-"698","Swiss Power","<b>8</b>",0,8,0,1989.98,"Fuck Red Bull","@",
-"442","Lukas Baca","<b>8</b>",0,8,0,1991.16,,"@",
 "349","Sean Cummins","<b>8</b>",0,8,0,1991.25,,"@seanxcummins","Shamrock Rovers"
-"692","David Weibel","<b>8</b>",0,8,0,1992.03,,"@",
-"810","Dominic Aerts","<b>8</b>",0,8,0,1992.63,,"@praet0rian86",
 "434","Steven Delaney","<b>8</b>",0,8,0,1992.68,,"@",
-"62","Nathalie D","<b>8</b>",0,8,0,1993.2,"Carpe Diem","@PazzaNathy3","Inter Milan"
-"756","Christian K.","<b>8</b>",0,8,0,1993.54,,"@","BSC Young Boys"
-"483","Mehmet Mert Kaplan","<b>8</b>",0,8,0,1993.84,,"@MehmetMertKpln","Fenerbahçe"
-"527","M Oertle","<b>8</b>",0,8,0,1994.23,"Moneyball","@_moertle",
+"568","Daniel Mitrofanov","<b>8</b>",4,4,4,1994.18,,"@","FC Barcelona"
 "1057","Sam Bra","<b>8</b>",0,8,0,1994.27,,"@",
 "984","Christoph Bosnjak","<b>8</b>",0,8,0,1994.29,,"@Chr_Bosnjak","FC Salzburg"
 "631","David Stewart","<b>8</b>",0,8,0,1994.44,"READY","@stewarty315","Rangers"
-"1022","Ciaran Hugh Reid","<b>8</b>",0,8,0,1994.61,,"@","Celtic"
 "591","Mat Busa","<b>8</b>",0,8,0,1994.66,,"@mat_busa","FC Lugano"
-"931","Taner Ocak","<b>8</b>",0,8,0,1994.84,,"@taner35NL","Galatasaray"
-"632","Alain Légeret","<b>8</b>",0,8,0,1994.87,,"@","Bayenr München"
-"322","Jan Giolbas","<b>8</b>",0,8,0,1994.91,,"@Jazzi909",
-"665","Nicolas X","<b>8</b>",0,8,0,1995.2,"FC Potato","@",
-"677","Michail Pantourakis","<b>8</b>",0,8,0,1995.21,,,
-"1070","Krzysztof Lach","<b>8</b>",0,8,0,1995.28,,"@",
-"123","Henrik Zimmermann","<b>8</b>",0,8,0,1995.43,,"@",
-"613","Christian K.","<b>8</b>",0,8,0,1995.65,"Ever tried. Ever failed. No matter. Try again. Fail better.","@","YB"
-"187","Mathieu Fauchère","<b>8</b>",0,8,0,1995.71,,"@Maedhros_16","Sion"
-"218","Stephen Morrison","<b>8</b>",0,8,0,1995.88,"Deep fried pizza","@stemorry",
+"53","Benjamin Signer","<b>8</b>",4,4,4,1994.79,,"@","Arsenal"
+"497","Thomas Falconer","<b>8</b>",4,4,4,1995.06,,"@tflcnr","Rangers"
+"411","Kamil Nawrot","<b>8</b>",4,4,4,1995.48,,"@_shy2ler",
 "1071","Hector Paz","<b>8</b>",0,8,0,1995.92,"please don't lose","@manunitedperu","Manchester United"
-"567","Pippie Beegden","<b>8</b>",0,8,0,1996.31,"It was as if that great rush of anger had washed me clean, emptied me of hope, and, gazing up at the dark sky spangled with its signs and stars, for the first time, I laid my heart open to the benign indifference of the universe. To feel it so like myself, indeed, so brotherly, made me realize that I'd been happy, and that I was happy still. For all to be accomplished, for me to feel less lonely, all that remained to hope was that on the day of my execution there should be a huge crowd of spectators and that they should greet me with howls of execration.","@","Roda JC Kerkrade"
-"173","Stefan Keller","<b>8</b>",0,8,0,1996.36,"C'mon Young Boys!","@stYBu","BSC Young Boys"
-"125","Simon Urhofer","<b>8</b>",0,8,0,1996.56,"Long Live Europa Conference League","@SimonUrhofer","LASK"
-"160","Bugra Oter","<b>8</b>",0,8,0,1996.66,,"@bu_ggyy","Fenerbahce"
-"684","Batur Bicer","<b>8</b>",0,8,0,1996.84,,"@","Besiktas"
-"454","Sven Trottmann","<b>8</b>",0,8,0,1996.96,,"@Sven1033","FC Basel"
+"944","Andrei Bugeac","<b>8</b>",4,4,4,1996.13,,"@AndreiBugeac","Liverpool"
+"117","Andrew Rowney","<b>8</b>",4,4,4,1996.28,,"@",
 "538","Adam KRACÍK","<b>8</b>",0,8,0,1997.03,"I will look at the results!","@",
-"492","Florian Bodoky","<b>8</b>",0,8,0,1997.18,,"@",
 "652","Lorenz Rentsch","<b>8</b>",0,8,0,1997.25,,"@",
-"266","Hüseyin Yücel","<b>8</b>",0,8,0,1997.58,"The one with Icardi on their team WINS","@hellobadi","Galatasaray"
-"132","Lew McGoo","<b>8</b>",0,8,0,1997.84,,"@","Rangers"
-"405","Lars Grasmück","<b>8</b>",0,8,0,1997.97,,"@","Eintracht Frankfurt"
-"131","Ante Radeljic","<b>8</b>",0,8,0,1997.98,"The more, the merrier","@","Manchester United"
-"245","Philipp Rüfenacht","<b>8</b>",0,8,0,1998.31,,"@",
-"385","Birnweich Basler","<b>8</b>",0,8,0,1998.38,"Business isch Business, Privat isch Privat (-David Degen)","@bireweich1893","FC Basel 1893"
-"972","Jeffrey Gabriel","<b>8</b>",0,8,0,1998.55,,"@",
-"110","Dominik Maeder","<b>8</b>",0,8,0,1998.62,"Wallies of the World unite","@ShogunDomi","FC Basel"
-"557","Stefan Vetsch","<b>8</b>",0,8,0,1998.62,"Don't hate the player, hate the game","@","YB"
-"49","David Medroa","<b>8</b>",0,8,0,1998.65,,"@",
-"214","Jindrich Krátký","<b>8</b>",0,8,0,1998.74,,,
-"213","Damiano Mirabelli","<b>8</b>",0,8,0,1998.88,"The Mathemagician",,"Fc Basel"
-"943","Kamil Sleczka","<b>8</b>",0,8,0,1998.98,,"@",
-"792","Thibault Walgraffe","<b>8</b>",0,8,0,1999,,"@",
+"642","Jack Cruden","<b>8</b>",4,4,4,1997.98,,"@","Rangers"
+"1023","Big H","<b>8</b>",4,4,4,1998.05,"Hader Viborg","@","Midtjylland"
+"325","Eric Amstutz","<b>8</b>",4,4,4,1998.3,"Concference League und City","@","YB"
 "105","Gabriel Castillo","<b>8</b>",0,8,0,1999.05,,"@","Servette fc"
-"161","Neal Aebersold","<b>8</b>",0,8,0,1999.05,,"@","BSC Young Boys"
 "421","james crossan","<b>8</b>",0,8,0,1999.15,,"@jamescrossan8",
-"396","Kuba Bogusz","<b>8</b>",0,8,0,1999.15,"idk","@kjuba165","Manchester United"
-"517","Joel Gerster","<b>8</b>",0,8,0,1999.28,,"@",
-"262","Andi Kaufmann","<b>8</b>",0,8,0,1999.3,,,
-"820","Michael Zuberbühler","<b>8</b>",0,8,0,1999.35,,"@",
-"335","Nopan Dapoint","<b>8</b>",0,8,0,1999.38,,"@",
+"42","Timothy Widmer","<b>8</b>",4,4,4,1999.39,,"@",
+"137","Rémi Le Sciellour","<b>8</b>",4,4,4,1999.4,,"@","LOSC Lille"
 "228","Jack Henley","<b>8</b>",0,8,0,1999.43,"Underdogs always winners","@Red_Devil_Of_MU","Manchester united and ServetteFC"
 "172","Andrew Healy","<b>8</b>",0,8,0,1999.51,,"@","Celtic"
-"351","Matthis Van Wesemael","<b>8</b>",0,8,0,1999.61,,"@","kan gent"
-"616","Fabian Spahr","<b>8</b>",0,8,0,1999.73,,,
 "847","George Serban","<b>8</b>",0,8,0,1999.83,"Orbis non sufficit","@SirBanGeo","FC Basel"
-"524","Nick Conway","<b>8</b>",0,8,0,1999.93,,"@nicholasconway","YB"
+"469","Arvids Stasans","<b>7</b>",3,4,3,1828.86,,"@",
+"189","Agshin Garayev","<b>7</b>",3,4,3,1896.93,"Some of you my die, but it's a sacrifice I'm willing to make (lord Farquaad)","@agshin_garayev","Fenerbahçe"
+"646","Leisele G","<b>7</b>",3,4,3,1906.58,,"@Schaermacher","Newcastle"
+"758","Andreas Esterer","<b>7</b>",3,4,3,1941.04,,"@",
+"113","Gerben Thijs","<b>7</b>",3,4,3,1942.88,"Best of the Rest","@gerbtheking1","Genk"
+"403","Przemek Cichon","<b>7</b>",3,4,3,1956.93,,"@",
+"56","Magnus Eriksen","<b>7</b>",3,4,3,1965.9,"If it aint broke, dont fix it","@","FC København"
+"329","Benj von Falkenstein","<b>7</b>",3,4,3,1967.37,,"@benjvf",
+"811","Florian De Groote","<b>7</b>",3,4,3,1967.78,"Struggle FC","@watersoaker2","AA Gent"
+"875","Caner Gündüz","<b>7</b>",3,4,3,1969.86,"We're focusing on the next matches","@UlkePuan",
+"51","Ásmundur Ragnarsson","<b>7</b>",3,4,3,1970.63,"Win games","@AsmundurSmari","KA Akureyri"
+"815","Jeremy Felber","<b>7</b>",3,4,3,1976.99,"Boniface","@AZN_CheJery","BSC Young Boys"
+"870","Oliver Glättli","<b>7</b>",3,4,3,1982.59,,"@",
+"86","Josip Ivancan","<b>7</b>",3,4,3,1982.98,,"@IvancanJosip",
+"278","Dawid Borek","<b>7</b>",3,4,3,1988.23,,"@SzuriaToFuria",
+"759","For Vert","<b>7</b>",3,4,3,1989.01,,,
+"380","Przemek Swiecinski","<b>7</b>",3,4,3,1992.19,"kupuj drozej, sprzedaj taniej","@Przem0_o","Legia Warszawa, Raków Czestochowa"
+"479","Sidar Eryilmaz","<b>7</b>",3,4,3,1992.31,,"@",
+"900","Pablo -","<b>7</b>",3,4,3,1993.88,,"@Pawelp98",
+"787","Ales Marek","<b>7</b>",3,4,3,1996.93,,"@",
+"106","Tarik Atakan","<b>7</b>",3,4,3,1997.53,"Down with the UCL!","@TarikAtakan1907","Fenerbahce"
+"307","Piotr Winek","<b>7</b>",3,4,3,1998.21,,"@pitorek",
+"793","Pavel Fara","<b>7</b>",3,4,3,1999.73,"Early bird gets to nut","@","Dynamo CB B"
+"574","Yannick Martin","<b>6</b>",2,4,2,1253.88,,"@",
 "561","hayri ülgen","<b>6</b>",2,4,2,1324.6,,"@",
-"268","Skanelaget Skanelaget","<b>6</b>",2,4,2,1733.85,,"@skanelaget",
+"124","Patrick Caskie","<b>6</b>",2,4,2,1619.66,,"@patrickcaskie","Rangers"
+"1021","Sean Graham","<b>6</b>",2,4,2,1621.64,,"@","Glasgow rangers"
+"364","Kacper Pacocha","<b>6</b>",2,4,2,1691.18,,"@KacperPacocha1",
+"566","Harry Schlender","<b>6</b>",2,4,2,1719.25,,"@harry_schlender","BSC Young Boys"
 "1072","Grzegorz Legutko","<b>6</b>",2,4,2,1742.1,,"@rastel01","Barcelona"
-"67","Hakan Alex Sen","<b>6</b>",2,4,2,1782.4,"Boycott New 24/25 Format!","@finnishkebab","Besiktas"
 "606","Joao Venturelli","<b>6</b>",2,4,2,1812.95,,"@joaomventurelli",
 "271","Dawid Gosciak","<b>6</b>",2,4,2,1855.3,,"@dawidgosciak",
-"872","Oliver Dykes","<b>6</b>",2,4,2,1912.8,,"@oliverdykes","Chelsea"
-"501","Damian Lupinski","<b>6</b>",2,4,2,1955.2,,,"Arsenal"
-"776","Ülke puan Analiz","<b>6</b>",2,4,2,1958.78,"Avrupa kirmizi beyaz olacak <U+0001F1F9><U+0001F1F7>","@ulke_puan",
+"1002","Cakrawala Galang Nusantara","<b>6</b>",2,4,2,1942.57,"Trust Your Guts","@galangn__","AS Roma"
+"629","Cameron Gray","<b>6</b>",2,4,2,1945.18,"COYBIG","@cammyg67","Celtic"
+"462","James McKenna","<b>6</b>",2,4,2,1956.69,"Roma wasn’t built in a day- Irish Mick","@jamesmckennaCFC","Celtic FC"
 "779","aytug abbasoglu","<b>6</b>",2,4,2,1962.36,,"@Goktug1669","Fenerbahce"
+"596","till jost","<b>6</b>",2,4,2,1964.1,,"@",
 "1037","Kapi T","<b>6</b>",2,4,2,1964.26,,"@",
 "470","Alvin Koualef","<b>6</b>",2,4,2,1964.52,"Kevin Durant Durant","@",
+"754","Eliana Amboni","<b>6</b>",2,4,2,1965.16,"Conference League best league","@",
 "892","Pawel Borkowski","<b>6</b>",2,4,2,1966.83,,"@borek99",
-"528","Michal Domzalski","<b>6</b>",2,4,2,1975.39,,"@",
+"129","Jako Jakopak","<b>6</b>",2,4,2,1967.66,,"@","Vardar"
+"428","Luis Reinbold","<b>6</b>",2,4,2,1970.3,,"@","FC Basel"
+"84","Maximilian Meyer","<b>6</b>",2,4,2,1971.28,,"@meyermaximilian",
+"560","Birkan Dogan","<b>6</b>",2,4,2,1976.43,,"@",
+"25","Thomas Erbrich","<b>6</b>",2,4,2,1977.23,"Aim for the moon and reach for the stars","@toto_1890","Servette FC"
 "151","Aloïs Cocchetti","<b>6</b>",2,4,2,1979.04,,"@_alc37","Servette fc"
-"848","Pawel Roszyk","<b>6</b>",2,4,2,1979.1,,"@pawelroszyk",
 "825","Bruno Salamon","<b>6</b>",2,4,2,1979.11,,"@LivajinPP","GNK Dinamo Zagreb"
+"709","Mads Birkeland","<b>6</b>",2,4,2,1979.15,"LessIsMore","maaxbirk","Fc Basel"
 "780","Ilker Ugur","<b>6</b>",2,4,2,1979.46,,"@",
+"154","Radek Diviš","<b>6</b>",2,4,2,1979.51,,"@divisradek1","AC Sparta Prague"
 "260","Tech Money","<b>6</b>",2,4,2,1979.6,,,
-"586","Ege Ozcan","<b>6</b>",2,4,2,1979.76,,"@ozcanege","Fenerbahce"
-"749","Oguzhan Uyunc","<b>6</b>",2,4,2,1980.32,,"@","Fenerbahçe"
 "28","Yigit Altinöz","<b>6</b>",2,4,2,1980.51,"Fun","@yigitaltinoz","Fenerbahçe"
-"166","Simon de Jong","<b>6</b>",2,4,2,1980.8,,"@","SC Heerenveen"
-"670","Slawomir Gerej","<b>6</b>",2,4,2,1981.4,,"@",
-"85","Raffi L","<b>6</b>",2,4,2,1982.15,,"@raffi1901",
+"250","Jordan Huart","<b>6</b>",2,4,2,1982.08,"CoefficientBelgeNamur","@Huart8huart","La Gantoise"
 "208","Mathieu Coucke","<b>6</b>",2,4,2,1982.68,,"@","US Créteil Lusitanos"
-"387","Filip Unierzyski","<b>6</b>",2,4,2,1982.88,"Polska Gurom!","@","Pogon Szczecin"
 "852","Jakub Chybiak","<b>6</b>",2,4,2,1983.05,,"@","Legia"
+"817","Tristan Moggi","<b>6</b>",2,4,2,1983.45,"Dark horse","@","AZ Alkmaar"
+"783","Stanko Batinic","<b>6</b>",2,4,2,1984.48,,"@Ricica","Dinamo Zagreb"
 "315","Bartlomiej Chyla","<b>6</b>",2,4,2,1984.55,,"@Bartoloch",
 "951","Marcin Nowak","<b>6</b>",2,4,2,1984.58,,"@",
 "860","Arkadiusz Olszewski","<b>6</b>",2,4,2,1984.63,,"@Olshu23",
-"660","Fraser McDougall","<b>6</b>",2,4,2,1984.97,"Humza Yousaf Loyal RSC","@MFearghal","Rangers"
 "1003","Valentin Fritschi","<b>6</b>",2,4,2,1985.21,"Europa League is my gold mine","@",
 "1064","Andrew Holland","<b>6</b>",2,4,2,1985.46,,"@",
-"657","Scott Smith","<b>6</b>",2,4,2,1985.53,,"@",
 "816","Wojciech Szwed","<b>6</b>",2,4,2,1985.96,,"@",
+"674","ali kaymakci","<b>6</b>",2,4,2,1986.13,,"@",
+"603","Ryan Lennie","<b>6</b>",2,4,2,1986.24,,"@","Hibernian"
 "1049","Siebe Beuten","<b>6</b>",2,4,2,1986.27,"Belgium teams first!!! (except for Antwerp)","@5YSiebee","KRC Genk"
-"398","Shefqet Fejzo","<b>6</b>",2,4,2,1986.98,,"@ShefqetFejzo11","AEK Athens"
+"1013","Murat fatih Koçyigit","<b>6</b>",2,4,2,1986.33,"MFK FC","@","Fenerbahçe"
+"476","Pedro Torre","<b>6</b>",2,4,2,1986.43,"Forza Granata!  1904!","@Pedro_Thrilling","ACB/SLB"
+"535","Philipp Rüfenacht","<b>6</b>",2,4,2,1986.76,,"@",
+"930","Dario Fiorentino","<b>6</b>",2,4,2,1986.89,,"@",
 "877","Tomasz Maluski","<b>6</b>",2,4,2,1986.98,,"@",
 "300","Tomasz Kwiatkowski","<b>6</b>",2,4,2,1988.26,,"@tkwiatkowski","Liverpool FC"
+"259","Oil Money","<b>6</b>",2,4,2,1988.43,,,
 "371","Mateusz Frohmberg","<b>6</b>",2,4,2,1988.93,"czy wygramy czy przegramy jeden huj","@","Liverpool"
+"486","Drakoulis Goudis","<b>6</b>",2,4,2,1989.05,,,"Olympiacos"
+"420","Aleksandar Kilibarda","<b>6</b>",2,4,2,1990.33,,"@",
+"201","Alexander Herzog","<b>6</b>",2,4,2,1990.56,"Big clubs in smaller competitions <U+0001F441><U+FE0F>","@ajaywuermli","Basel :("
+"981","Marko Vukadinovic","<b>6</b>",2,4,2,1991.38,"The one who is lying is not running.","@Marvuk","Slavia Praha"
+"685","Daniel Bick","<b>6</b>",2,4,2,1992.46,,"@danielbick21",
+"311","takier rzeczy","<b>6</b>",2,4,2,1992.9,,"@",
 "290","Kacper Zuk","<b>6</b>",2,4,2,1993.19,,"@gaspar0301","Liverpool FC"
+"901","Beat Flückiger","<b>6</b>",2,4,2,1993.24,,"@",
 "465","jakub mieszambeton","<b>6</b>",2,4,2,1993.28,,"@mieszambeton",
+"26","Luka Krizanac","<b>6</b>",2,4,2,1993.43,,"@LukaKrizanac",
+"460","Jakob Jørgensen","<b>6</b>",2,4,2,1993.45,,"@Coefficionado","FC København"
 "750","Nathan Hofmann","<b>6</b>",2,4,2,1993.6,,"@","Servette fc"
-"568","Daniel Mitrofanov","<b>6</b>",2,4,2,1994.18,,"@","FC Barcelona"
+"690","Lukas Tlucek","<b>6</b>",2,4,2,1994.11,,"@",
+"895","Wojciech P","<b>6</b>",2,4,2,1994.2,,"@","FK Trinec"
+"508","Ross Cummings","<b>6</b>",2,4,2,1994.33,,"@TheSwissBankie",
+"576","Piotr Merczynski","<b>6</b>",2,4,2,1994.59,,,
+"724","Sven Foobar","<b>6</b>",2,4,2,1994.75,,"@",
+"482","Elias Zimmermann","<b>6</b>",2,4,2,1994.8,,"@",
+"958","Leandro Brunner","<b>6</b>",2,4,2,1994.81,"win every game","@lelemmv","FC Schaffhausen"
 "331","Dawid Raczynski","<b>6</b>",2,4,2,1994.91,"i dont know","@Raczyn3k","Raków"
-"497","Thomas Falconer","<b>6</b>",2,4,2,1995.06,,"@tflcnr","Rangers"
-"944","Andrei Bugeac","<b>6</b>",2,4,2,1996.13,,"@AndreiBugeac","Liverpool"
-"117","Andrew Rowney","<b>6</b>",2,4,2,1996.28,,"@",
+"573","David Iellamo","<b>6</b>",2,4,2,1996.1,,"@",
+"485","Yannick Gschwind","<b>6</b>",2,4,2,1996.21,"what am I doing?","@yanngsc","Basel"
+"929","Damien Clerc","<b>6</b>",2,4,2,1996.39,,"@",
+"658","Preslav Galabov","<b>6</b>",2,4,2,1996.83,"I like peanuts, very salty peanuts!","@","Marek Dupnitsa"
 "1052","Jai Taylor","<b>6</b>",2,4,2,1996.93,"We are the people","@Jai69508496","Rangers"
 "211","Jake Oosterwijk","<b>6</b>",2,4,2,1997.3,"WZAWZDB","@aardappelschil_","Ajax"
+"946","Scott Aikman","<b>6</b>",2,4,2,1997.33,,"@",
 "146","Christophe Kamber","<b>6</b>",2,4,2,1997.42,,"@",
+"294","Damian Majewski","<b>6</b>",2,4,2,1997.51,,"@zycienawyjezdzi",
 "1076","Piotr Arendarski","<b>6</b>",2,4,2,1997.51,,"@",
 "611","Scotland's Coefficient","<b>6</b>",2,4,2,1997.61,"Return your empty jar of Scottish tears for a refund","@scotlandscoeff1",
 "363","Marcin Dabrowski","<b>6</b>",2,4,2,1997.63,,"@bauskigoku",
 "193","Tomáš Milito","<b>6</b>",2,4,2,1997.77,,"@",
+"313","Dawid Zielonka","<b>6</b>",2,4,2,1997.9,,"@grini23",
+"681","Ali Mammadov","<b>6</b>",2,4,2,1998.01,"Cica on fire","@AliMammad0v","QARABAG"
+"126","Cobe Stockmans","<b>6</b>",2,4,2,1998.05,"Ez ws","@Jamesmenames","KAA Gent"
 "256","Jonas Hirschi","<b>6</b>",2,4,2,1998.25,,"@JHirschi",
-"325","Eric Amstutz","<b>6</b>",2,4,2,1998.3,"Concference League und City","@","YB"
+"649","Rob Speirs","<b>6</b>",2,4,2,1998.46,,"@","Hearts"
 "584","jaol mil","<b>6</b>",2,4,2,1998.73,,"@",
+"339","Przemek Pawlas","<b>6</b>",2,4,2,1998.78,"If I win, hire me as consultant, please xD","@Destroy666x","Arsenal"
 "32","Hardturm Stadion","<b>6</b>",2,4,2,1998.98,,"@","GCZ"
-"42","Timothy Widmer","<b>6</b>",2,4,2,1999.39,,"@",
-"137","Rémi Le Sciellour","<b>6</b>",2,4,2,1999.4,,"@","LOSC Lille"
+"4","pawikb b","<b>6</b>",2,4,2,1999.26,,,"Raków Czestochowa"
 "466","Frederick Dürr","<b>6</b>",2,4,2,1999.43,"de gustibus non est disputandum","@","Nordstern Basel"
 "138","Kalop Rexan","<b>6</b>",2,4,2,1999.43,,"@","Novi Pazar"
 "940","B A","<b>6</b>",2,4,2,1999.5,,"@",
 "3","Sonny ZeMaskot","<b>6</b>",2,4,2,1999.5,,"@","Servette FC"
 "722","Matthias S","<b>6</b>",2,4,2,1999.64,,"@MaSygm",
+"352","Lorenzio Rutishauser","<b>6</b>",2,4,2,1999.74,,"@",
+"913","Dave ORourke","<b>6</b>",2,4,2,1999.78,,"@Kingdor",
+"911","Fenerbahce Fenerbahce","<b>6</b>",2,4,2,1999.78,"Ananinamigalatasaray!","@",
+"1018","Bert Vermaelen","<b>6</b>",2,4,2,1999.8,"Win, lose, spend it all","@bert_vermaelen","Club Brugge"
+"740","Martin Zeller","<b>6</b>",2,4,2,1999.81,"Yellow-black are my colours!","@tinuzeller","BSC Young Boys"
 "496","Slawomir Gerej","<b>6</b>",2,4,2,1999.85,,,
+"344","Pawel Olejnik","<b>5</b>",1,4,1,798.16,,"@073jn1k",
+"598","Jacob Humphreys","<b>5</b>",1,4,1,1416.68,,"@ilikeblobfish1","Ipswich Town"
 "139","Andrew Leitch","<b>5</b>",1,4,1,1726.76,,"@","Rangers"
-"646","Leisele G","<b>5</b>",1,4,1,1906.58,,"@Schaermacher","Newcastle"
+"357","Carlos Kewell","<b>5</b>",1,4,1,1877.38,,"@kewell1988","Manchester United"
+"767","Bora Kerem Ayis","<b>5</b>",1,4,1,1880.89,"Keroski","@okarowhite","Fenerbahçe"
+"841","Tomasz Chojnowski","<b>5</b>",1,4,1,1891.53,,"@",
 "359","Bartosz Czerwonka","<b>5</b>",1,4,1,1918.36,,"@",
-"113","Gerben Thijs","<b>5</b>",1,4,1,1942.88,"Best of the Rest","@gerbtheking1","Genk"
-"403","Przemek Cichon","<b>5</b>",1,4,1,1956.93,,"@",
+"514","Alexander Staehelin","<b>5</b>",1,4,1,1926.53,"superbia in proelio","@AFStaehelin","can't say."
+"194","Jo Flaegstad","<b>5</b>",1,4,1,1936.98,,"@joflag","Rosenborg"
+"735","Josef Perstaller","<b>5</b>",1,4,1,1937.53,"America first, Austria second","@",
+"533","Nikolas Garefalakis","<b>5</b>",1,4,1,1947.11,,"@",
+"169","Garry Moore","<b>5</b>",1,4,1,1948.68,,"@","Rangers"
+"207","Syben Vandenbussche","<b>5</b>",1,4,1,1950.15,,"@SYVAND_","KAA Gent"
+"612","Muhammet Mustafa Bayram","<b>5</b>",1,4,1,1953.43,,"@",
 "843","Daniel Adamczak","<b>5</b>",1,4,1,1958.85,,"@Ugabuga37",
-"51","Ásmundur Ragnarsson","<b>5</b>",1,4,1,1970.63,"Win games","@AsmundurSmari","KA Akureyri"
 "68","Ross White","<b>5</b>",1,4,1,1974.93,,"@baldycantwell","Rangers"
-"815","Jeremy Felber","<b>5</b>",1,4,1,1976.99,"Boniface","@AZN_CheJery","BSC Young Boys"
-"86","Josip Ivancan","<b>5</b>",1,4,1,1982.98,,"@IvancanJosip",
+"373","Mateusz S","<b>5</b>",1,4,1,1978.61,,"@Mat19606407",
+"738","Maciej Bartoszewski","<b>5</b>",1,4,1,1979.02,,"@MBarts_",
+"432","Diego A.","<b>5</b>",1,4,1,1981.75,,"@El_Chiquitin__",
+"395","Max Schmid","<b>5</b>",1,4,1,1982.76,,"@",
 "226","Vojtech Rehák","<b>5</b>",1,4,1,1983.88,"<U+0001F525>","@vrehak","West Ham"
+"844","Pawel W","<b>5</b>",1,4,1,1983.93,,"@","LEGIA"
+"440","Michal Gdowicz","<b>5</b>",1,4,1,1983.96,"Money doesn't score goals","@michalgdowicz",
+"923","Erhan KIYAK","<b>5</b>",1,4,1,1984.46,"You will win","@erhankiyak_","Galatasaray"
+"814","Joni Lemmens","<b>5</b>",1,4,1,1984.48,,"@AltijdZoutig","Club Brugge"
+"286","Michal Czebreszuk","<b>5</b>",1,4,1,1985.2,,"@mczebreszuk","Lech Poznan"
+"706","Tim Willi","<b>5</b>",1,4,1,1985.28,,"@","FC St.Gallen"
 "449","Elliot Engelgren Verstraeten","<b>5</b>",1,4,1,1985.67,,"@grenengeln","Liverpool"
 "353","Karol O.","<b>5</b>",1,4,1,1986.4,,"@","Raków Czestochowa"
+"647","Martin Crawford","<b>5</b>",1,4,1,1986.96,"Perfect ten","@crawford7martin","Celtic"
+"788","Vojtech Marek","<b>5</b>",1,4,1,1989,"People say nothing is impossible, but I do nothing every day.","@VojtchMarek13","Tottenham Hotspur"
 "37","Adrien Flühmann","<b>5</b>",1,4,1,1991.35,,"@","Fc Sion"
-"900","Pablo -","<b>5</b>",1,4,1,1993.88,,"@Pawelp98",
+"23","Julio Ibáñez Soriano","<b>5</b>",1,4,1,1991.6,"juiso12","@","Valencia CF"
+"487","Michael Stotzer","<b>5</b>",1,4,1,1992.7,,"@messanger",
+"464","Ido Nestadt","<b>5</b>",1,4,1,1995.98,,"@radical24NFM","Maccabi Tel Aviv"
+"988","D P","<b>5</b>",1,4,1,1996.43,"Alli Zäme","@AperolSpri34398","FC Basel"
 "282","muhammet sait ozkan","<b>5</b>",1,4,1,1996.62,"msaitozkan","@msaitozkan","liverpool"
 "400","Kamil Grochalski","<b>5</b>",1,4,1,1997.3,,"@",
-"307","Piotr Winek","<b>5</b>",1,4,1,1998.21,,"@pitorek",
+"435","Krzysztof Plucinski","<b>5</b>",1,4,1,1997.73,,"@","Stomil Olsztyn"
+"419","Emrah Derel","<b>5</b>",1,4,1,1998.23,"No pain no gain!","@emrahderel","Fenerbahçe"
 "120","Berke Marasli","<b>5</b>",1,4,1,1999.48,,"@","Fenerbahçe"
-"344","Pawel Olejnik","<b>4</b>",0,4,0,798.16,,"@073jn1k",
+"715","Luc Baumann","<b>5</b>",1,4,1,1999.56,,"@",
+"1079","Bartu Onaran","<b>5</b>",1,4,1,1999.72,,"@bartuonaran","Fenerbahce"
+"490","Math Dem","<b>5</b>",1,4,1,1999.96,,"@",
 "2","William Hubbard","<b>4</b>",0,4,0,1096.26,,"@",
-"574","Yannick Martin","<b>4</b>",0,4,0,1253.88,,"@",
 "217","Berner Original","<b>4</b>",0,4,0,1287.58,,"@",
-"598","Jacob Humphreys","<b>4</b>",0,4,0,1416.68,,"@ilikeblobfish1","Ipswich Town"
-"124","Patrick Caskie","<b>4</b>",0,4,0,1619.66,,"@patrickcaskie","Rangers"
-"1021","Sean Graham","<b>4</b>",0,4,0,1621.64,,"@","Glasgow rangers"
 "79","Fikke Victorssön","<b>4</b>",0,4,0,1625.58,"Coucke, Baro of de Condé, ze kunnen allemaal nie mee!",,
 "662","Dylan Greer","<b>4</b>",0,4,0,1660.88,,"@dylangreer14",
 "974","Melih Çinar","<b>4</b>",0,4,0,1660.89,,"@",
-"364","Kacper Pacocha","<b>4</b>",0,4,0,1691.18,,"@KacperPacocha1",
-"566","Harry Schlender","<b>4</b>",0,4,0,1719.25,,"@harry_schlender","BSC Young Boys"
 "247","Sim Janssen","<b>4</b>",0,4,0,1828.28,"Money","@SimAFCA","Servette FC"
-"469","Arvids Stasans","<b>4</b>",0,4,0,1828.86,,"@",
 "1074","Nick Verhellen","<b>4</b>",0,4,0,1855.03,,"@NickVerhellen","Club Brugge"
-"191","Liam Wenger","<b>4</b>",0,4,0,1856.6,,"@NopeYouNot",
-"357","Carlos Kewell","<b>4</b>",0,4,0,1877.38,,"@kewell1988","Manchester United"
-"767","Bora Kerem Ayis","<b>4</b>",0,4,0,1880.89,"Keroski","@okarowhite","Fenerbahçe"
-"841","Tomasz Chojnowski","<b>4</b>",0,4,0,1891.53,,"@",
-"189","Agshin Garayev","<b>4</b>",0,4,0,1896.93,"Some of you my die, but it's a sacrifice I'm willing to make (lord Farquaad)","@agshin_garayev","Fenerbahçe"
 "255","Gordon Allan","<b>4</b>",0,4,0,1904.51,"WATP","@GordonAlla9541","Rangers"
 "261","Jan Birchler","<b>4</b>",0,4,0,1916.31,,"@mYiJ4N","FC Basel"
 "188","Zack Birnie","<b>4</b>",0,4,0,1921.76,"Win at all costs","@","Rangers"
-"514","Alexander Staehelin","<b>4</b>",0,4,0,1926.53,"superbia in proelio","@AFStaehelin","can't say."
-"842","Kilian Weber","<b>4</b>",0,4,0,1933.98,"Predicted overperformers for this international season","@kilian_weber","FC Schaffhausen"
-"194","Jo Flaegstad","<b>4</b>",0,4,0,1936.98,,"@joflag","Rosenborg"
-"735","Josef Perstaller","<b>4</b>",0,4,0,1937.53,"America first, Austria second","@",
-"758","Andreas Esterer","<b>4</b>",0,4,0,1941.04,,"@",
-"1002","Cakrawala Galang Nusantara","<b>4</b>",0,4,0,1942.57,"Trust Your Guts","@galangn__","AS Roma"
-"629","Cameron Gray","<b>4</b>",0,4,0,1945.18,"COYBIG","@cammyg67","Celtic"
-"533","Nikolas Garefalakis","<b>4</b>",0,4,0,1947.11,,"@",
-"169","Garry Moore","<b>4</b>",0,4,0,1948.68,,"@","Rangers"
-"207","Syben Vandenbussche","<b>4</b>",0,4,0,1950.15,,"@SYVAND_","KAA Gent"
-"612","Muhammet Mustafa Bayram","<b>4</b>",0,4,0,1953.43,,"@",
-"462","James McKenna","<b>4</b>",0,4,0,1956.69,"Roma wasn’t built in a day- Irish Mick","@jamesmckennaCFC","Celtic FC"
-"596","till jost","<b>4</b>",0,4,0,1964.1,,"@",
-"754","Eliana Amboni","<b>4</b>",0,4,0,1965.16,"Conference League best league","@",
-"56","Magnus Eriksen","<b>4</b>",0,4,0,1965.9,"If it aint broke, dont fix it","@","FC København"
-"329","Benj von Falkenstein","<b>4</b>",0,4,0,1967.37,,"@benjvf",
-"129","Jako Jakopak","<b>4</b>",0,4,0,1967.66,,"@","Vardar"
-"811","Florian De Groote","<b>4</b>",0,4,0,1967.78,"Struggle FC","@watersoaker2","AA Gent"
 "761","Phil Q","<b>4</b>",0,4,0,1968.9,,"@",
-"875","Caner Gündüz","<b>4</b>",0,4,0,1969.86,"We're focusing on the next matches","@UlkePuan",
-"428","Luis Reinbold","<b>4</b>",0,4,0,1970.3,,"@","FC Basel"
-"84","Maximilian Meyer","<b>4</b>",0,4,0,1971.28,,"@meyermaximilian",
 "543","Wout Meeuwssen","<b>4</b>",0,4,0,1975.58,,"@ChassePuree","Liverpool"
-"560","Birkan Dogan","<b>4</b>",0,4,0,1976.43,,"@",
-"25","Thomas Erbrich","<b>4</b>",0,4,0,1977.23,"Aim for the moon and reach for the stars","@toto_1890","Servette FC"
 "196","Jesper Særvoll Kvammen","<b>4</b>",0,4,0,1978.18,,"@","Manchester united"
-"373","Mateusz S","<b>4</b>",0,4,0,1978.61,,"@Mat19606407",
-"738","Maciej Bartoszewski","<b>4</b>",0,4,0,1979.02,,"@MBarts_",
-"709","Mads Birkeland","<b>4</b>",0,4,0,1979.15,"LessIsMore","maaxbirk","Fc Basel"
-"154","Radek Diviš","<b>4</b>",0,4,0,1979.51,,"@divisradek1","AC Sparta Prague"
-"432","Diego A.","<b>4</b>",0,4,0,1981.75,,"@El_Chiquitin__",
 "95","Tiago N","<b>4</b>",0,4,0,1981.99,"FORZA LUGANO","@NomlTigi","FC Basel 1893<U+0001F972>"
-"250","Jordan Huart","<b>4</b>",0,4,0,1982.08,"CoefficientBelgeNamur","@Huart8huart","La Gantoise"
-"870","Oliver Glättli","<b>4</b>",0,4,0,1982.59,,"@",
-"395","Max Schmid","<b>4</b>",0,4,0,1982.76,,"@",
 "640","Tariq Benmalek","<b>4</b>",0,4,0,1983.42,,"@",
-"817","Tristan Moggi","<b>4</b>",0,4,0,1983.45,"Dark horse","@","AZ Alkmaar"
-"78","James Fotheringham","<b>4</b>",0,4,0,1983.58,"Ironowl FM on YouTube","@IronowlFM","Sheffield Wednesday"
-"844","Pawel W","<b>4</b>",0,4,0,1983.93,,"@","LEGIA"
-"440","Michal Gdowicz","<b>4</b>",0,4,0,1983.96,"Money doesn't score goals","@michalgdowicz",
-"923","Erhan KIYAK","<b>4</b>",0,4,0,1984.46,"You will win","@erhankiyak_","Galatasaray"
-"814","Joni Lemmens","<b>4</b>",0,4,0,1984.48,,"@AltijdZoutig","Club Brugge"
-"783","Stanko Batinic","<b>4</b>",0,4,0,1984.48,,"@Ricica","Dinamo Zagreb"
-"286","Michal Czebreszuk","<b>4</b>",0,4,0,1985.2,,"@mczebreszuk","Lech Poznan"
-"706","Tim Willi","<b>4</b>",0,4,0,1985.28,,"@","FC St.Gallen"
 "1065","Noah Chet","<b>4</b>",0,4,0,1985.34,,"@noah_102134",
-"674","ali kaymakci","<b>4</b>",0,4,0,1986.13,,"@",
-"603","Ryan Lennie","<b>4</b>",0,4,0,1986.24,,"@","Hibernian"
-"1013","Murat fatih Koçyigit","<b>4</b>",0,4,0,1986.33,"MFK FC","@","Fenerbahçe"
-"476","Pedro Torre","<b>4</b>",0,4,0,1986.43,"Forza Granata!  1904!","@Pedro_Thrilling","ACB/SLB"
-"535","Philipp Rüfenacht","<b>4</b>",0,4,0,1986.76,,"@",
-"930","Dario Fiorentino","<b>4</b>",0,4,0,1986.89,,"@",
-"647","Martin Crawford","<b>4</b>",0,4,0,1986.96,"Perfect ten","@crawford7martin","Celtic"
 "991","Igor Yanev","<b>4</b>",0,4,0,1987.66,,"@",
 "728","Mirco Fischer","<b>4</b>",0,4,0,1987.74,,"@","Man Utd"
-"278","Dawid Borek","<b>4</b>",0,4,0,1988.23,,"@SzuriaToFuria",
-"259","Oil Money","<b>4</b>",0,4,0,1988.43,,,
-"788","Vojtech Marek","<b>4</b>",0,4,0,1989,"People say nothing is impossible, but I do nothing every day.","@VojtchMarek13","Tottenham Hotspur"
-"759","For Vert","<b>4</b>",0,4,0,1989.01,,,
-"486","Drakoulis Goudis","<b>4</b>",0,4,0,1989.05,,,"Olympiacos"
 "6","Kobe Vanminsel","<b>4</b>",0,4,0,1989.21,,"@KVanminsel","Krc Genk"
-"82","Ping Pong","<b>4</b>",0,4,0,1989.78,"Hapoel Zona","@","Maccabi Tel Aviv"
 "699","Jan Schläpfer","<b>4</b>",0,4,0,1990.2,,"@",
-"420","Aleksandar Kilibarda","<b>4</b>",0,4,0,1990.33,,"@",
-"201","Alexander Herzog","<b>4</b>",0,4,0,1990.56,"Big clubs in smaller competitions <U+0001F441><U+FE0F>","@ajaywuermli","Basel :("
-"981","Marko Vukadinovic","<b>4</b>",0,4,0,1991.38,"The one who is lying is not running.","@Marvuk","Slavia Praha"
-"23","Julio Ibáñez Soriano","<b>4</b>",0,4,0,1991.6,"juiso12","@","Valencia CF"
 "119","ALAN DOUGLAS","<b>4</b>",0,4,0,1991.83,"No Surrender","@","Rangers FC"
 "471","Olli Wender","<b>4</b>",0,4,0,1992.11,,"@","Borussia Dortmund"
-"380","Przemek Swiecinski","<b>4</b>",0,4,0,1992.19,"kupuj drozej, sprzedaj taniej","@Przem0_o","Legia Warszawa, Raków Czestochowa"
-"479","Sidar Eryilmaz","<b>4</b>",0,4,0,1992.31,,"@",
-"685","Daniel Bick","<b>4</b>",0,4,0,1992.46,,"@danielbick21",
-"487","Michael Stotzer","<b>4</b>",0,4,0,1992.7,,"@messanger",
-"311","takier rzeczy","<b>4</b>",0,4,0,1992.9,,"@",
-"901","Beat Flückiger","<b>4</b>",0,4,0,1993.24,,"@",
-"26","Luka Krizanac","<b>4</b>",0,4,0,1993.43,,"@LukaKrizanac",
-"460","Jakob Jørgensen","<b>4</b>",0,4,0,1993.45,,"@Coefficionado","FC København"
 "89","Jeroen Christen","<b>4</b>",0,4,0,1993.53,,"@Thrindon1",
 "437","Onur Sohret","<b>4</b>",0,4,0,1993.94,"Rising Sun Over Europe","@hallederizas","Fenerbahçe"
-"690","Lukas Tlucek","<b>4</b>",0,4,0,1994.11,,"@",
-"895","Wojciech P","<b>4</b>",0,4,0,1994.2,,"@","FK Trinec"
-"508","Ross Cummings","<b>4</b>",0,4,0,1994.33,,"@TheSwissBankie",
-"576","Piotr Merczynski","<b>4</b>",0,4,0,1994.59,,,
-"724","Sven Foobar","<b>4</b>",0,4,0,1994.75,,"@",
-"53","Benjamin Signer","<b>4</b>",0,4,0,1994.79,,"@","Arsenal"
-"482","Elias Zimmermann","<b>4</b>",0,4,0,1994.8,,"@",
-"958","Leandro Brunner","<b>4</b>",0,4,0,1994.81,"win every game","@lelemmv","FC Schaffhausen"
 "251","Nick Beyeler","<b>4</b>",0,4,0,1994.83,,"@","BSC Young Boys"
-"411","Kamil Nawrot","<b>4</b>",0,4,0,1995.48,,"@_shy2ler",
 "5","Burak Demir","<b>4</b>",0,4,0,1995.68,,"@BurakOS17","Fenerbahce SK"
-"464","Ido Nestadt","<b>4</b>",0,4,0,1995.98,,"@radical24NFM","Maccabi Tel Aviv"
-"573","David Iellamo","<b>4</b>",0,4,0,1996.1,,"@",
-"485","Yannick Gschwind","<b>4</b>",0,4,0,1996.21,"what am I doing?","@yanngsc","Basel"
-"929","Damien Clerc","<b>4</b>",0,4,0,1996.39,,"@",
-"988","D P","<b>4</b>",0,4,0,1996.43,"Alli Zäme","@AperolSpri34398","FC Basel"
 "115","Miguel Rodrigues","<b>4</b>",0,4,0,1996.51,,"@","Benfica"
-"658","Preslav Galabov","<b>4</b>",0,4,0,1996.83,"I like peanuts, very salty peanuts!","@","Marek Dupnitsa"
-"787","Ales Marek","<b>4</b>",0,4,0,1996.93,,"@",
 "1050","James Boag","<b>4</b>",0,4,0,1996.99,,,
-"946","Scott Aikman","<b>4</b>",0,4,0,1997.33,,"@",
-"294","Damian Majewski","<b>4</b>",0,4,0,1997.51,,"@zycienawyjezdzi",
-"106","Tarik Atakan","<b>4</b>",0,4,0,1997.53,"Down with the UCL!","@TarikAtakan1907","Fenerbahce"
-"435","Krzysztof Plucinski","<b>4</b>",0,4,0,1997.73,,"@","Stomil Olsztyn"
-"313","Dawid Zielonka","<b>4</b>",0,4,0,1997.9,,"@grini23",
-"642","Jack Cruden","<b>4</b>",0,4,0,1997.98,,"@","Rangers"
-"681","Ali Mammadov","<b>4</b>",0,4,0,1998.01,"Cica on fire","@AliMammad0v","QARABAG"
-"1023","Big H","<b>4</b>",0,4,0,1998.05,"Hader Viborg","@","Midtjylland"
-"126","Cobe Stockmans","<b>4</b>",0,4,0,1998.05,"Ez ws","@Jamesmenames","KAA Gent"
-"419","Emrah Derel","<b>4</b>",0,4,0,1998.23,"No pain no gain!","@emrahderel","Fenerbahçe"
 "1062","Tiago Alves","<b>4</b>",0,4,0,1998.38,,"@tiago_alvs_","Benfica"
-"649","Rob Speirs","<b>4</b>",0,4,0,1998.46,,"@","Hearts"
 "368","Pawla Pawka","<b>4</b>",0,4,0,1998.5,"Halalala",,"Zaglebie Lubin"
 "551","Aranyc Sapat","<b>4</b>",0,4,0,1998.58,"Today i feel rich","@",
-"339","Przemek Pawlas","<b>4</b>",0,4,0,1998.78,"If I win, hire me as consultant, please xD","@Destroy666x","Arsenal"
 "220","Jonathan Brandis","<b>4</b>",0,4,0,1999.13,,"@jnthn410","FC Bayern"
-"4","pawikb b","<b>4</b>",0,4,0,1999.26,,,"Raków Czestochowa"
 "747","Dominic S","<b>4</b>",0,4,0,1999.56,,"@",
-"715","Luc Baumann","<b>4</b>",0,4,0,1999.56,,"@",
-"1079","Bartu Onaran","<b>4</b>",0,4,0,1999.72,,"@bartuonaran","Fenerbahce"
-"793","Pavel Fara","<b>4</b>",0,4,0,1999.73,"Early bird gets to nut","@","Dynamo CB B"
-"352","Lorenzio Rutishauser","<b>4</b>",0,4,0,1999.74,,"@",
-"913","Dave ORourke","<b>4</b>",0,4,0,1999.78,,"@Kingdor",
-"911","Fenerbahce Fenerbahce","<b>4</b>",0,4,0,1999.78,"Ananinamigalatasaray!","@",
-"1018","Bert Vermaelen","<b>4</b>",0,4,0,1999.8,"Win, lose, spend it all","@bert_vermaelen","Club Brugge"
-"740","Martin Zeller","<b>4</b>",0,4,0,1999.81,"Yellow-black are my colours!","@tinuzeller","BSC Young Boys"
-"490","Math Dem","<b>4</b>",0,4,0,1999.96,,"@",
+"427","Gavin King","<b>2</b>",2,0,2,1135.51,,"@gavdarv","Rangers"
+"397","Tim Kaufmann","<b>2</b>",2,0,2,1144.25,"ich mach so und noch schlimmer","@","fc basel"
+"52","Grégory Bays","<b>2</b>",2,0,2,1775.31,,"@Yorickk_ch","Servette FC"
+"272","Marek Zolnowski","<b>2</b>",2,0,2,1890.3,,"@poshon","Lech Poznan"
+"337","Michal Ogorzalek","<b>2</b>",2,0,2,1901.93,,"@",
+"103","John Taverna","<b>2</b>",2,0,2,1904.56,,"@",
+"392","Chris Eggenberger","<b>2</b>",2,0,2,1917.7,,"@Datenberger",
+"639","Jens Lehmann","<b>2</b>",2,0,2,1925.23,,"@Eidgenoss5",
+"774","Mehmet Kurtoglu","<b>2</b>",2,0,2,1930.9,,"@memooo0716","Fenerbahçe"
+"798","Mehmet Kurtoglu","<b>2</b>",2,0,2,1930.9,,"@memoo0716","Fenerbahçe <U+0001F49B><U+0001F499>"
+"918","Lyubomyr POLYUHA","<b>2</b>",2,0,2,1937.85,,"@",
+"743","Ben Richardson","<b>2</b>",2,0,2,1938.76,,"@",
+"310","Jakub M","<b>2</b>",2,0,2,1940.43,,"@mnt_str","Legia Warszawa"
+"540","Nabil Dali","<b>2</b>",2,0,2,1941.55,,"@","Lille OSC"
+"555","Theo Sakyi","<b>2</b>",2,0,2,1941.78,,"@TKSakyi",
+"583","Fabian Eszik","<b>2</b>",2,0,2,1943.6,,"@fasha_4",
+"675","Emre Marcellinho","<b>2</b>",2,0,2,1953.38,,"@",
+"515","Thomas Schmidt","<b>2</b>",2,0,2,1954.16,,"@",
+"921","Çagri Canöz","<b>2</b>",2,0,2,1955.03,,"@","Besiktas"
+"789","Ondrej Franko","<b>2</b>",2,0,2,1955.73,,"@",
+"880","Pavlo Poliuha","<b>2</b>",2,0,2,1956.11,,"@",
+"571","Wout Debyser","<b>2</b>",2,0,2,1956.18,,"@bwowos","Club Brugge"
+"71","Antoni Majewski","<b>2</b>",2,0,2,1957.62,,"@to_amajewski","KÍ Klaksvík"
+"731","Kamil Šmotek","<b>2</b>",2,0,2,1957.83,,"@Kamilmotek1","SK Slavia Prague"
+"989","Glenn Bruvold Pettersen","<b>2</b>",2,0,2,1968.06,"The Arctic Power","@Mediagl1","Bodø/Glimt"
+"726","Lukas Müller","<b>2</b>",2,0,2,1969.8,,"@",
+"873","Caner Gündüz","<b>2</b>",2,0,2,1969.91,"We're focusing on the next matches","@UlkePuan",
+"195","Ahmet Yilmaz","<b>2</b>",2,0,2,1969.98,,"@",
+"333","David Mechan","<b>2</b>",2,0,2,1974.96,,"@",
+"424","Mads Gerner Pedersen","<b>2</b>",2,0,2,1975.25,,"@GernerMads","FC København"
+"388","Foot Bâle","<b>2</b>",2,0,2,1975.6,"Rotblaulive","@",
+"766","José Barrero Jiménez","<b>2</b>",2,0,2,1977.33,,,"Sevilla FC"
+"147","Sebastian Eriksen","<b>2</b>",2,0,2,1977.42,,"@Seeberik","Vålerenga"
+"621","Maciej Pietak","<b>2</b>",2,0,2,1978.22,,"@maciej_pietak","Chelsea"
+"293","Karol Kajdan","<b>2</b>",2,0,2,1978.43,,"@","Radomiak"
+"687","Almog Singer","<b>2</b>",2,0,2,1979.78,"Spartak trnva + Israel = <3","@SingerAlmog","Real Madrid"
+"541","Stuart Campbell","<b>2</b>",2,0,2,1981.68,,"@","Rangers"
+"589","Melk von Flüe","<b>2</b>",2,0,2,1983,,"@",
+"580","Gert Van Der Goten","<b>2</b>",2,0,2,1983.51,,"@",
+"36","Jeremy Christian","<b>2</b>",2,0,2,1984.43,"Champions League is the worst european competition",,"FC BASEL 1893"
+"55","Yann Guglielmetti","<b>2</b>",2,0,2,1984.88,"Droit au but","@GugyYann","OM"
+"350","Mateusz Dunajski","<b>2</b>",2,0,2,1985.53,,"@m3quis","FC Barcelona"
+"267","Amir Bachar","<b>2</b>",2,0,2,1986.13,,"@SimTheWorld",
+"296","Tomasz Gasowski","<b>2</b>",2,0,2,1986.38,,,
+"410","Emre Atasayar","<b>2</b>",2,0,2,1986.68,,"@",
+"828","Sabri Bekdas","<b>2</b>",2,0,2,1986.88,"Nieprawda, ze dach przeciekal, szczególnie, ze prawie w ogóle nie padalo","@dbabsur","Górnik Walbrzych"
+"10","Jonathan Tunik","<b>2</b>",2,0,2,1987.11,"Buying club is like picking cherries","@JonathanTunik","Servette"
+"530","Johnni Marcussen","<b>2</b>",2,0,2,1988.75,,"@JohnniMarcussen","Esbjerg fB"
+"459","Jakub Kirsek","<b>2</b>",2,0,2,1989.75,,"@Kirsuu7",
+"667","David Marshall","<b>2</b>",2,0,2,1990.33,,,"Rangers"
+"800","Daan Van de Ven","<b>2</b>",2,0,2,1990.45,,"@daan_vandeven","PSV"
+"935","Zar Robospov","<b>2</b>",2,0,2,1990.63,,"@",
+"234","Mustafa Kutuk","<b>2</b>",2,0,2,1991.23,"Winning is not an option","@johndorian_107","Fenerbahce"
+"854","Michal S","<b>2</b>",2,0,2,1991.33,,"@",
+"438","Firat Koç","<b>2</b>",2,0,2,1991.83,,"@","Fenerbahçe"
+"920","Fabian Gmür","<b>2</b>",2,0,2,1992.23,,"@FabianGmuer",
+"35","Don Promillo","<b>2</b>",2,0,2,1993.32,"What is ""Champions League""?","@donpromillion","BSC Young Boys"
+"178","Adi Tschopp-Stammtsichtrainer","<b>2</b>",2,0,2,1994.5,"LFC & Brighton verstärkt mit Conference League Warriors","@stammtrainer","Leeds, Luzern"
+"1031","Nathan Brown","<b>2</b>",2,0,2,1994.73,,"@","Norwich"
+"152","Marin Covic-Pavišic","<b>2</b>",2,0,2,1995.21,"Yeet","@rekasannemore","Hajduk Split"
+"559","Nicolas Ganter","<b>2</b>",2,0,2,1995.27,"Who needs a striker anyway?","@gaenti","FC Zürich"
+"133","František Láša","<b>2</b>",2,0,2,1995.33,"FC HK to the Champions League","@FandaLasa","FC Hradec Králové (sadly not in European football)"
+"104","Stef De Poortere","<b>2</b>",2,0,2,1995.65,,"@MrSythez","Club Brugge"
+"637","Lars Vogler","<b>2</b>",2,0,2,1996.91,,"@",
+"288","Piotr Malecki","<b>2</b>",2,0,2,1997.13,,"@Just_ShowOff",
+"452","J D","<b>2</b>",2,0,2,1997.81,,"@",
+"174","Arda Garland","<b>2</b>",2,0,2,1998.23,,"@madarizm","PAOK,Fenerbahçe"
+"830","Janusz Wojciechowski","<b>2</b>",2,0,2,1998.23,"To dla pana jeden dzien jest niecale 3, dokladnie 2 koma 702. No to na strate 2 koma 7 no, to jeszcze mozemy sobie pozwolic, ale, zeby stracic 300% czasu… ho, ho, kochany, co to to nie","@AbsurDB",
+"327","Jakub Gurski","<b>2</b>",2,0,2,1998.52,,"@","Breiðablik"
+"50","Muxtar Muxtaro","<b>2</b>",2,0,2,1998.66,"Hep Destek Tam Destek","@muxtaro0","Fenerbahçe"
+"394","Rob King","<b>2</b>",2,0,2,1998.83,"Live, Laugh, Klaksvik","@rokioo","Arsenal"
+"683","Gordon Milnes","<b>2</b>",2,0,2,1999.1,,"@gpmilnes","Rangers"
+"472","Patrik Nový","<b>2</b>",2,0,2,1999.18,,"@","Fc Viktoria Plzen"
+"736","Maciej B.","<b>2</b>",2,0,2,1999.48,"There is nothing better than the smell of laga in the evening","@","Wisla Kraków"
+"912","Valon Anonymus","<b>2</b>",2,0,2,1999.53,"Always forward","@ValonCR6","Servette"
+"384","Pawel Ratajczyk","<b>2</b>",2,0,2,1999.61,,"@bdk1985","Lech Poznan"
+"88","Michael Vester","<b>2</b>",2,0,2,1999.65,,"@",
+"190","Josef Weis","<b>2</b>",2,0,2,1999.88,,"@","SK Slavia Praha"
+"227","Emanuel Wyss","<b>2</b>",2,0,2,1999.89,,"@emanuel_wyss",
 "467","Alfred Brügger","<b>0</b>",0,0,0,88.38,,"@",
 "937","Hans Onfall","<b>0</b>",0,0,0,88.38,,"@",
 "550","Robin Mamié","<b>0</b>",0,0,0,88.38,"Money is a social construct.","@robin_mamie",
-"427","Gavin King","<b>0</b>",0,0,0,1135.51,,"@gavdarv","Rangers"
-"397","Tim Kaufmann","<b>0</b>",0,0,0,1144.25,"ich mach so und noch schlimmer","@","fc basel"
 "708","Benjamin L","<b>0</b>",0,0,0,1195.81,,"@BenNepLep",
 "851","Karol Swidrak","<b>0</b>",0,0,0,1275.05,,"@KSwiderrr",
 "216","James Stuart","<b>0</b>",0,0,0,1337.58,,"@",
 "210","Jakub Bláha","<b>0</b>",0,0,0,1610.73,,"@",
 "1069","Martin Kappus","<b>0</b>",0,0,0,1672.83,,"@Martinet","VfB Stuttgart"
-"52","Grégory Bays","<b>0</b>",0,0,0,1775.31,,"@Yorickk_ch","Servette FC"
 "345","Tomasz Jonca","<b>0</b>",0,0,0,1835.81,,"@","Raków"
 "225","Steven Copland","<b>0</b>",0,0,0,1837.83,,"@","Rangers"
 "837","Michal Cwiek","<b>0</b>",0,0,0,1851.83,,"@MCwiek4",
@@ -855,158 +931,82 @@
 "1001","Robin Windels","<b>0</b>",0,0,0,1883.78,,"@kqspace","Club Brugge"
 "142","Graham Telfer","<b>0</b>",0,0,0,1889.11,"Rangers Thursday’s","@telfer9","Rangers"
 "1058","Marcin Piechura","<b>0</b>",0,0,0,1889.79,,"@",
-"272","Marek Zolnowski","<b>0</b>",0,0,0,1890.3,,"@poshon","Lech Poznan"
 "791","Ülke puan Analiz","<b>0</b>",0,0,0,1894.64,"<U+0001F1F9><U+0001F1F7><U+0001F1F9><U+0001F1F7>","@ulke_puan",
 "628","Marc Walker","<b>0</b>",0,0,0,1894.91,,"@","Rangers"
-"337","Michal Ogorzalek","<b>0</b>",0,0,0,1901.93,,"@",
 "734","Johannes Kapeller","<b>0</b>",0,0,0,1904.53,"Wer zusammenhält, gewinnt!","@","SK Rapid Wien"
-"103","John Taverna","<b>0</b>",0,0,0,1904.56,,"@",
 "423","Cem Yavuz","<b>0</b>",0,0,0,1904.71,,"@CemNYavuz","Galatasaray"
 "183","Mark Seath","<b>0</b>",0,0,0,1905.36,"You’ve got to die for three points","@","Rangers"
 "46","Özgür Ar","<b>0</b>",0,0,0,1908.61,"Indomptables","@","Galatasaray"
 "280","Matez Cichowski","<b>0</b>",0,0,0,1917.4,,"@maatcichowski","KKS LECH POZNAN"
-"392","Chris Eggenberger","<b>0</b>",0,0,0,1917.7,,"@Datenberger",
-"639","Jens Lehmann","<b>0</b>",0,0,0,1925.23,,"@Eidgenoss5",
-"774","Mehmet Kurtoglu","<b>0</b>",0,0,0,1930.9,,"@memooo0716","Fenerbahçe"
-"798","Mehmet Kurtoglu","<b>0</b>",0,0,0,1930.9,,"@memoo0716","Fenerbahçe <U+0001F49B><U+0001F499>"
 "377","Kevin Garnett","<b>0</b>",0,0,0,1934.71,"Nasza Legia Najlepsza w Polsce Jest","@","Legia Warszawa"
 "549","Can Selçuk Yildiz","<b>0</b>",0,0,0,1935.5,"GO GLORY","@","ADANADEMIRSPOR"
-"918","Lyubomyr POLYUHA","<b>0</b>",0,0,0,1937.85,,"@",
-"743","Ben Richardson","<b>0</b>",0,0,0,1938.76,,"@",
 "653","Patrick Thomson","<b>0</b>",0,0,0,1939.17,,"@","Celtic"
-"310","Jakub M","<b>0</b>",0,0,0,1940.43,,"@mnt_str","Legia Warszawa"
 "157","Paul Hendry","<b>0</b>",0,0,0,1940.88,,"@paul_hendry","Celtic"
-"540","Nabil Dali","<b>0</b>",0,0,0,1941.55,,"@","Lille OSC"
-"555","Theo Sakyi","<b>0</b>",0,0,0,1941.78,,"@TKSakyi",
 "298","Jakub Gawron","<b>0</b>",0,0,0,1943.37,,"@","Raków Czestochowa"
-"583","Fabian Eszik","<b>0</b>",0,0,0,1943.6,,"@fasha_4",
 "451","Lester Wenich","<b>0</b>",0,0,0,1947.01,,"@wenichlester","Fenerbahce"
 "819","Jarne Froyen","<b>0</b>",0,0,0,1947.18,,"@",
-"675","Emre Marcellinho","<b>0</b>",0,0,0,1953.38,,"@",
 "127","Gürkan Gürkan","<b>0</b>",0,0,0,1953.38,,"@kardiospermum",
 "341","Patryk Pieta","<b>0</b>",0,0,0,1953.68,,"@",
-"515","Thomas Schmidt","<b>0</b>",0,0,0,1954.16,,"@",
-"921","Çagri Canöz","<b>0</b>",0,0,0,1955.03,,"@","Besiktas"
 "511","Nomolso Netinei Djer","<b>0</b>",0,0,0,1955.48,"In Europa kennt uns jede, denn Basel het vel Gäld, laufe mer dor frömdi strosse, händ d teenager in de Händ ohh FCB, Mer chaufed Speler för de, Rot ond blau, das send nome mer, blau isch d treui, Rot isch s Konto, ond das isch weisch wie blöd...","@Nomolso_N_Djer","Club Deportivo Peras Blandas & dr grandiosi, onschlagbari, FC BASEL 1893<U+2764><U+FE0F><U+0001F499>"
-"789","Ondrej Franko","<b>0</b>",0,0,0,1955.73,,"@",
-"880","Pavlo Poliuha","<b>0</b>",0,0,0,1956.11,,"@",
-"571","Wout Debyser","<b>0</b>",0,0,0,1956.18,,"@bwowos","Club Brugge"
 "725","Tobiasz Drag-Ziemianski","<b>0</b>",0,0,0,1957.13,"Tobi_dobrze_robi","@d_tobiasz","Aston Villa"
-"71","Antoni Majewski","<b>0</b>",0,0,0,1957.62,,"@to_amajewski","KÍ Klaksvík"
-"731","Kamil Šmotek","<b>0</b>",0,0,0,1957.83,,"@Kamilmotek1","SK Slavia Prague"
 "1028","Kacper Traks","<b>0</b>",0,0,0,1962.26,,"@","Jagiellonia Bialystok"
 "446","Gary Fountain","<b>0</b>",0,0,0,1962.86,"We are the people","@fumtayxx","Rangers"
 "1042","Jamie Corns","<b>0</b>",0,0,0,1963.68,,"@",
 "70","Amad Rished","<b>0</b>",0,0,0,1966.18,,"@",
 "782","Aksel Yucel","<b>0</b>",0,0,0,1967.91,,"@akselyucel","Fenerbahçe"
-"989","Glenn Bruvold Pettersen","<b>0</b>",0,0,0,1968.06,"The Arctic Power","@Mediagl1","Bodø/Glimt"
 "664","Calum McAuley","<b>0</b>",0,0,0,1969.41,"Ready!","@","Rangers"
-"726","Lukas Müller","<b>0</b>",0,0,0,1969.8,,"@",
-"873","Caner Gündüz","<b>0</b>",0,0,0,1969.91,"We're focusing on the next matches","@UlkePuan",
-"195","Ahmet Yilmaz","<b>0</b>",0,0,0,1969.98,,"@",
 "109","Yagiz Varol","<b>0</b>",0,0,0,1970.86,,"@yagizvarol","Fenerbahçe"
 "416","Michel Domeisen","<b>0</b>",0,0,0,1972.04,,"@","FC Zürich"
-"333","David Mechan","<b>0</b>",0,0,0,1974.96,,"@",
 "436","Erfan Hoseiny","<b>0</b>",0,0,0,1975.01,,"@Eri1806","Esteghlal FC (Iran)"
-"424","Mads Gerner Pedersen","<b>0</b>",0,0,0,1975.25,,"@GernerMads","FC København"
-"388","Foot Bâle","<b>0</b>",0,0,0,1975.6,"Rotblaulive","@",
 "973","As Marca","<b>0</b>",0,0,0,1976.39,"Football genius","@asmarcatr","Fenerbahçe"
 "898","Lucas Biglia","<b>0</b>",0,0,0,1976.56,,"@jarnefroyen",
-"766","José Barrero Jiménez","<b>0</b>",0,0,0,1977.33,,,"Sevilla FC"
-"147","Sebastian Eriksen","<b>0</b>",0,0,0,1977.42,,"@Seeberik","Vålerenga"
 "258","Tobias Seger","<b>0</b>",0,0,0,1977.42,,"@","FC Basel 1893"
 "309","Michal Futboholik","<b>0</b>",0,0,0,1977.83,,"@",
-"621","Maciej Pietak","<b>0</b>",0,0,0,1978.22,,"@maciej_pietak","Chelsea"
-"293","Karol Kajdan","<b>0</b>",0,0,0,1978.43,,"@","Radomiak"
-"687","Almog Singer","<b>0</b>",0,0,0,1979.78,"Spartak trnva + Israel = <3","@SingerAlmog","Real Madrid"
 "587","nic we","<b>0</b>",0,0,0,1980.66,,"@",
 "316","Mateusz Perek","<b>0</b>",0,0,0,1981.2,,"@MateuszPerek","Pomorzanin Nowogard"
 "192","Ben Tregoning","<b>0</b>",0,0,0,1981.54,"someone had to pick the unwanted Serbians","@officialtreglol","Sutton United"
-"541","Stuart Campbell","<b>0</b>",0,0,0,1981.68,,"@","Rangers"
 "159","Gal Senekovic","<b>0</b>",0,0,0,1981.76,,"@galsenekovic","Maribor"
 "763","Michal Chramecky","<b>0</b>",0,0,0,1982.16,,"@",
-"589","Melk von Flüe","<b>0</b>",0,0,0,1983,,"@",
 "444","Bartlomiej Jasinski","<b>0</b>",0,0,0,1983.38,,"@bart_jasinski","Legia Warszawa"
-"580","Gert Van Der Goten","<b>0</b>",0,0,0,1983.51,,"@",
 "757","Samuel Schöbi","<b>0</b>",0,0,0,1983.58,,"@",
 "1024","Samuel Schöbi","<b>0</b>",0,0,0,1983.58,,"@",
-"36","Jeremy Christian","<b>0</b>",0,0,0,1984.43,"Champions League is the worst european competition",,"FC BASEL 1893"
-"55","Yann Guglielmetti","<b>0</b>",0,0,0,1984.88,"Droit au but","@GugyYann","OM"
-"350","Mateusz Dunajski","<b>0</b>",0,0,0,1985.53,,"@m3quis","FC Barcelona"
 "1010","Thomas Pitura","<b>0</b>",0,0,0,1985.65,,"@polskifutbolski",
 "534","Vladan Mandic","<b>0</b>",0,0,0,1985.8,,"@shadyy104","Crvena zvezda"
 "602","Eldar Eldar","<b>0</b>",0,0,0,1985.86,,"@","Dortmund"
-"267","Amir Bachar","<b>0</b>",0,0,0,1986.13,,"@SimTheWorld",
 "1034","Pawel Stanczuk","<b>0</b>",0,0,0,1986.13,,"@",
 "323","Jedrzej Wozniczko","<b>0</b>",0,0,0,1986.33,,"@","CFC"
-"296","Tomasz Gasowski","<b>0</b>",0,0,0,1986.38,,,
-"410","Emre Atasayar","<b>0</b>",0,0,0,1986.68,,"@",
-"828","Sabri Bekdas","<b>0</b>",0,0,0,1986.88,"Nieprawda, ze dach przeciekal, szczególnie, ze prawie w ogóle nie padalo","@dbabsur","Górnik Walbrzych"
-"10","Jonathan Tunik","<b>0</b>",0,0,0,1987.11,"Buying club is like picking cherries","@JonathanTunik","Servette"
 "17","Jakub Zeman","<b>0</b>",0,0,0,1988.28,,"@","Slavia Praha/Liverpool"
 "905","Vanja Vulmanovic","<b>0</b>",0,0,0,1988.48,,"@",
-"530","Johnni Marcussen","<b>0</b>",0,0,0,1988.75,,"@JohnniMarcussen","Esbjerg fB"
 "219","Patrick Weirich","<b>0</b>",0,0,0,1989,,"@",
 "221","György Ferenczi","<b>0</b>",0,0,0,1989.35,,"@",
-"459","Jakub Kirsek","<b>0</b>",0,0,0,1989.75,,"@Kirsuu7",
 "248","John Verschraeghen","<b>0</b>",0,0,0,1990.16,,"@",
-"667","David Marshall","<b>0</b>",0,0,0,1990.33,,,"Rangers"
-"800","Daan Van de Ven","<b>0</b>",0,0,0,1990.45,,"@daan_vandeven","PSV"
-"935","Zar Robospov","<b>0</b>",0,0,0,1990.63,,"@",
 "805","Lio Fernandes","<b>0</b>",0,0,0,1990.7,,"@","FC Porto"
 "641","Michele Campana","<b>0</b>",0,0,0,1991.08,,"@mitch_campana","FC Lugano"
 "1009","Benedikt Gottstein","<b>0</b>",0,0,0,1991.11,,"@benigodstone",
-"234","Mustafa Kutuk","<b>0</b>",0,0,0,1991.23,"Winning is not an option","@johndorian_107","Fenerbahce"
-"854","Michal S","<b>0</b>",0,0,0,1991.33,,"@",
-"438","Firat Koç","<b>0</b>",0,0,0,1991.83,,"@","Fenerbahçe"
-"920","Fabian Gmür","<b>0</b>",0,0,0,1992.23,,"@FabianGmuer",
-"35","Don Promillo","<b>0</b>",0,0,0,1993.32,"What is ""Champions League""?","@donpromillion","BSC Young Boys"
 "308","Jrk Krl","<b>0</b>",0,0,0,1993.5,,"@",
 "445","Ignacio Garcia Vera","<b>0</b>",0,0,0,1993.85,,"@PepeHadzibegic","Real Betis"
 "1020","rasim kerem atmaca","<b>0</b>",0,0,0,1993.93,"burasi Kadiköy buradan çikis yok","@","fenerbahçe"
 "832","Çaglar Alaca","<b>0</b>",0,0,0,1993.94,"imagine wasting real 2b on football clubs...","@caglaralaca","Sariyer"
-"178","Adi Tschopp-Stammtsichtrainer","<b>0</b>",0,0,0,1994.5,"LFC & Brighton verstärkt mit Conference League Warriors","@stammtrainer","Leeds, Luzern"
-"1031","Nathan Brown","<b>0</b>",0,0,0,1994.73,,"@","Norwich"
 "304","X D","<b>0</b>",0,0,0,1994.88,,"@",
-"152","Marin Covic-Pavišic","<b>0</b>",0,0,0,1995.21,"Yeet","@rekasannemore","Hajduk Split"
-"559","Nicolas Ganter","<b>0</b>",0,0,0,1995.27,"Who needs a striker anyway?","@gaenti","FC Zürich"
-"133","František Láša","<b>0</b>",0,0,0,1995.33,"FC HK to the Champions League","@FandaLasa","FC Hradec Králové (sadly not in European football)"
 "548","Paul dearie","<b>0</b>",0,0,0,1995.58,,"@",
-"104","Stef De Poortere","<b>0</b>",0,0,0,1995.65,,"@MrSythez","Club Brugge"
 "409","Patrick Johansen","<b>0</b>",0,0,0,1995.99,,,"Liverpool"
 "358","Artur Zagala","<b>0</b>",0,0,0,1996.05,,"@ArturZagala","Manchester United"
 "235","Lionel Messi","<b>0</b>",0,0,0,1996.38,,"@","Astana"
 "92","Marino Bucher","<b>0</b>",0,0,0,1996.43,,"@TheSwissPundit","Liverpool FC"
 "252","Piri S","<b>0</b>",0,0,0,1996.45,,"@",
 "354","Franek Cieplucha","<b>0</b>",0,0,0,1996.55,,"@f_ciep",
-"637","Lars Vogler","<b>0</b>",0,0,0,1996.91,,"@",
-"288","Piotr Malecki","<b>0</b>",0,0,0,1997.13,,"@Just_ShowOff",
 "348","Maurin Tscharner","<b>0</b>",0,0,0,1997.36,,"@","Arsenal FC"
-"452","J D","<b>0</b>",0,0,0,1997.81,,"@",
 "301","Filip Lochowski","<b>0</b>",0,0,0,1997.93,,"@Filipus321",
 "295","Wiktor Morawski","<b>0</b>",0,0,0,1998.06,,"@",
-"174","Arda Garland","<b>0</b>",0,0,0,1998.23,,"@madarizm","PAOK,Fenerbahçe"
-"830","Janusz Wojciechowski","<b>0</b>",0,0,0,1998.23,"To dla pana jeden dzien jest niecale 3, dokladnie 2 koma 702. No to na strate 2 koma 7 no, to jeszcze mozemy sobie pozwolic, ale, zeby stracic 300% czasu… ho, ho, kochany, co to to nie","@AbsurDB",
 "326","Noah Wheatley","<b>0</b>",0,0,0,1998.27,,"@djboah14","Notts County"
-"327","Jakub Gurski","<b>0</b>",0,0,0,1998.52,,"@","Breiðablik"
 "362","Wojciech Dabek","<b>0</b>",0,0,0,1998.52,"Polish football is the best sitcom ever.","@Aelvir5","Raków Czestochowa"
-"50","Muxtar Muxtaro","<b>0</b>",0,0,0,1998.66,"Hep Destek Tam Destek","@muxtaro0","Fenerbahçe"
-"394","Rob King","<b>0</b>",0,0,0,1998.83,"Live, Laugh, Klaksvik","@rokioo","Arsenal"
 "179","mac bac","<b>0</b>",0,0,0,1998.88,"in cervisia veritas","@","FCSG!!!"
 "772","Daniel Finn","<b>0</b>",0,0,0,1998.9,,"@","Brighton and Hove Albion"
 "1012","Patrick Meier","<b>0</b>",0,0,0,1998.93,,"@",
-"683","Gordon Milnes","<b>0</b>",0,0,0,1999.1,,"@gpmilnes","Rangers"
 "809","Samuel Meier","<b>0</b>",0,0,0,1999.13,,"@","Gcz"
-"472","Patrik Nový","<b>0</b>",0,0,0,1999.18,,"@","Fc Viktoria Plzen"
 "318","Mateusz Duczmal","<b>0</b>",0,0,0,1999.4,,"@",
-"736","Maciej B.","<b>0</b>",0,0,0,1999.48,"There is nothing better than the smell of laga in the evening","@","Wisla Kraków"
 "751","Graeme Cormack","<b>0</b>",0,0,0,1999.5,,"@gjcormack","Rangers"
 "516","Michael Timmers","<b>0</b>",0,0,0,1999.5,,"@",
-"912","Valon Anonymus","<b>0</b>",0,0,0,1999.53,"Always forward","@ValonCR6","Servette"
-"384","Pawel Ratajczyk","<b>0</b>",0,0,0,1999.61,,"@bdk1985","Lech Poznan"
-"88","Michael Vester","<b>0</b>",0,0,0,1999.65,,"@",
 "283","Kacper Dominiec","<b>0</b>",0,0,0,1999.73,,"@",
-"190","Josef Weis","<b>0</b>",0,0,0,1999.88,,"@","SK Slavia Praha"
-"227","Emanuel Wyss","<b>0</b>",0,0,0,1999.89,,"@emanuel_wyss",
 "205","Faruk Mutlu","<b>0</b>",0,0,0,1999.93,"FM","@farukmutlu0","Galatasaray"
 "519","Stuart Gray","<b>0</b>",0,0,0,1999.98,,"@stuartgray99","Rangers"
