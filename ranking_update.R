@@ -11,6 +11,10 @@ library(readr)
 #setwd("C:/Users/simon/Onedrive/Fussballdaten/uefa_ranking")
 setwd("C:/Users/Administrator/Desktop/UEFA_Rankings")
 
+#Load Token
+#token <- read.csv("C:/Users/simon/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
+token <- read.csv("C:/Users/Administrator/Desktop/Github_Token/token.txt",header=FALSE)[1,1]
+
 #Load functions
 source("ranking_funktionen.R",encoding = "UTF-8")
 
@@ -77,15 +81,18 @@ source("create_maps.R",encoding = "UTF-8")
 #Update Datawrapper
 source("update_datawrapper.R",encoding = "UTF-8")
   
+git2r::config(user.name = "swissfootdata",user.email = "swissfootballdata@bluewin.ch")
+invisible(git2r::cred_token(token))
+gitpull()
+gitadd()
+gitcommit()
+gitpush()  
+  
 #Update Club Owner Data
 source("update_club_owner_data.R",encoding = "UTF-8")
     
 #Store Last update
 cat(text_datum,file="last_update.txt")
-
-#Make Commit
-#token <- read.csv("C:/Users/simon/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
-token <- read.csv("C:/Users/Administrator/Desktop/Github_Token/token.txt",header=FALSE)[1,1]
 
 git2r::config(user.name = "swissfootdata",user.email = "swissfootballdata@bluewin.ch")
 invisible(git2r::cred_token(token))
