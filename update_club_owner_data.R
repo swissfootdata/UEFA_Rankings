@@ -50,6 +50,7 @@ current_points <- current_points %>%
 current_points <- teams %>%
   left_join(current_points,by=c("club"="team"))
 
+
 #Get old data and add
 old_data <- read.csv("Output/club_owner_data.csv", encoding = "UTF-8")
 old_data$date <- as.Date(old_data$date)
@@ -79,7 +80,6 @@ current_points <- current_points %>%
   mutate(gain_match_points = match_points-match_points_last_week,
          gain_bonus_points = bonus_points-bonus_points_last_week,
          gain_points_overall = points_overall -points_overall_last_week)
-
 
 #Get Owner Data
 owner_data <- read_xlsx("./Data/owner_data.xlsx")
