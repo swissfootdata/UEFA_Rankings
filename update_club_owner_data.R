@@ -143,8 +143,9 @@ success_clubs <- current_points %>%
 
 write.csv(success_clubs,"Output/success_clubs.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
+
 efficiency_clubs <- current_points %>%
-  mutate(mio_per_point = round(points_overall/value,2)) %>%
+  mutate(mio_per_point = round(value/points_overall,2)) %>%
   select(logo,
          club,
          nation,
@@ -152,12 +153,14 @@ efficiency_clubs <- current_points %>%
          points_overall,
          mio_per_point,
          status) %>%
-  arrange(desc(mio_per_point),
+  arrange(mio_per_point,
           value_table) %>%
   mutate(mio_per_point = paste0("<b>",mio_per_point,"</b>"))
+efficiency_clubs$mio_per_point <- gsub("Inf","-",efficiency_clubs$mio_per_point)
 
 write.csv(efficiency_clubs, "Output/efficiency_clubs.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
 cat(toString(Sys.time()),file="Output/last_update.txt")
 
 print("New club owner data scraped")
+
