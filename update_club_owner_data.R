@@ -57,7 +57,7 @@ old_data$date <- as.Date(old_data$date)
 colnames(old_data)[1] <- "id"
 
 old_data <- old_data %>%
-  filter(date < Sys.Date()-3)
+  filter(date <= Sys.Date()-3)
 
 all_points <- rbind(current_points,old_data)
 
@@ -65,7 +65,7 @@ all_points <- rbind(current_points,old_data)
 write.csv(all_points,"Output/club_owner_data.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
 #Get gain from last week
-previous_date <- max(old_data[old_data$date < Sys.Date()-3,]$date)
+previous_date <- max(old_data[old_data$date <= Sys.Date()-3,]$date)
 
 #Get points last week
 points_last_week <- old_data %>%
