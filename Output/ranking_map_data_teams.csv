@@ -45,12 +45,12 @@
 "BATE Borisov","Belarus",2.375,6.625,35.8,":by:","Belarus: 6.625 points","Borisov Arena",54.192777777,28.475694444
 "Bayer Leverkusen","Germany",10.054,77.339,13,":de:","Germany: 77.339 points","BayArena",51.038255555,7.002205555
 "Bayern München","Germany",18.518,77.339,23.9,":de:","Germany: 77.339 points","Allianz Arena",48.218775,11.624752777
-"Beitar Jerusalem","Israel",0.25,26.875,0.9,":il:","Israel: 26.875 points","Teddy Stadium",31.751166666,35.190616666
+"Beitar Jerusalem","Israel",0.25,27.375,0.9,":il:","Israel: 27.375 points","Teddy Stadium",31.751166666,35.190616666
 "Benfica","Portugal",13.517,50.483,26.8,":pt:","Portugal: 50.483 points","Estádio da Luz",38.752677777,-9.184680555
 "Besiktas","Turkey",3.25,35.35,9.2,":tr:","Turkey: 35.35 points","Vodafone Park",41.039166666,28.994166666
 "Birkirkara","Malta",0.75,8.25,9.1,":mt:","Malta: 8.25 points","Ta' Qali National Stadium",35.894863888,14.415372222
 "BK Häcken","Sweden",2,21.5,9.3,":se:","Sweden: 21.5 points","Rambergsvallen",57.718888888,11.930833333
-"Bnei Yehuda","Israel",0.375,26.875,1.4,":il:","Israel: 26.875 points","Bloomfield Stadium",32.05173,34.76148
+"Bnei Yehuda","Israel",0.375,27.375,1.4,":il:","Israel: 27.375 points","Bloomfield Stadium",32.05173,34.76148
 "Bodø/Glimt","Norway",11.5,28.875,39.8,":no:","Norway: 28.875 points","Aspmyra Stadion",67.2775,14.384166666
 "Bohemians Dublin","Ireland",1.375,10.875,12.6,":ie:","Ireland: 10.875 points","Dalymount Park",53.361667,-6.275
 "Bohemians Praha","Czech Republic",0,29.8,0,":cz:","Czech Republic: 29.8 points",,,
@@ -178,7 +178,7 @@
 "Haka Valkeakoski","Finland",0.125,10.875,1.1,":fi:","Finland: 10.875 points",,,
 "Hammarby IF","Sweden",1.625,21.5,7.6,":se:","Sweden: 21.5 points","Tele2 Arena",59.29138889,18.08527778
 "Hamrun Spartans","Malta",1.625,8.25,19.7,":mt:","Malta: 8.25 points","Victor Tedesco Stadium",35.8873,14.4925
-"Hapoel Beer-Sheva","Israel",7.75,26.875,28.8,":il:","Israel: 26.875 points","Turner Stadium",31.2731,34.7794
+"Hapoel Beer-Sheva","Israel",7.75,27.375,28.3,":il:","Israel: 27.375 points","Turner Stadium",31.2731,34.7794
 "Haverfordwest County","Wales",0.375,5.792,6.5,":gb-wls:","Wales: 5.792 points",,,
 "HB Torshavn","Faroe Islands",1.75,10.375,16.9,":fo:","Faroe Islands: 10.375 points","Gundadalur",62.0193487,-6.7811394
 "Hearts FC","Scotland",1,33.25,3,":gb-sct:","Scotland: 33.25 points","Tynecastle Park",55.939167,-3.232222
@@ -237,9 +237,9 @@
 "Lokomotiva Zagreb","Croatia",0.2,23.025,0.9,":hr:","Croatia: 23.025 points","Stadion Maksimir",45.818858333,16.018077777
 "Lokomotivi Tbilisi","Georgia",0.875,7.625,11.5,":ge:","Georgia: 7.625 points","Mikheil Meskhi Stadium",41.709617,44.746247
 "Ludogorets Razgrad","Bulgaria",10.125,18.875,53.6,":bg:","Bulgaria: 18.875 points","Ludogorets Arena",43.53361111,26.5275
-"Maccabi Haifa","Israel",8.125,26.875,30.2,":il:","Israel: 26.875 points","Sammy Ofer Stadium",32.783111111,34.965166666
-"Maccabi Netanya","Israel",0.125,26.875,0.5,":il:","Israel: 26.875 points","Netanya Stadium",32.294397,34.864433
-"Maccabi Tel-Aviv","Israel",10.125,26.875,37.7,":il:","Israel: 26.875 points","Bloomfield Stadium",32.05173,34.76148
+"Maccabi Haifa","Israel",8.125,27.375,29.7,":il:","Israel: 27.375 points","Sammy Ofer Stadium",32.783111111,34.965166666
+"Maccabi Netanya","Israel",0.125,27.375,0.5,":il:","Israel: 27.375 points","Netanya Stadium",32.294397,34.864433
+"Maccabi Tel-Aviv","Israel",10.625,27.375,38.8,":il:","Israel: 27.375 points","Bloomfield Stadium",32.05173,34.76148
 "Makedonija GjP","North Macedonia",0.125,6,2.1,":mk:","North Macedonia: 6 points","<U+01F4>orce Petrov Stadium",42.00222222,21.36
 "Malmö FF","Sweden",8.875,21.5,41.3,":se:","Sweden: 21.5 points","Swedbank Stadion",55.583611111,12.987777777
 "Manchester City","England",19.268,95.054,20.3,":gb-eng:","England: 95.054 points","City of Manchester Stadium",53.483055555,-2.200277777
@@ -251,7 +251,7 @@
 "Mons Calpe","Gibraltar",0.125,4.958,2.5,":gi:","Gibraltar: 4.958 points","Victoria Stadium",36.149356,-5.350342
 "Mosta FC","Malta",0.25,8.25,3,":mt:","Malta: 8.25 points","Mosta Ground",35.90472222,14.43472222
 "Motherwell","Scotland",0.75,33.25,2.3,":gb-sct:","Scotland: 33.25 points","Fir Park",55.779947,-3.980078
-"MS Ashdod","Israel",0.125,26.875,0.5,":il:","Israel: 26.875 points","Yud-Alef Stadium",31.8103,34.6483
+"MS Ashdod","Israel",0.125,27.375,0.5,":il:","Israel: 27.375 points","Yud-Alef Stadium",31.8103,34.6483
 "MSK Zilina","Slovakia",1.75,18.875,9.3,":sk:","Slovakia: 18.875 points","Štadión pod Dubnom",49.229167,18.744722
 "Mura Murska Sobota","Slovenia",3.125,12.75,24.5,":si:","Slovenia: 12.75 points","Fazanerija City Stadium",46.668611,16.1575
 "Napoli","Italy",10.429,78.429,13.3,":it:","Italy: 78.429 points","Stadio Diego Armando Maradona",40.827967,14.193008

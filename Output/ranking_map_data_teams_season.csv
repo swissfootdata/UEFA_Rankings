@@ -26,7 +26,7 @@
 "BATE Borisov","Belarus",0.75,"out",1.75,42.9,":by:","Belarus: 1.75 points","Borisov Arena",54.192777777,28.475694444
 "Bayer Leverkusen","Germany",1.429,"not out",10.071,14.2,":de:","Germany: 10.071 points","BayArena",51.038255555,7.002205555
 "Bayern München","Germany",2.429,"not out",10.071,24.1,":de:","Germany: 10.071 points","Allianz Arena",48.218775,11.624752777
-"Beitar Jerusalem","Israel",0.125,"out",4.5,2.8,":il:","Israel: 4.5 points","Teddy Stadium",31.751166666,35.190616666
+"Beitar Jerusalem","Israel",0.125,"out",5,2.5,":il:","Israel: 5 points","Teddy Stadium",31.751166666,35.190616666
 "Benfica","Portugal",0.667,"not out",5.167,12.9,":pt:","Portugal: 5.167 points","Estádio da Luz",38.752677777,-9.184680555
 "Besiktas","Turkey",1.75,"not out",8.75,20,":tr:","Turkey: 8.75 points","Vodafone Park",41.039166666,28.994166666
 "Birkirkara","Malta",0.125,"out",1.5,8.3,":mt:","Malta: 1.5 points","Ta' Qali National Stadium",35.894863888,14.415372222
@@ -102,7 +102,7 @@
 "Haka Valkeakoski","Finland",0.125,"out",1.5,8.3,":fi:","Finland: 1.5 points",,,
 "Hammarby IF","Sweden",0.125,"out",1.875,6.7,":se:","Sweden: 1.875 points","Tele2 Arena",59.29138889,18.08527778
 "Hamrun Spartans","Malta",0.5,"out",1.5,33.3,":mt:","Malta: 1.5 points","Victor Tedesco Stadium",35.8873,14.4925
-"Hapoel Beer-Sheva","Israel",0.5,"out",4.5,11.1,":il:","Israel: 4.5 points","Turner Stadium",31.2731,34.7794
+"Hapoel Beer-Sheva","Israel",0.5,"out",5,10,":il:","Israel: 5 points","Turner Stadium",31.2731,34.7794
 "Haverfordwest County","Wales",0.375,"out",0.625,60,":gb-wls:","Wales: 0.625 points",,,
 "HB Torshavn","Faroe Islands",0.125,"out",2.75,4.5,":fo:","Faroe Islands: 2.75 points","Gundadalur",62.0193487,-6.7811394
 "Hearts FC","Scotland",0.2,"out",3.6,5.6,":gb-sct:","Scotland: 3.6 points","Tynecastle Park",55.939167,-3.232222
@@ -132,8 +132,8 @@
 "Linfield Belfast","Northern Ireland",0.25,"out",1.125,22.2,":gb-nir:","Northern Ireland: 1.125 points","Windsor Park",54.5825,-5.955
 "Liverpool","England",0.75,"not out",8.125,9.2,":gb-eng:","England: 8.125 points","Anfield",53.430833333,-2.960833333
 "Ludogorets Razgrad","Bulgaria",1.875,"not out",2.875,65.2,":bg:","Bulgaria: 2.875 points","Ludogorets Arena",43.53361111,26.5275
-"Maccabi Haifa","Israel",1.625,"not out",4.5,36.1,":il:","Israel: 4.5 points","Sammy Ofer Stadium",32.783111111,34.965166666
-"Maccabi Tel-Aviv","Israel",2.25,"not out",4.5,50,":il:","Israel: 4.5 points","Bloomfield Stadium",32.05173,34.76148
+"Maccabi Haifa","Israel",1.625,"not out",5,32.5,":il:","Israel: 5 points","Sammy Ofer Stadium",32.783111111,34.965166666
+"Maccabi Tel-Aviv","Israel",2.75,"not out",5,55,":il:","Israel: 5 points","Bloomfield Stadium",32.05173,34.76148
 "Makedonija GjP","North Macedonia",0,"out",1.5,0,":mk:","North Macedonia: 1.5 points","<U+01F4>orce Petrov Stadium",42.00222222,21.36
 "Manchester City","England",2.125,"not out",8.125,26.2,":gb-eng:","England: 8.125 points","City of Manchester Stadium",53.483055555,-2.200277777
 "Manchester United","England",0.75,"not out",8.125,9.2,":gb-eng:","England: 8.125 points","Old Trafford",53.463055555,-2.291388888
