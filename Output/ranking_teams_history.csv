@@ -1,238 +1,238 @@
 "country","team","scored_points","status","year"
-"Spain","Sevilla",0.5,"not out",2024
-"Spain","FC Barcelona",0.5,"not out",2024
-"Spain","Real Madrid",0.5,"not out",2024
-"Spain","Atlético Madrid",0.5,"not out",2024
-"Spain","Real Sociedad",0.5,"not out",2024
-"Spain","Villarreal",0,"not out",2024
-"Spain","Real Betis",0,"not out",2024
-"Spain","Osasuna",0,"not out",2024
-"Italy","Napoli",0.571428571428571,"not out",2024
-"Italy","Internazionale",0.571428571428571,"not out",2024
-"Italy","AC Milan",0.571428571428571,"not out",2024
-"Italy","Lazio",0.571428571428571,"not out",2024
-"Italy","AS Roma",0,"not out",2024
-"Italy","Atalanta",0,"not out",2024
-"Italy","Juventus",0,"not out",2024
-"Germany","Bayern München",0.571428571428571,"not out",2024
-"Germany","Borussia Dortmund",0.571428571428571,"not out",2024
-"Germany","RB Leipzig",0.571428571428571,"not out",2024
-"Germany","Union Berlin",0.571428571428571,"not out",2024
-"Germany","Bayer Leverkusen",0,"not out",2024
-"Germany","SC Freiburg",0,"not out",2024
-"Germany","Eintracht Frankfurt",0,"not out",2024
-"England","Manchester City",0.5,"not out",2024
-"England","Manchester United",0.5,"not out",2024
-"England","Arsenal",0.5,"not out",2024
-"England","Newcastle United",0.5,"not out",2024
-"England","West Ham United",0,"not out",2024
-"England","Liverpool",0,"not out",2024
-"England","Brighton & Hove Albion",0,"not out",2024
-"England","Aston Villa",0,"not out",2024
-"Portugal","Benfica",0.666666666666667,"not out",2024
-"Portugal","FC Porto",0.666666666666667,"not out",2024
-"Portugal","Sporting Braga",0,"not out",2024
-"Portugal","Sporting CP Lisbon",0,"not out",2024
-"Portugal","Vitória Guimarães",0,"not out",2024
-"Portugal","FC Arouca",0,"not out",2024
-"France","Paris Saint-Germain",0.666666666666667,"not out",2024
-"France","RC Lens",0.666666666666667,"not out",2024
-"France","Olympique Marseille",0,"not out",2024
-"France","Stade Rennais",0,"not out",2024
-"France","Toulouse FC",0,"not out",2024
-"France","Lille OSC",0,"not out",2024
-"Ukraine","Shakhtar Donetsk",0.8,"not out",2024
-"Ukraine","SC Dnipro-1",0,"not out",2024
-"Ukraine","Zorya Luhansk",0,"not out",2024
-"Ukraine","Vorskla Poltava",0,"not out",2024
-"Ukraine","Dynamo Kyiv",0,"not out",2024
-"Scotland","Celtic",0.8,"not out",2024
-"Scotland","Rangers",0,"not out",2024
-"Scotland","Aberdeen",0,"not out",2024
-"Scotland","Hibernian",0,"not out",2024
-"Scotland","Hearts FC",0,"not out",2024
-"Netherlands","Feyenoord",0.8,"not out",2024
-"Netherlands","PSV Eindhoven",0,"not out",2024
-"Netherlands","Ajax",0,"not out",2024
-"Netherlands","FC Twente Enschede",0,"not out",2024
-"Netherlands","AZ Alkmaar",0,"not out",2024
-"Austria","FC Salzburg",0.8,"not out",2024
-"Austria","Sturm Graz",0,"not out",2024
-"Austria","LASK",0,"not out",2024
-"Austria","Austria Wien",0,"not out",2024
-"Austria","Rapid Wien",0,"not out",2024
-"Serbia","Crvena zvezda",0.8,"not out",2024
-"Serbia","TSC Backa Topola",0,"not out",2024
-"Serbia","Cukaricki Belgrade",0,"not out",2024
-"Serbia","Vojvodina Novi Sad",0,"not out",2024
-"Serbia","Partizan Belgrade",0,"not out",2024
-"Liechtenstein","FC Vaduz",0,"not out",2024
-"Andorra","Atlètic Club d'Escaldes",0,"not out",2024
-"Andorra","FC Santa Coloma",0,"not out",2024
-"Andorra","Inter Club d'Escaldes",0,"not out",2024
-"Montenegro","Buducnost Podgorica",0,"not out",2024
-"Montenegro","Sutjeska Niksic",0,"not out",2024
-"Montenegro","Arsenal Tivat",0,"not out",2024
-"San Marino","Tre Penne",0,"not out",2024
-"San Marino","La Fiorita",0,"not out",2024
-"San Marino","Cosmos",0,"not out",2024
-"Iceland","Breidablik",0,"not out",2024
-"Iceland","Vikingur Reykjavik",0,"not out",2024
-"Iceland","KA Akureyri",0,"not out",2024
-"Gibraltar","Lincoln Red Imps",0,"not out",2024
-"Gibraltar","Europa FC",0,"not out",2024
-"Gibraltar","FCB Magpies",0,"not out",2024
-"Hungary","Ferencváros",0,"not out",2024
-"Hungary","Zalaegerszegi TE",0,"not out",2024
-"Hungary","Kecskeméti TE",0,"not out",2024
-"Hungary","DVSC Debrecen",0,"not out",2024
-"Azerbaijan","Qarabag FK",0,"not out",2024
-"Azerbaijan","Neftchi Baku",0,"not out",2024
-"Azerbaijan","Gabala FK",0,"not out",2024
-"Azerbaijan","Sabah FK",0,"not out",2024
-"Slovakia","Slovan Bratislava",0,"not out",2024
-"Slovakia","DAC Dunajska Streda",0,"not out",2024
-"Slovakia","MSK Zilina",0,"not out",2024
-"Slovakia","Spartak Trnava",0,"not out",2024
-"Bulgaria","Ludogorets Razgrad",0,"not out",2024
-"Bulgaria","CSKA Sofia",0,"not out",2024
-"Bulgaria","Levski Sofia",0,"not out",2024
-"Bulgaria","CSKA 1948 Sofia",0,"not out",2024
-"Moldova","Sheriff Tiraspol",0,"not out",2024
-"Moldova","Milsami Orhei",0,"not out",2024
-"Moldova","Zimbru Chisinau",0,"not out",2024
-"Moldova","Petrocub Hîncesti",0,"not out",2024
-"Belarus","BATE Borisov",0,"not out",2024
-"Belarus","Dinamo Minsk",0,"not out",2024
-"Belarus","Neman Grodno",0,"not out",2024
-"Belarus","Torpedo Zhodino",0,"not out",2024
-"Kazakhstan","FK Astana",0,"not out",2024
-"Kazakhstan","Tobol Kustanai",0,"not out",2024
-"Kazakhstan","Ordabasy Shymkent",0,"not out",2024
-"Kazakhstan","FK Aktobe",0,"not out",2024
-"Israel","Maccabi Haifa",0,"not out",2024
-"Israel","Maccabi Tel-Aviv",0,"not out",2024
-"Israel","Hapoel Beer-Sheva",0,"not out",2024
-"Israel","Beitar Jerusalem",0,"not out",2024
-"Lithuania","Zalgiris Vilnius",0,"not out",2024
-"Lithuania","FK Panevezys",0,"not out",2024
-"Lithuania","FC Hegelmann",0,"not out",2024
-"Lithuania","Kauno Zalgiris",0,"not out",2024
-"Finland","HJK Helsinki",0,"not out",2024
-"Finland","Honka Espoo",0,"not out",2024
-"Finland","Haka Valkeakoski",0,"not out",2024
-"Finland","KuPS Kuopio",0,"not out",2024
-"Estonia","Flora Tallinn",0,"not out",2024
-"Estonia","Levadia Tallinn",0,"not out",2024
-"Estonia","Paide Linnameeskond",0,"not out",2024
-"Estonia","Trans Narva",0,"not out",2024
-"Ireland","Shamrock Rovers",0,"not out",2024
-"Ireland","Dundalk",0,"not out",2024
-"Ireland","St. Patrick's Athletic",0,"not out",2024
-"Ireland","Derry City",0,"not out",2024
-"Wales","The New Saints",0,"not out",2024
-"Wales","Connah's Quay",0,"not out",2024
-"Wales","Penybont",0,"not out",2024
-"Wales","Haverfordwest County",0,"not out",2024
-"Slovenia","Olimpija Ljubljana",0,"not out",2024
-"Slovenia","NK Maribor",0,"not out",2024
-"Slovenia","NK Domzale",0,"not out",2024
-"Slovenia","NK Celje",0,"not out",2024
-"Bosnia-Herzegovina","Zrinjski Mostar",0,"not out",2024
-"Bosnia-Herzegovina","FK Sarajevo",0,"not out",2024
-"Bosnia-Herzegovina","Zeljeznicar Sarajevo",0,"not out",2024
-"Bosnia-Herzegovina","FK Borac Banja Luka",0,"not out",2024
-"Faroe Islands","KI Klaksvik",0,"not out",2024
-"Faroe Islands","B36 Torshavn",0,"not out",2024
-"Faroe Islands","HB Torshavn",0,"not out",2024
-"Faroe Islands","Víkingur",0,"not out",2024
-"Georgia","Dinamo Tbilisi",0,"not out",2024
-"Georgia","Dinamo Batumi",0,"not out",2024
-"Georgia","Torpedo Kutaisi",0,"not out",2024
-"Georgia","Dila Gori",0,"not out",2024
-"Poland","Raków Czestochowa",0,"not out",2024
-"Poland","Lech Poznan",0,"not out",2024
-"Poland","Legia Warsaw",0,"not out",2024
-"Poland","Pogon Szczecin",0,"not out",2024
-"Albania","Partizani Tirana",0,"not out",2024
-"Albania","KF Tirana",0,"not out",2024
-"Albania","Vllaznia Shkodër",0,"not out",2024
-"Albania","Egnatia Rrogozhinë",0,"not out",2024
-"Sweden","BK Häcken",0,"not out",2024
-"Sweden","Djurgårdens IF",0,"not out",2024
-"Sweden","Hammarby IF",0,"not out",2024
-"Sweden","Kalmar FF",0,"not out",2024
-"Romania","Farul Constanta",0,"not out",2024
-"Romania","CFR Cluj",0,"not out",2024
-"Romania","FCSB",0,"not out",2024
-"Romania","Sepsi OSK",0,"not out",2024
-"Latvia","Valmieras FK",0,"not out",2024
-"Latvia","Riga FC",0,"not out",2024
-"Latvia","RFS Riga",0,"not out",2024
-"Latvia","FK Auda",0,"not out",2024
-"Kosovo","FC Ballkani",0,"not out",2024
-"Kosovo","SC Gjilani",0,"not out",2024
-"Kosovo","KF Dukagjini",0,"not out",2024
-"Kosovo","FC Drita",0,"not out",2024
-"Northern Ireland","Larne FC",0,"not out",2024
-"Northern Ireland","Linfield Belfast",0,"not out",2024
-"Northern Ireland","Crusaders Belfast",0,"not out",2024
-"Northern Ireland","Glentoran",0,"not out",2024
-"Armenia","Urartu FC",0,"not out",2024
-"Armenia","Pyunik Yerevan",0,"not out",2024
-"Armenia","Alashkert FC",0,"not out",2024
-"Armenia","Ararat-Armenia",0,"not out",2024
-"Malta","Hamrun Spartans",0,"not out",2024
-"Malta","Gzira United",0,"not out",2024
-"Malta","Balzan FC",0,"not out",2024
-"Malta","Birkirkara",0,"not out",2024
-"Luxembourg","Swift Hesperange",0,"not out",2024
-"Luxembourg","F91 Dudelange",0,"not out",2024
-"Luxembourg","Progrès Niederkorn",0,"not out",2024
-"Luxembourg","Differdange 03",0,"not out",2024
-"North Macedonia","FC Struga",0,"not out",2024
-"North Macedonia","Shkendija Tetovo",0,"not out",2024
-"North Macedonia","FK Shkupi",0,"not out",2024
-"North Macedonia","Makedonija GjP",0,"not out",2024
-"Croatia","GNK Dinamo",0,"not out",2024
-"Croatia","NK Rijeka",0,"not out",2024
-"Croatia","NK Osijek",0,"not out",2024
-"Croatia","Hajduk Split",0,"not out",2024
-"Denmark","FC København",0,"not out",2024
-"Denmark","FC Midtjylland",0,"not out",2024
-"Denmark","AGF Aarhus",0,"not out",2024
-"Denmark","FC Nordsjælland",0,"not out",2024
-"Turkey","Galatasaray",0,"not out",2024
-"Turkey","Fenerbahçe",0,"not out",2024
-"Turkey","Besiktas",0,"not out",2024
-"Turkey","Adana Demirspor",0,"not out",2024
-"Norway","Molde FK",0,"not out",2024
-"Norway","Bodø/Glimt",0,"not out",2024
-"Norway","Rosenborg BK",0,"not out",2024
-"Norway","SK Brann Bergen",0,"not out",2024
-"Cyprus","Aris Limassol",0,"not out",2024
-"Cyprus","APOEL Nicosia",0,"not out",2024
-"Cyprus","AEK Larnaca",0,"not out",2024
-"Cyprus","Omonia Nicosia",0,"not out",2024
-"Czech Republic","Sparta Praha",0,"not out",2024
-"Czech Republic","Slavia Praha",0,"not out",2024
-"Czech Republic","Viktoria Plzen",0,"not out",2024
-"Czech Republic","Bohemians Praha",0,"not out",2024
-"Belgium","Racing Genk",0,"not out",2024
-"Belgium","Royal Antwerp",0,"not out",2024
-"Belgium","Union Saint-Gilloise",0,"not out",2024
-"Belgium","Club Brugge",0,"not out",2024
-"Belgium","AA Gent",0,"not out",2024
-"Switzerland","Servette FC",0,"not out",2024
-"Switzerland","Young Boys",0,"not out",2024
-"Switzerland","FC Lugano",0,"not out",2024
-"Switzerland","FC Basel",0,"not out",2024
-"Switzerland","FC Luzern",0,"not out",2024
-"Greece","Panathinaikos",0,"not out",2024
-"Greece","AEK Athens",0,"not out",2024
-"Greece","Olympiakos Piraeus",0,"not out",2024
-"Greece","PAOK Thessaloniki",0,"not out",2024
-"Greece","Aris Thessaloniki",0,"not out",2024
+"Italy","Internazionale",2.57142857142857,"not out",2024
+"Italy","Napoli",2.28571428571429,"not out",2024
+"Italy","Lazio",2.28571428571429,"not out",2024
+"Italy","Atalanta",2.14285714285714,"not out",2024
+"Italy","Fiorentina",1.71428571428571,"not out",2024
+"Italy","AS Roma",1.57142857142857,"not out",2024
+"Italy","AC Milan",1.42857142857143,"not out",2024
+"Germany","Bayern München",2.85714285714286,"not out",2024
+"Germany","Borussia Dortmund",2.42857142857143,"not out",2024
+"Germany","RB Leipzig",2.42857142857143,"not out",2024
+"Germany","Bayer Leverkusen",2.42857142857143,"not out",2024
+"Germany","SC Freiburg",1.42857142857143,"not out",2024
+"Germany","Eintracht Frankfurt",1.21428571428571,"not out",2024
+"Germany","Union Berlin",0.857142857142857,"out",2024
+"England","Manchester City",2.625,"not out",2024
+"England","Arsenal",2.25,"not out",2024
+"England","West Ham United",1.875,"not out",2024
+"England","Brighton & Hove Albion",1.75,"not out",2024
+"England","Liverpool",1.625,"not out",2024
+"England","Aston Villa",1.625,"not out",2024
+"England","Newcastle United",1,"out",2024
+"England","Manchester United",0.875,"out",2024
+"Spain","Real Madrid",2.625,"not out",2024
+"Spain","Atlético Madrid",2.375,"not out",2024
+"Spain","Real Sociedad",2.25,"not out",2024
+"Spain","FC Barcelona",2.125,"not out",2024
+"Spain","Villarreal",1.75,"not out",2024
+"Spain","Sevilla",0.75,"out",2024
+"Spain","Real Betis",0.75,"not out",2024
+"Spain","Osasuna",0.0625,"out",2024
+"Czech Republic","Viktoria Plzen",4.875,"not out",2024
+"Czech Republic","Slavia Praha",4.375,"not out",2024
+"Czech Republic","Sparta Praha",2.75,"not out",2024
+"Czech Republic","Bohemians Praha",0,"out",2024
+"Belgium","Club Brugge",3.5,"not out",2024
+"Belgium","AA Gent",3,"not out",2024
+"Belgium","Racing Genk",1.9,"out",2024
+"Belgium","Royal Antwerp",1.6,"out",2024
+"Belgium","Union Saint-Gilloise",1.6,"not out",2024
+"France","Paris Saint-Germain",2.5,"not out",2024
+"France","Lille OSC",2.25,"not out",2024
+"France","Olympique Marseille",1.83333333333333,"not out",2024
+"France","RC Lens",1.66666666666667,"not out",2024
+"France","Toulouse FC",1.66666666666667,"not out",2024
+"France","Stade Rennais",1.66666666666667,"not out",2024
+"Turkey","Fenerbahçe",4,"not out",2024
+"Turkey","Galatasaray",3.375,"not out",2024
+"Turkey","Besiktas",2.25,"out",2024
+"Turkey","Adana Demirspor",0.875,"out",2024
+"Netherlands","PSV Eindhoven",3.9,"not out",2024
+"Netherlands","Feyenoord",1.6,"not out",2024
+"Netherlands","AZ Alkmaar",1.4,"out",2024
+"Netherlands","Ajax",1,"not out",2024
+"Netherlands","FC Twente Enschede",0.7,"out",2024
+"Denmark","FC København",4.875,"not out",2024
+"Denmark","FC Nordsjælland",2.625,"out",2024
+"Denmark","FC Midtjylland",0.75,"out",2024
+"Denmark","AGF Aarhus",0.25,"out",2024
+"Portugal","FC Porto",2.83333333333333,"not out",2024
+"Portugal","Sporting Braga",1.83333333333333,"not out",2024
+"Portugal","Sporting CP Lisbon",1.66666666666667,"not out",2024
+"Portugal","Benfica",1.16666666666667,"not out",2024
+"Portugal","Vitória Guimarães",0.166666666666667,"out",2024
+"Portugal","FC Arouca",0.166666666666667,"out",2024
+"Greece","PAOK Thessaloniki",3.6,"not out",2024
+"Greece","Olympiakos Piraeus",1.7,"not out",2024
+"Greece","Panathinaikos",1.1,"out",2024
+"Greece","AEK Athens",0.9,"out",2024
+"Greece","Aris Thessaloniki",0.5,"out",2024
+"Israel","Maccabi Tel-Aviv",4.25,"not out",2024
+"Israel","Maccabi Haifa",2.375,"not out",2024
+"Israel","Hapoel Beer-Sheva",0.5,"out",2024
+"Israel","Beitar Jerusalem",0.125,"out",2024
+"Poland","Legia Warsaw",3.125,"not out",2024
+"Poland","Raków Czestochowa",2.25,"out",2024
+"Poland","Lech Poznan",0.75,"out",2024
+"Poland","Pogon Szczecin",0.75,"out",2024
+"Norway","Bodø/Glimt",3.375,"not out",2024
+"Norway","Molde FK",1.75,"not out",2024
+"Norway","Rosenborg BK",0.625,"out",2024
+"Norway","SK Brann Bergen",0.5,"out",2024
+"Scotland","Rangers",3,"not out",2024
+"Scotland","Celtic",1.4,"out",2024
+"Scotland","Aberdeen",1.1,"out",2024
+"Scotland","Hibernian",0.5,"out",2024
+"Scotland","Hearts FC",0.2,"out",2024
+"Slovakia","Slovan Bratislava",3,"not out",2024
+"Slovakia","Spartak Trnava",1.25,"out",2024
+"Slovakia","MSK Zilina",0.5,"out",2024
+"Slovakia","DAC Dunajska Streda",0.25,"out",2024
+"Azerbaijan","Qarabag FK",3.75,"not out",2024
+"Azerbaijan","Sabah FK",0.75,"out",2024
+"Azerbaijan","Neftchi Baku",0.375,"out",2024
+"Azerbaijan","Gabala FK",0,"out",2024
+"Croatia","GNK Dinamo",2.625,"not out",2024
+"Croatia","NK Rijeka",1.125,"out",2024
+"Croatia","NK Osijek",0.75,"out",2024
+"Croatia","Hajduk Split",0.125,"out",2024
+"Hungary","Ferencváros",3.875,"not out",2024
+"Hungary","DVSC Debrecen",0.375,"out",2024
+"Hungary","Kecskeméti TE",0.25,"out",2024
+"Hungary","Zalaegerszegi TE",0,"out",2024
+"Bulgaria","Ludogorets Razgrad",3.125,"not out",2024
+"Bulgaria","Levski Sofia",1,"out",2024
+"Bulgaria","CSKA 1948 Sofia",0,"out",2024
+"Bulgaria","CSKA Sofia",0,"out",2024
+"Switzerland","Young Boys",1.7,"not out",2024
+"Switzerland","Servette FC",1.1,"not out",2024
+"Switzerland","FC Lugano",0.6,"out",2024
+"Switzerland","FC Luzern",0.4,"out",2024
+"Switzerland","FC Basel",0.2,"out",2024
+"Ukraine","Shakhtar Donetsk",2,"not out",2024
+"Ukraine","Zorya Luhansk",1.2,"out",2024
+"Ukraine","SC Dnipro-1",0.3,"out",2024
+"Ukraine","Vorskla Poltava",0.2,"out",2024
+"Ukraine","Dynamo Kyiv",0.2,"out",2024
+"Slovenia","Olimpija Ljubljana",2,"out",2024
+"Slovenia","NK Celje",0.875,"out",2024
+"Slovenia","NK Maribor",0.75,"out",2024
+"Slovenia","NK Domzale",0.25,"out",2024
+"Iceland","Breidablik",2.33333333333333,"out",2024
+"Iceland","KA Akureyri",1.16666666666667,"out",2024
+"Iceland","Vikingur Reykjavik",0.333333333333333,"out",2024
+"Austria","FC Salzburg",1.4,"out",2024
+"Austria","LASK",0.7,"out",2024
+"Austria","Austria Wien",0.6,"out",2024
+"Austria","Sturm Graz",0.6,"not out",2024
+"Austria","Rapid Wien",0.5,"out",2024
+"Cyprus","Aris Limassol",1.5,"out",2024
+"Cyprus","APOEL Nicosia",1,"out",2024
+"Cyprus","Omonia Nicosia",0.75,"out",2024
+"Cyprus","AEK Larnaca",0.5,"out",2024
+"Romania","Farul Constanta",1.5,"out",2024
+"Romania","Sepsi OSK",1,"out",2024
+"Romania","FCSB",0.625,"out",2024
+"Romania","CFR Cluj",0.125,"out",2024
+"Kazakhstan","FK Astana",1.75,"out",2024
+"Kazakhstan","Tobol Kustanai",0.875,"out",2024
+"Kazakhstan","FK Aktobe",0.375,"out",2024
+"Kazakhstan","Ordabasy Shymkent",0.125,"out",2024
+"Kosovo","FC Ballkani",2.25,"out",2024
+"Kosovo","KF Dukagjini",0.5,"out",2024
+"Kosovo","SC Gjilani",0.125,"out",2024
+"Kosovo","FC Drita",0.125,"out",2024
+"Faroe Islands","KI Klaksvik",1.75,"out",2024
+"Faroe Islands","B36 Torshavn",0.75,"out",2024
+"Faroe Islands","Víkingur",0.125,"out",2024
+"Faroe Islands","HB Torshavn",0.125,"out",2024
+"Luxembourg","F91 Dudelange",0.75,"out",2024
+"Luxembourg","Swift Hesperange",0.75,"out",2024
+"Luxembourg","Progrès Niederkorn",0.625,"out",2024
+"Luxembourg","Differdange 03",0.125,"out",2024
+"Armenia","Pyunik Yerevan",1,"out",2024
+"Armenia","Alashkert FC",0.625,"out",2024
+"Armenia","Ararat-Armenia",0.375,"out",2024
+"Armenia","Urartu FC",0.25,"out",2024
+"Bosnia-Herzegovina","Zrinjski Mostar",1.5,"out",2024
+"Bosnia-Herzegovina","Zeljeznicar Sarajevo",0.5,"out",2024
+"Bosnia-Herzegovina","FK Sarajevo",0.25,"out",2024
+"Bosnia-Herzegovina","FK Borac Banja Luka",0,"out",2024
+"Albania","Partizani Tirana",1.25,"out",2024
+"Albania","KF Tirana",0.375,"out",2024
+"Albania","Egnatia Rrogozhinë",0.25,"out",2024
+"Albania","Vllaznia Shkodër",0.25,"out",2024
+"Moldova","Sheriff Tiraspol",1.5,"out",2024
+"Moldova","Zimbru Chisinau",0.375,"out",2024
+"Moldova","Milsami Orhei",0.125,"out",2024
+"Moldova","Petrocub Hîncesti",0,"out",2024
+"Sweden","BK Häcken",1.625,"out",2024
+"Sweden","Djurgårdens IF",0.125,"out",2024
+"Sweden","Hammarby IF",0.125,"out",2024
+"Sweden","Kalmar FF",0,"out",2024
+"Belarus","Neman Grodno",0.75,"out",2024
+"Belarus","BATE Borisov",0.75,"out",2024
+"Belarus","Dinamo Minsk",0.125,"out",2024
+"Belarus","Torpedo Zhodino",0.125,"out",2024
+"Finland","HJK Helsinki",1.375,"out",2024
+"Finland","Haka Valkeakoski",0.125,"out",2024
+"Finland","Honka Espoo",0.125,"out",2024
+"Finland","KuPS Kuopio",0.125,"out",2024
+"Andorra","Inter Club d'Escaldes",0.833333333333333,"out",2024
+"Andorra","FC Santa Coloma",0.833333333333333,"out",2024
+"Andorra","Atlètic Club d'Escaldes",0,"out",2024
+"Latvia","RFS Riga",0.5,"out",2024
+"Latvia","Valmieras FK",0.5,"out",2024
+"Latvia","Riga FC",0.5,"out",2024
+"Latvia","FK Auda",0.125,"out",2024
+"Ireland","Derry City",1,"out",2024
+"Ireland","Dundalk",0.5,"out",2024
+"Ireland","St. Patrick's Athletic",0,"out",2024
+"Ireland","Shamrock Rovers",0,"out",2024
+"North Macedonia","FC Struga",0.875,"out",2024
+"North Macedonia","FK Shkupi",0.375,"out",2024
+"North Macedonia","Shkendija Tetovo",0.25,"out",2024
+"North Macedonia","Makedonija GjP",0,"out",2024
+"Malta","Hamrun Spartans",0.5,"out",2024
+"Malta","Gzira United",0.5,"out",2024
+"Malta","Balzan FC",0.375,"out",2024
+"Malta","Birkirkara",0.125,"out",2024
+"Serbia","Crvena zvezda",1,"out",2024
+"Serbia","Partizan Belgrade",0.2,"out",2024
+"Serbia","TSC Backa Topola",0.2,"out",2024
+"Serbia","Vojvodina Novi Sad",0,"out",2024
+"Serbia","Cukaricki Belgrade",0,"out",2024
+"Montenegro","Sutjeska Niksic",0.833333333333333,"out",2024
+"Montenegro","Buducnost Podgorica",0.333333333333333,"out",2024
+"Montenegro","Arsenal Tivat",0.166666666666667,"out",2024
+"Georgia","Torpedo Kutaisi",0.5,"out",2024
+"Georgia","Dila Gori",0.5,"out",2024
+"Georgia","Dinamo Batumi",0.125,"out",2024
+"Georgia","Dinamo Tbilisi",0.125,"out",2024
+"Northern Ireland","Crusaders Belfast",0.5,"out",2024
+"Northern Ireland","Glentoran",0.25,"out",2024
+"Northern Ireland","Linfield Belfast",0.25,"out",2024
+"Northern Ireland","Larne FC",0.125,"out",2024
+"Lithuania","FK Panevezys",0.5,"out",2024
+"Lithuania","Zalgiris Vilnius",0.5,"out",2024
+"Lithuania","FC Hegelmann",0.125,"out",2024
+"Lithuania","Kauno Zalgiris",0,"out",2024
+"Wales","Haverfordwest County",0.375,"out",2024
+"Wales","Penybont",0.125,"out",2024
+"Wales","The New Saints",0.125,"out",2024
+"Wales","Connah's Quay",0,"out",2024
+"Liechtenstein","FC Vaduz",0.5,"out",2024
+"San Marino","Cosmos",0.166666666666667,"out",2024
+"San Marino","La Fiorita",0.166666666666667,"out",2024
+"San Marino","Tre Penne",0,"out",2024
+"Gibraltar","FCB Magpies",0.166666666666667,"out",2024
+"Gibraltar","Europa FC",0,"out",2024
+"Gibraltar","Lincoln Red Imps",0,"out",2024
+"Estonia","Paide Linnameeskond",0.125,"out",2024
+"Estonia","Levadia Tallinn",0,"out",2024
+"Estonia","Trans Narva",0,"out",2024
+"Estonia","Flora Tallinn",0,"out",2024
 "England","Manchester City",4.71428571428571,"out",2023
 "England","West Ham United",4.42857142857143,"out",2023
 "England","Manchester United",3.14285714285714,"out",2023
@@ -3201,7 +3201,7 @@
 "Slovakia","FC Nitra",0.125,"out",2011
 "Hungary","DVSC Debrecen",1.375,"out",2011
 "Hungary","ETO Györ",1.125,"out",2011
-"Hungary","Zalaegerszeg TE",0.125,"out",2011
+"Hungary","Zalaegerszegi TE",0.125,"out",2011
 "Hungary","Videoton Fehérvár",0.125,"out",2011
 "Sweden","Kalmar FF",0.8,"out",2011
 "Sweden","IF Elfsborg",0.8,"out",2011
@@ -4847,7 +4847,7 @@
 "Denmark","OB Odense",0.75,"out",2003
 "Denmark","Brøndby IF",0.75,"out",2003
 "Hungary","Ferencváros",2,"out",2003
-"Hungary","Zalaegerszeg TE",0.666666666666667,"out",2003
+"Hungary","Zalaegerszegi TE",0.666666666666667,"out",2003
 "Hungary","Újpest TE",0.5,"out",2003
 "Cyprus","APOEL Nicosia",1.83333333333333,"out",2003
 "Cyprus","Anorthosis Famagusta",1,"out",2003
