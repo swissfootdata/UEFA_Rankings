@@ -85,10 +85,11 @@ current_points <- current_points %>%
 owner_data <- read_xlsx("./Data/owner_data.xlsx")
 owner_data$full_name <- paste0(owner_data$first_name," ",owner_data$last_name)
 
-owner_data_overview <- data.frame("player_id","Owner",0,0,0,0,
+owner_data_overview <- data.frame("player_id","Owner",0,"Clubs still in",0,0,0,
                                   0,"Motto","Twitter","Favorite Club")
-colnames(owner_data_overview) <- c("player_id","Owner","Points Overall","Match Points","Bonus Points","Points Gained This Week",
+colnames(owner_data_overview) <- c("player_id","Owner","Points Overall","Clubs still in","Match Points","Bonus Points","Points Gained This Week",
                                    "Money Spent in Mio. €","Motto","Twitter","Favorite Club")
+
 for (o in 1:nrow(owner_data)) {
   owner_portfolio <- current_points %>%
     filter(current_points$id == owner_data$team1_id[o] |
@@ -101,10 +102,11 @@ for (o in 1:nrow(owner_data)) {
              current_points$id == owner_data$team8_id[o] |
              current_points$id == owner_data$team9_id[o] |
              current_points$id == owner_data$team10_id[o])
-  
+
   new_entry <- data.frame(owner_data$player_id[o],
                           owner_data$full_name[o],
                           sum(owner_portfolio$points_overall),
+                          paste0(sum(str_detect(owner_portfolio$status,"&#x2714;&#xFE0F;")),"/10"),
                           sum(owner_portfolio$match_points),
                           sum(owner_portfolio$bonus_points),
                           sum(owner_portfolio$gain_points_overall),
@@ -112,7 +114,7 @@ for (o in 1:nrow(owner_data)) {
                           owner_data$motto[o],
                           owner_data$twitter[o],
                           owner_data$favorite_club[o])
-  colnames(new_entry) <- c("player_id","Owner","Points Overall","Match Points","Bonus Points","Points Gained This Week",
+  colnames(new_entry) <- c("player_id","Owner","Points Overall","Clubs still in","Match Points","Bonus Points","Points Gained This Week",
                            "Money Spent in Mio. €","Motto","Twitter","Favorite Club")
   
   owner_data_overview <- rbind(owner_data_overview,new_entry)
