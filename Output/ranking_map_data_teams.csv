@@ -2,9 +2,9 @@
 "1.FC Köln","Germany",0.875,86.339,1,":de:","Germany: 86.339 points","RheinEnergie Stadion",50.933611,6.875
 "1.FC Slovácko","Czech Republic",1.825,36.05,5.1,":cz:","Czech Republic: 36.05 points","Mestský fotbalový stadion Miroslava Valenty",49.065556,17.471461
 "1899 Hoffenheim","Germany",1.714,86.339,2,":de:","Germany: 86.339 points","Prezero-Arena",49.239,8.888278
-"AA Gent","Belgium",11.8,48.6,24.3,":be:","Belgium: 48.6 points","Jules Ottenstadion",51.031389,3.766111
+"AA Gent","Belgium",11.8,48.8,24.2,":be:","Belgium: 48.8 points","Jules Ottenstadion",51.031389,3.766111
 "Aberdeen","Scotland",3.45,36.05,9.6,":gb-sct:","Scotland: 36.05 points","Pittodrie Stadium",57.159166666,-2.088888888
-"AC Milan","Italy",9.286,89.143,10.4,":it:","Italy: 89.143 points","Stadio Giuseppe Meazza",45.478055,9.123947
+"AC Milan","Italy",9.286,89.429,10.4,":it:","Italy: 89.429 points","Stadio Giuseppe Meazza",45.478055,9.123947
 "Adana Demirspor","Turkey",0.875,38.6,2.3,":tr:","Turkey: 38.6 points",,,
 "AEK Athens","Greece",2.65,30.525,8.7,":gr:","Greece: 30.525 points","Olympic Stadium of Athens",38.036111111,23.7875
 "AEK Larnaca","Cyprus",3.925,22.1,17.8,":cy:","Cyprus: 22.1 points","AEK Arena - Georgios Karapatakis",34.9263,33.597747222
@@ -15,7 +15,7 @@
 "Akademija Pandev","North Macedonia",0,6,0,":mk:","North Macedonia: 6 points","Stadion Mladost",41.4462,22.637708
 "Alanyaspor","Turkey",0.1,38.6,0.3,":tr:","Turkey: 38.6 points","Alanya Oba Stadium",36.5626,32.0791
 "Alashkert FC","Armenia",2.875,10.625,27.1,":am:","Armenia: 10.625 points","Alashkert Stadium",40.154605,44.475231
-"Anderlecht","Belgium",3.9,48.6,8,":be:","Belgium: 48.6 points","Lotto Park",50.834167,4.298333
+"Anderlecht","Belgium",3.9,48.8,8,":be:","Belgium: 48.8 points","Lotto Park",50.834167,4.298333
 "Anorthosis Famagusta","Cyprus",2,22.1,9,":cy:","Cyprus: 22.1 points","Antonis Papadopoulos Stadium",34.937422,33.620922
 "APOEL Nicosia","Cyprus",5.55,22.1,25.1,":cy:","Cyprus: 22.1 points","GSP Stadium",35.114542,33.362864
 "Apollon Limassol","Cyprus",3.65,22.1,16.5,":cy:","Cyprus: 22.1 points","Tsirio Stadium",34.700914,33.022975
@@ -28,10 +28,10 @@
 "Arsenal Tivat","Montenegro",0.167,5.708,2.9,":me:","Montenegro: 5.708 points",,,
 "Arsenal Tula","Russia",0,18.633,0,":ru:","Russia: 18.633 points","Arsenal Stadium",54.174167,37.603056
 "AS Monaco","France",4.833,66.833,7.2,":fr:","France: 66.833 points","Stade Louis II",43.727778,7.415556
-"AS Roma","Italy",15.143,89.143,17,":it:","Italy: 89.143 points","Stadio Olimpico",41.933872,12.454714
+"AS Roma","Italy",15.143,89.429,16.9,":it:","Italy: 89.429 points","Stadio Olimpico",41.933872,12.454714
 "AS Saint-Étienne","France",0.667,66.833,1,":fr:","France: 66.833 points","Stade Geoffroy-Guichard",45.460833,4.39
 "Aston Villa","England",2.375,104.304,2.3,":gb-eng:","England: 104.304 points",,,
-"Atalanta","Italy",11.429,89.143,12.8,":it:","Italy: 89.143 points","Stadio Atleti Azzurri d'Italia",45.708889,9.680833
+"Atalanta","Italy",11.429,89.429,12.8,":it:","Italy: 89.429 points","Stadio Atleti Azzurri d'Italia",45.708889,9.680833
 "Atlètic Club d'Escaldes","Andorra",0.167,6,2.8,":ad:","Andorra: 6 points","Estadi Comunal d'Aixovall",42.476389,1.487667
 "Atlético Madrid","Spain",12.286,89.241,13.8,":es:","Spain: 89.241 points","Estadio Metropolitano",40.436111,-3.599444
 "Atromitos FC","Greece",0.5,30.525,1.6,":gr:","Greece: 30.525 points","Peristeri Stadium",38.004858,23.689756
@@ -65,11 +65,11 @@
 "CD Santa Clara","Portugal",0.833,56.317,1.5,":pt:","Portugal: 56.317 points","Estádio de São Miguel",37.763708,-25.622589
 "Celtic","Scotland",10.625,36.05,29.5,":gb-sct:","Scotland: 36.05 points","Celtic Park",55.849696,-4.2055427
 "CFR Cluj","Romania",11.25,21.375,52.6,":ro:","Romania: 21.375 points","Stadionul Dr. Constantin Radulescu",46.779678,23.577247
-"Charleroi","Belgium",0.4,48.6,0.8,":be:","Belgium: 48.6 points","Stade du Pays de Charleroi",50.414609,4.453787
+"Charleroi","Belgium",0.4,48.8,0.8,":be:","Belgium: 48.8 points","Stade du Pays de Charleroi",50.414609,4.453787
 "Chelsea","England",13.714,104.304,13.1,":gb-eng:","England: 104.304 points","Stamford Bridge",51.481666666,-0.191111111
 "Chikhura Sachkhere","Georgia",0.625,7.625,8.2,":ge:","Georgia: 7.625 points","Chikhura Stadium",42.3434539,43.4117564
 "Cliftonville","Northern Ireland",0.375,9.208,4.1,":gb-nir:","Northern Ireland: 9.208 points","Solitude",54.619517,-5.947272
-"Club Brugge","Belgium",14.2,48.6,29.2,":be:","Belgium: 48.6 points","Jan Breydel Stadium",51.193269,3.181311
+"Club Brugge","Belgium",14.4,48.8,29.5,":be:","Belgium: 48.8 points","Jan Breydel Stadium",51.193269,3.181311
 "Coleraine","Northern Ireland",1.167,9.208,12.7,":gb-nir:","Northern Ireland: 9.208 points","The Showgrounds",55.132778,-6.660278
 "Connah's Quay","Wales",0.875,5.792,15.1,":gb-wls:","Wales: 5.792 points","Deeside Stadium",53.225338,-3.076504
 "Cork City","Ireland",0.25,10.875,2.3,":ie:","Ireland: 10.875 points","Turners Cross",51.885528,-8.46775
@@ -144,7 +144,7 @@
 "Feronikeli","Kosovo",1.25,11.542,10.8,":xk:","Kosovo: 11.542 points","Rexhep Rexhepi Stadium",42.616446,20.903551
 "Feyenoord","Netherlands",13.4,61.3,21.9,":nl:","Netherlands: 61.3 points","De Kuip",51.893894444,4.523252777
 "FH Hafnarfjardar","Iceland",0.625,9.583,6.5,":is:","Iceland: 9.583 points","Kaplakriki",64.075833,-21.938611
-"Fiorentina","Italy",6.643,89.143,7.5,":it:","Italy: 89.143 points","Stadio Artemio Franchi (Florence)",43.780822,11.282258
+"Fiorentina","Italy",6.929,89.429,7.7,":it:","Italy: 89.429 points","Stadio Artemio Franchi (Florence)",43.780822,11.282258
 "FK Aktobe","Kazakhstan",0.375,11.5,3.3,":kz:","Kazakhstan: 11.5 points",,,
 "FK Astana","Kazakhstan",4.25,11.5,37,":kz:","Kazakhstan: 11.5 points","Astana Arena",51.108056,71.401667
 "FK Auda","Latvia",0.125,10.625,1.2,":lv:","Latvia: 10.625 points",,,
@@ -193,11 +193,11 @@
 "Ilves Tampere","Finland",0.25,11.125,2.2,":fi:","Finland: 11.125 points","Tampere Stadium",61.4925,23.764167
 "Inter Club d'Escaldes","Andorra",2.167,6,36.1,":ad:","Andorra: 6 points","Estadi Comunal d'Aixovall",42.476389,1.487667
 "Inter Turku","Finland",0.75,11.125,6.7,":fi:","Finland: 11.125 points","Veritas Stadion",60.442778,22.291667
-"Internazionale","Italy",14.429,89.143,16.2,":it:","Italy: 89.143 points","Stadio Giuseppe Meazza",45.478055,9.123947
+"Internazionale","Italy",14.429,89.429,16.1,":it:","Italy: 89.429 points","Stadio Giuseppe Meazza",45.478055,9.123947
 "Iskra Danilovgrad","Montenegro",0.5,5.708,8.8,":me:","Montenegro: 5.708 points","Braca Velaševic Stadium",42.55408333,19.10294444
 "Istanbul Basaksehir","Turkey",6.8,38.6,17.6,":tr:","Turkey: 38.6 points","Atatürk Olympic Stadium",41.074472222,28.765702777
 "Jeunesse d'Esch","Luxembourg",0.25,8.625,2.9,":lu:","Luxembourg: 8.625 points","Stade de la Frontière",49.485833333,5.976944444
-"Juventus","Italy",11.857,89.143,13.3,":it:","Italy: 89.143 points","Juventus Stadium",45.1096276,7.6412431
+"Juventus","Italy",11.857,89.429,13.3,":it:","Italy: 89.429 points","Juventus Stadium",45.1096276,7.6412431
 "KA Akureyri","Iceland",1.167,9.583,12.2,":is:","Iceland: 9.583 points",,,
 "Kairat Almaty","Kazakhstan",2.875,11.5,25,":kz:","Kazakhstan: 11.5 points","Almaty Central Stadium",43.238331,76.92435
 "Kalju Nomme","Estonia",0.375,7.208,5.2,":ee:","Estonia: 7.208 points","Hiiu Stadium",59.385456,24.659603
@@ -220,7 +220,7 @@
 "La Fiorita","San Marino",0.5,1.833,27.3,":sm:","San Marino: 1.833 points","Stadio Olimpico",43.97125,12.476972
 "Larne FC","Northern Ireland",1.375,9.208,14.9,":gb-nir:","Northern Ireland: 9.208 points","Inver Park",54.84980278,-5.82625833
 "LASK","Austria",9.2,32.6,28.2,":at:","Austria: 32.6 points","Linzer Stadion",48.293333,14.276389
-"Lazio","Italy",8.286,89.143,9.3,":it:","Italy: 89.143 points","Stadio Olimpico",41.933872,12.454714
+"Lazio","Italy",8.286,89.429,9.3,":it:","Italy: 89.429 points","Stadio Olimpico",41.933872,12.454714
 "Lech Poznan","Poland",8.25,25.375,32.5,":pl:","Poland: 25.375 points","Stadion Miejski",52.397222,16.858056
 "Lechia Gdansk","Poland",0.875,25.375,3.4,":pl:","Poland: 25.375 points","Stadion Energa Gdansk",54.39,18.640278
 "Legia Warsaw","Poland",7.875,25.375,31,":pl:","Poland: 25.375 points","Polish Army Stadium",52.220461,21.040628
@@ -254,7 +254,7 @@
 "MS Ashdod","Israel",0.125,31.125,0.4,":il:","Israel: 31.125 points","Yud-Alef Stadium",31.8103,34.6483
 "MSK Zilina","Slovakia",1.75,19.625,8.9,":sk:","Slovakia: 19.625 points","Štadión pod Dubnom",49.229167,18.744722
 "Mura Murska Sobota","Slovenia",3.125,13.25,23.6,":si:","Slovenia: 13.25 points","Fazanerija City Stadium",46.668611,16.1575
-"Napoli","Italy",11.571,89.143,13,":it:","Italy: 89.143 points","Stadio Diego Armando Maradona",40.827967,14.193008
+"Napoli","Italy",11.571,89.429,12.9,":it:","Italy: 89.429 points","Stadio Diego Armando Maradona",40.827967,14.193008
 "Neftchi Baku","Azerbaijan",3.25,20.125,16.1,":az:","Azerbaijan: 20.125 points","Bakcell Arena",40.400163,49.944019
 "Neman Grodno","Belarus",0.75,6.625,11.3,":by:","Belarus: 6.625 points",,,
 "Newcastle United","England",1,104.304,1,":gb-eng:","England: 104.304 points",,,
@@ -292,7 +292,7 @@
 "Puskás Akadémia","Hungary",0.625,21.875,2.9,":hu:","Hungary: 21.875 points","Pancho Arena",47.464,18.5868
 "Pyunik Yerevan","Armenia",3.5,10.625,32.9,":am:","Armenia: 10.625 points","Alashkert Stadium",40.154605,44.475231
 "Qarabag FK","Azerbaijan",15.25,20.125,75.8,":az:","Azerbaijan: 20.125 points","Karabakh Stadium",40.4212,49.9968
-"Racing Genk","Belgium",3.7,48.6,7.6,":be:","Belgium: 48.6 points","Cegeka Arena",51.0050212,5.5334055
+"Racing Genk","Belgium",3.7,48.8,7.6,":be:","Belgium: 48.8 points","Cegeka Arena",51.0050212,5.5334055
 "Racing Union Luxembourg","Luxembourg",0,8.625,0,":lu:","Luxembourg: 8.625 points","Stade Achille Hammerel",49.604722222,6.140277777
 "Radnicki Nis","Serbia",0.375,27.775,1.4,":rs:","Serbia: 27.775 points","Cair Stadium",43.315528,21.908533
 "Radnik Bijeljina","Bosnia-Herzegovina",0.25,10,2.5,":ba:","Bosnia-Herzegovina: 10 points","Bijeljina City Stadium",44.75444444,19.225
@@ -312,7 +312,7 @@
 "Rio Ave","Portugal",0.7,56.317,1.2,":pt:","Portugal: 56.317 points","Estádio do Rio Ave FC",41.362756,-8.740186
 "RoPS Rovaniemi","Finland",0,11.125,0,":fi:","Finland: 11.125 points","Rovaniemen keskuskenttä",66.4997,25.7217
 "Rosenborg BK","Norway",4.5,31.625,14.2,":no:","Norway: 31.625 points","Lerkendal Stadion",63.4125,10.405
-"Royal Antwerp","Belgium",5.3,48.6,10.9,":be:","Belgium: 48.6 points","Stadion Broodstraat",51.2327,4.471575
+"Royal Antwerp","Belgium",5.3,48.8,10.9,":be:","Belgium: 48.8 points","Stadion Broodstraat",51.2327,4.471575
 "Rubin Kazan","Russia",0.1,18.633,0.5,":ru:","Russia: 18.633 points","Central Stadium",55.796944,49.098889
 "Sabah FK","Azerbaijan",0.75,20.125,3.7,":az:","Azerbaijan: 20.125 points",,,
 "Sabail FK","Azerbaijan",0,20.125,0,":az:","Azerbaijan: 20.125 points","Bayil Stadium",40.332217,49.817664
@@ -357,7 +357,7 @@
 "St. Patrick's Athletic","Ireland",0.5,10.875,4.6,":ie:","Ireland: 10.875 points","Richmond Park",53.340922,-6.316619
 "Stade de Reims","France",0.417,66.833,0.6,":fr:","France: 66.833 points","Stade Auguste Delaune",49.246667,4.025
 "Stade Rennais","France",8.167,66.833,12.2,":fr:","France: 66.833 points","Roazhon Park",48.107472222,-1.712861111
-"Standard Liège","Belgium",2.7,48.6,5.6,":be:","Belgium: 48.6 points","Stade Maurice Dufrasne",50.609908,5.543344
+"Standard Liège","Belgium",2.7,48.8,5.5,":be:","Belgium: 48.8 points","Stade Maurice Dufrasne",50.609908,5.543344
 "Stjarnan FC","Iceland",0.375,9.583,3.9,":is:","Iceland: 9.583 points","Stjörnuvöllur",64.087423,-21.928865
 "Sturm Graz","Austria",3.8,32.6,11.7,":at:","Austria: 32.6 points","Merkur Arena",47.046111,15.454444
 "Suduva Marijampole","Lithuania",2.375,8.5,27.9,":lt:","Lithuania: 8.5 points","ARVI Football Arena",54.574547,23.365392
@@ -367,7 +367,7 @@
 "Teuta Durrës","Albania",1,7.375,13.6,":al:","Albania: 7.375 points","Niko Dovana Stadium",41.32583333,19.44944444
 "The New Saints","Wales",2.75,5.792,47.5,":gb-wls:","Wales: 5.792 points","Park Hall",52.8759,-3.02631
 "Tobol Kustanai","Kazakhstan",2.125,11.5,18.5,":kz:","Kazakhstan: 11.5 points","Kostanay Central Stadium",53.225974,63.636578
-"Torino","Italy",0.5,89.143,0.6,":it:","Italy: 89.143 points","Stadio Olimpico Grande Torino",45.041667,7.65
+"Torino","Italy",0.5,89.429,0.6,":it:","Italy: 89.429 points","Stadio Olimpico Grande Torino",45.041667,7.65
 "Torpedo Kutaisi","Georgia",0.5,7.625,6.6,":ge:","Georgia: 7.625 points","Ramaz Shengelia Stadium",42.255141666,42.683086111
 "Torpedo Zhodino","Belarus",0.125,6.625,1.9,":by:","Belarus: 6.625 points","Torpedo Stadium",54.092361111,28.319722222
 "Tottenham Hotspur","England",8.5,104.304,8.1,":gb-eng:","England: 104.304 points","Tottenham Hotspur Stadium",51.604444444,-0.066388888
@@ -383,7 +383,7 @@
 "UE Santa Coloma","Andorra",0,6,0,":ad:","Andorra: 6 points","Estadi Comunal d'Aixovall",42.476389,1.487667
 "Újpest TE","Hungary",0.5,21.875,2.3,":hu:","Hungary: 21.875 points","Ferenc Szusza Stadium",47.574892,19.08465
 "Union Berlin","Germany",3.661,86.339,4.2,":de:","Germany: 86.339 points","Stadion An der Alten Försterei",52.457222,13.568056
-"Union Saint-Gilloise","Belgium",6.6,48.6,13.6,":be:","Belgium: 48.6 points","Stade Joseph Marien - Joseph Marienstadion",50.8178,4.32917
+"Union Saint-Gilloise","Belgium",6.6,48.8,13.5,":be:","Belgium: 48.8 points","Stade Joseph Marien - Joseph Marienstadion",50.8178,4.32917
 "Union Titus Pétange","Luxembourg",0.125,8.625,1.4,":lu:","Luxembourg: 8.625 points","Stade Municipal, Pétange",49.557211111,5.856486111
 "Universitatea Craiova","Romania",2,21.375,9.4,":ro:","Romania: 21.375 points","Stadionul Ion Oblemenco",44.313889,23.784167
 "Urartu FC","Armenia",0.25,10.625,2.4,":am:","Armenia: 10.625 points","Urartu Stadium",40.171426,44.449938
