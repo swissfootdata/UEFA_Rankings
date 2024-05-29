@@ -3,7 +3,7 @@
 "Aberdeen","Scotland",1.1,"out",6.4,17.2,":gb-sct:","Scotland: 6.4 points","Pittodrie Stadium",57.159166666,-2.088888888
 "AC Milan","Italy",2.571,"out",21,12.2,":it:","Italy: 21 points","Stadio Giuseppe Meazza",45.478055,9.123947
 "Adana Demirspor","Turkey",0.875,"out",12,7.3,":tr:","Turkey: 12 points",,,
-"AEK Athens","Greece",0.9,"out",11,8.2,":gr:","Greece: 11 points","Olympic Stadium of Athens",38.036111111,23.7875
+"AEK Athens","Greece",0.9,"out",11.4,7.9,":gr:","Greece: 11.4 points","Olympic Stadium of Athens",38.036111111,23.7875
 "AEK Larnaca","Cyprus",0.5,"out",3.75,13.3,":cy:","Cyprus: 3.75 points","AEK Arena - Georgios Karapatakis",34.9263,33.597747222
 "AGF Aarhus","Denmark",0.25,"out",8.5,2.9,":dk:","Denmark: 8.5 points","Vejlby/Risskov Centret",56.1909,10.2093
 "Ajax","Netherlands",1.8,"out",10,18,":nl:","Netherlands: 10 points","Johan Cruyff Arena",52.314166666,4.941944444
@@ -11,7 +11,7 @@
 "APOEL Nicosia","Cyprus",1,"out",3.75,26.7,":cy:","Cyprus: 3.75 points","GSP Stadium",35.114542,33.362864
 "Ararat-Armenia","Armenia",0.375,"out",2.25,16.7,":am:","Armenia: 2.25 points","Republican Stadium",40.171944,44.525833
 "Aris Limassol","Cyprus",1.5,"out",3.75,40,":cy:","Cyprus: 3.75 points","Tsirio Stadium",34.700914,33.022975
-"Aris Thessaloniki","Greece",0.5,"out",11,4.5,":gr:","Greece: 11 points","Kleanthis Vikelidis Stadium",40.600069,22.9695
+"Aris Thessaloniki","Greece",0.5,"out",11.4,4.4,":gr:","Greece: 11.4 points","Kleanthis Vikelidis Stadium",40.600069,22.9695
 "Arsenal","England",2.75,"out",17.375,15.8,":gb-eng:","England: 17.375 points","Emirates Stadium",51.554867,-0.109112
 "Arsenal Tivat","Montenegro",0.167,"out",1.333,12.5,":me:","Montenegro: 1.333 points",,,
 "AS Roma","Italy",3.286,"out",21,15.6,":it:","Italy: 21 points","Stadio Olimpico",41.933872,12.454714
@@ -85,7 +85,7 @@
 "Fenerbahçe","Turkey",5,"out",12,41.7,":tr:","Turkey: 12 points","Sükrü Saracoglu Stadium",40.9875,29.036666666
 "Ferencváros","Hungary",3.875,"out",4.5,86.1,":hu:","Hungary: 4.5 points","Groupama Arena",47.475277777,19.096111111
 "Feyenoord","Netherlands",2,"out",10,20,":nl:","Netherlands: 10 points","De Kuip",51.893894444,4.523252777
-"Fiorentina","Italy",3.286,"not out",21,15.6,":it:","Italy: 21 points","Stadio Artemio Franchi (Florence)",43.780822,11.282258
+"Fiorentina","Italy",3.286,"out",21,15.6,":it:","Italy: 21 points","Stadio Artemio Franchi (Florence)",43.780822,11.282258
 "FK Aktobe","Kazakhstan",0.375,"out",3.125,12,":kz:","Kazakhstan: 3.125 points",,,
 "FK Astana","Kazakhstan",1.75,"out",3.125,56,":kz:","Kazakhstan: 3.125 points","Astana Arena",51.108056,71.401667
 "FK Auda","Latvia",0.125,"out",1.625,7.7,":lv:","Latvia: 1.625 points",,,
@@ -150,14 +150,14 @@
 "NK Osijek","Croatia",0.75,"out",5.875,12.8,":hr:","Croatia: 5.875 points","Gradski Vrt Stadium",45.545,18.695833
 "NK Rijeka","Croatia",1.125,"out",5.875,19.1,":hr:","Croatia: 5.875 points","Stadion Kantrida",45.339202,14.380959
 "Olimpija Ljubljana","Slovenia",2,"out",3.875,51.6,":si:","Slovenia: 3.875 points","Stožice Stadium",46.081111,14.521389
-"Olympiakos Piraeus","Greece",4.5,"not out",11,40.9,":gr:","Greece: 11 points","Karaiskakis Stadium",37.946169,23.664536
+"Olympiakos Piraeus","Greece",4.9,"out",11.4,43,":gr:","Greece: 11.4 points","Karaiskakis Stadium",37.946169,23.664536
 "Olympique Marseille","France",3.667,"out",16.25,22.6,":fr:","France: 16.25 points","Stade Vélodrome",43.269722222,5.395833333
 "Omonia Nicosia","Cyprus",0.75,"out",3.75,20,":cy:","Cyprus: 3.75 points","Dasaki Stadium",35.033889,33.765
 "Ordabasy Shymkent","Kazakhstan",0.125,"out",3.125,4,":kz:","Kazakhstan: 3.125 points","Kazhimukan Munaitpasov Stadium",42.335493,69.593568
 "Osasuna","Spain",0.062,"out",15.812,0.4,":es:","Spain: 15.812 points",,,
 "Paide Linnameeskond","Estonia",0.125,"out",0.125,100,":ee:","Estonia: 0.125 points","Paide linnastaadion",58.87845,25.54063
-"Panathinaikos","Greece",1.1,"out",11,10,":gr:","Greece: 11 points","Apostolos Nikolaidis Stadium",37.987169444,23.754194444
-"PAOK Thessaloniki","Greece",4,"out",11,36.4,":gr:","Greece: 11 points","Toumba Stadium",40.613839,22.972422
+"Panathinaikos","Greece",1.1,"out",11.4,9.6,":gr:","Greece: 11.4 points","Apostolos Nikolaidis Stadium",37.987169444,23.754194444
+"PAOK Thessaloniki","Greece",4,"out",11.4,35.1,":gr:","Greece: 11.4 points","Toumba Stadium",40.613839,22.972422
 "Paris Saint-Germain","France",3.833,"out",16.25,23.6,":fr:","France: 16.25 points","Parc des Princes",48.841388888,2.253055555
 "Partizan Belgrade","Serbia",0.2,"out",1.4,14.3,":rs:","Serbia: 1.4 points","Partizan Stadium",44.788611,20.459167
 "Partizani Tirana","Albania",1.25,"out",2.125,58.8,":al:","Albania: 2.125 points","Selman Stërmasi Stadium",41.31898056,19.81138333

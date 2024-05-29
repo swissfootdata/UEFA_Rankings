@@ -6,7 +6,7 @@
 "Aberdeen","Scotland",3.45,36.05,9.6,":gb-sct:","Scotland: 36.05 points","Pittodrie Stadium",57.159166666,-2.088888888
 "AC Milan","Italy",9.286,90.286,10.3,":it:","Italy: 90.286 points","Stadio Giuseppe Meazza",45.478055,9.123947
 "Adana Demirspor","Turkey",0.875,38.6,2.3,":tr:","Turkey: 38.6 points",,,
-"AEK Athens","Greece",2.65,31.125,8.5,":gr:","Greece: 31.125 points","Olympic Stadium of Athens",38.036111111,23.7875
+"AEK Athens","Greece",2.65,31.525,8.4,":gr:","Greece: 31.525 points","Olympic Stadium of Athens",38.036111111,23.7875
 "AEK Larnaca","Cyprus",3.925,22.1,17.8,":cy:","Cyprus: 22.1 points","AEK Arena - Georgios Karapatakis",34.9263,33.597747222
 "AEL Limassol","Cyprus",0.75,22.1,3.4,":cy:","Cyprus: 22.1 points","Tsirio Stadium",34.700914,33.022975
 "AGF Aarhus","Denmark",0.85,31.45,2.7,":dk:","Denmark: 31.45 points","Vejlby/Risskov Centret",56.1909,10.2093
@@ -23,7 +23,7 @@
 "Ararat Yerevan","Armenia",0.625,10.625,5.9,":am:","Armenia: 10.625 points","Republican Stadium",40.171944,44.525833
 "Arda Kardzhali","Bulgaria",0,20.375,0,":bg:","Bulgaria: 20.375 points","Arda Arena",41.6411856,25.3758564
 "Aris Limassol","Cyprus",1.7,22.1,7.7,":cy:","Cyprus: 22.1 points","Tsirio Stadium",34.700914,33.022975
-"Aris Thessaloniki","Greece",2.1,31.125,6.7,":gr:","Greece: 31.125 points","Kleanthis Vikelidis Stadium",40.600069,22.9695
+"Aris Thessaloniki","Greece",2.1,31.525,6.7,":gr:","Greece: 31.525 points","Kleanthis Vikelidis Stadium",40.600069,22.9695
 "Arsenal","England",9.893,104.304,9.5,":gb-eng:","England: 104.304 points","Emirates Stadium",51.554867,-0.109112
 "Arsenal Tivat","Montenegro",0.167,5.708,2.9,":me:","Montenegro: 5.708 points",,,
 "Arsenal Tula","Russia",0,18.633,0,":ru:","Russia: 18.633 points","Arsenal Stadium",54.174167,37.603056
@@ -34,7 +34,7 @@
 "Atalanta","Italy",12.143,90.286,13.4,":it:","Italy: 90.286 points","Stadio Atleti Azzurri d'Italia",45.708889,9.680833
 "Atlètic Club d'Escaldes","Andorra",0.167,6,2.8,":ad:","Andorra: 6 points","Estadi Comunal d'Aixovall",42.476389,1.487667
 "Atlético Madrid","Spain",12.286,89.241,13.8,":es:","Spain: 89.241 points","Estadio Metropolitano",40.436111,-3.599444
-"Atromitos FC","Greece",0.5,31.125,1.6,":gr:","Greece: 31.125 points","Peristeri Stadium",38.004858,23.689756
+"Atromitos FC","Greece",0.5,31.525,1.6,":gr:","Greece: 31.525 points","Peristeri Stadium",38.004858,23.689756
 "Austria Wien","Austria",1.1,32.6,3.4,":at:","Austria: 32.6 points","Generali Arena",48.162306,16.386694
 "AZ Alkmaar","Netherlands",13.1,61.3,21.4,":nl:","Netherlands: 61.3 points","AFAS Stadion",52.6125,4.741667
 "B36 Torshavn","Faroe Islands",2.5,10.375,24.1,":fo:","Faroe Islands: 10.375 points","Gundadalur",62.0193487,-6.7811394
@@ -266,11 +266,11 @@
 "NK Osijek","Croatia",1.85,25.525,7.2,":hr:","Croatia: 25.525 points","Gradski Vrt Stadium",45.545,18.695833
 "NK Rijeka","Croatia",3.95,25.525,15.5,":hr:","Croatia: 25.525 points","Stadion Kantrida",45.339202,14.380959
 "NSI Runavik","Faroe Islands",0.792,10.375,7.6,":fo:","Faroe Islands: 10.375 points","Runavík Stadium",62.105833,-6.723333
-"OFI Heraklion","Greece",0.1,31.125,0.3,":gr:","Greece: 31.125 points","Pankritio Stadium",35.336666666,25.106111111
+"OFI Heraklion","Greece",0.1,31.525,0.3,":gr:","Greece: 31.525 points","Pankritio Stadium",35.336666666,25.106111111
 "OFK Titograd","Montenegro",0.125,5.708,2.2,":me:","Montenegro: 5.708 points","Omladinski Stadium",44.815456,20.494047
 "OGC Nice","France",2.833,66.833,4.2,":fr:","France: 66.833 points","Allianz Riviera",43.705138888,7.192583333
 "Olimpija Ljubljana","Slovenia",3.75,13.25,28.3,":si:","Slovenia: 13.25 points","Stožice Stadium",46.081111,14.521389
-"Olympiakos Piraeus","Greece",14.15,31.125,45.5,":gr:","Greece: 31.125 points","Karaiskakis Stadium",37.946169,23.664536
+"Olympiakos Piraeus","Greece",14.55,31.525,46.2,":gr:","Greece: 31.525 points","Karaiskakis Stadium",37.946169,23.664536
 "Olympique Lyonnais","France",7.333,66.833,11,":fr:","France: 66.833 points","Parc Olympique Lyonnais",45.765224,4.982131
 "Olympique Marseille","France",9.333,66.833,14,":fr:","France: 66.833 points","Stade Vélodrome",43.269722222,5.395833333
 "Omonia Nicosia","Cyprus",4.525,22.1,20.5,":cy:","Cyprus: 22.1 points","Dasaki Stadium",35.033889,33.765
@@ -278,8 +278,8 @@
 "Osasuna","Spain",0.062,89.241,0.1,":es:","Spain: 89.241 points",,,
 "Paços de Ferreira","Portugal",0.333,56.317,0.6,":pt:","Portugal: 56.317 points","Estádio da Mata Real",41.271353,-8.385581
 "Paide Linnameeskond","Estonia",0.917,7.208,12.7,":ee:","Estonia: 7.208 points","Paide linnastaadion",58.87845,25.54063
-"Panathinaikos","Greece",1.225,31.125,3.9,":gr:","Greece: 31.125 points","Apostolos Nikolaidis Stadium",37.987169444,23.754194444
-"PAOK Thessaloniki","Greece",10.4,31.125,33.4,":gr:","Greece: 31.125 points","Toumba Stadium",40.613839,22.972422
+"Panathinaikos","Greece",1.225,31.525,3.9,":gr:","Greece: 31.525 points","Apostolos Nikolaidis Stadium",37.987169444,23.754194444
+"PAOK Thessaloniki","Greece",10.4,31.525,33,":gr:","Greece: 31.525 points","Toumba Stadium",40.613839,22.972422
 "Paris Saint-Germain","France",19.333,66.833,28.9,":fr:","France: 66.833 points","Parc des Princes",48.841388888,2.253055555
 "Partizan Belgrade","Serbia",10.45,27.775,37.6,":rs:","Serbia: 27.775 points","Partizan Stadium",44.788611,20.459167
 "Partizani Tirana","Albania",2.25,7.375,30.5,":al:","Albania: 7.375 points","Selman Stërmasi Stadium",41.31898056,19.81138333
