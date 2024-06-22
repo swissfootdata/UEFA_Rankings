@@ -22,7 +22,7 @@ for (y in years) {
       
     }
     
-    if (grepl("CL|EL|ECL",uefa_table[r]) == TRUE) { 
+    if (grepl("CL|EL|ECL|CO",uefa_table[r]) == TRUE) { 
       
       team <- uefa_table[r-1]
       team_points <- as.numeric(uefa_table[r+8])/teams_count
@@ -60,6 +60,7 @@ uefa_country_ranking_teams$team <- gsub("Servette FC Genève","Servette FC",uefa
 uefa_country_ranking_teams$team <- gsub("Dinamo Zagreb","GNK Dinamo",uefa_country_ranking_teams$team)
 uefa_country_ranking_teams$team <- gsub("LASK Linz","LASK",uefa_country_ranking_teams$team)
 
+
 write.csv(uefa_country_ranking_teams,"Output/ranking_teams.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
 #Tidy table for all seasons
@@ -70,6 +71,7 @@ points_team <- uefa_country_ranking_teams %>%
 points_country <- uefa_country_ranking_teams %>%
   group_by(country) %>%
   summarise(overall_points_country = sum(scored_points))
+
 
 #Adapt Russia
 points_country$overall_points_country[44] <- points_country$overall_points_country[44]+4.333
@@ -96,7 +98,7 @@ write.csv(complete_table,"Output/ranking_teams_overview.csv", na = "", row.names
 
 
 #Tidy table for current season
-uefa_country_ranking_teams <- uefa_country_ranking_teams[1:233,]
+uefa_country_ranking_teams <- uefa_country_ranking_teams[1:238,]
 
 points_team <- uefa_country_ranking_teams %>%
   group_by(team) %>%

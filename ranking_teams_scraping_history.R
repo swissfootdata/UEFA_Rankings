@@ -1,7 +1,7 @@
 uefa_country_ranking_teams <- data.frame("country","team",0,"bla",0)
 colnames(uefa_country_ranking_teams) <- c("country","team","scored_points","status","year")
 
-years <- 2024:1956
+years <- 2025:1956
 #years <- c("2023","2022","2021","2020","2019")
 
 for (y in years) {
@@ -35,7 +35,7 @@ for (y in years) {
       
     }
     
-    if (grepl("CL|EL|ECL|UC|CWC",uefa_table[r]) == TRUE) { 
+    if (grepl("CL|EL|ECL|UC|CWC|CO",uefa_table[r]) == TRUE) { 
       
       team <- uefa_table[r-1]
       team_points <- as.numeric(uefa_table[r+8])/teams_count
