@@ -96,9 +96,8 @@ complete_table$text <- paste0(complete_table$country,": ",round(complete_table$o
 
 write.csv(complete_table,"Output/ranking_teams_overview.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
-
 #Tidy table for current season
-uefa_country_ranking_teams <- uefa_country_ranking_teams[1:238,]
+uefa_country_ranking_teams <- uefa_country_ranking_teams[1:236,]
 
 points_team <- uefa_country_ranking_teams %>%
   group_by(team) %>%

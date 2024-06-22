@@ -3328,3 +3328,64 @@ Data in qw90m successfully updated.
 
 Chart qw90m succesfully updated.
 
+Chart qw90m published!
+### Responsive iFrame-code: ###
+<iframe title="Uefa Country Ranking: The most successful teams in the last five seasons" aria-label="Table" id="datawrapper-chart-qw90m" src="https://datawrapper.dwcdn.net/qw90m/356/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3027" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/qw90m/356/
+Data in xFGfR successfully updated.
+
+Chart xFGfR succesfully updated.
+
+Chart xFGfR published!
+### Responsive iFrame-code: ###
+<iframe title="Power Map of International Club Football: Nations Overview" aria-label="Map" id="datawrapper-chart-xFGfR" src="https://datawrapper.dwcdn.net/xFGfR/358/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="706" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/xFGfR/358/
+Data in zXf6G successfully updated.
+
+Chart zXf6G succesfully updated.
+
+Chart zXf6G published!
+### Responsive iFrame-code: ###
+<iframe title="Power Map of International Club Football: Teams Overview" aria-label="Map" id="datawrapper-chart-zXf6G" src="https://datawrapper.dwcdn.net/zXf6G/336/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="672" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/zXf6G/336/
+Data in up5me successfully updated.
+
+Chart up5me succesfully updated.
+
+Chart up5me published!
+### Responsive iFrame-code: ###
+<iframe title="Uefa Country Ranking: The teams with the largest share of overall points in their country" aria-label="Table" id="datawrapper-chart-up5me" src="https://datawrapper.dwcdn.net/up5me/354/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3027" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/up5me/354/
+Chart f8BVO succesfully updated.
+
+Chart f8BVO published!
+### Responsive iFrame-code: ###
+<iframe title="UEFA Country Ranking: Access List for Season 25/26" aria-label="Tabelle" id="datawrapper-chart-f8BVO" src="https://datawrapper.dwcdn.net/f8BVO/232/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2934" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+### Chart-URL:###
+https://datawrapper.dwcdn.net/f8BVO/232/
+Already up to date.
+[master 4e89464] commit from Rstudio
+ 4 files changed, 3585 insertions(+), 1321 deletions(-)
+ rewrite Old_data/2024-06-22_old_data_ranking_full.rdata (100%)
+ rewrite Output/ranking_map_data.csv (98%)
+ rewrite Output/ranking_map_data_teams.csv (98%)
+To https://github.com/swissfootdata/UEFA_Rankings.git
+   74b8b41..4e89464  master -> master
+> 
+> proc.time()
+       User      System verstrichen 
+      10.48        1.39      131.56 
