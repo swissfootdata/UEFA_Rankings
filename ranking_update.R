@@ -34,7 +34,7 @@ remote_driver <- driver[["client"]]
 current_date <- Sys.Date()
 current_day <- as.numeric(format(Sys.Date(),"%d"))
 
-remote_driver$navigate("https://kassiesa.net/uefa/data/method5/crank2024.html")
+remote_driver$navigate("https://kassiesa.net/uefa/data/method5/crank2025.html")
 output <- remote_driver$findElement(using="class",value="flex-container")
 text_datum <- output$getElementText()[[1]]
 text_datum <- strsplit(text_datum,"\n")[[1]][3]
@@ -89,17 +89,17 @@ gitcommit()
 gitpush()  
   
 #Update Club Owner Data
-source("update_club_owner_data.R",encoding = "UTF-8")
+#source("update_club_owner_data.R",encoding = "UTF-8")
     
 #Store Last update
-cat(text_datum,file="last_update.txt")
+#cat(text_datum,file="last_update.txt")
 
-git2r::config(user.name = "swissfootdata",user.email = "swissfootballdata@bluewin.ch")
-invisible(git2r::cred_token(token))
-gitpull()
-gitadd()
-gitcommit()
-gitpush()
+#git2r::config(user.name = "swissfootdata",user.email = "swissfootballdata@bluewin.ch")
+#invisible(git2r::cred_token(token))
+#gitpull()
+#gitadd()
+#gitcommit()
+#gitpush()
 
 } else {
 print("Noch keine aktuellen Daten gefunden")  
