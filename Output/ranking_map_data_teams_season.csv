@@ -21,7 +21,7 @@
 "Austria Wien","Austria",0,"not out",1.2,0,":at:","Austria: 1.2 points","Generali Arena",48.162306,16.386694
 "AZ Alkmaar","Netherlands",0,"not out",2,0,":nl:","Netherlands: 2 points","AFAS Stadion",52.6125,4.741667
 "B36 Torshavn","Faroe Islands",0,"not out",0,,":fo:","Faroe Islands: 0 points","Gundadalur",62.0193487,-6.7811394
-"Bala Town","Wales",0,"not out",0,,":gb-wls:","Wales: 0 points","Maes Tegid",52.912222,-3.601389
+"Bala Town","Wales",0,"not out",0.25,0,":gb-wls:","Wales: 0.25 points","Maes Tegid",52.912222,-3.601389
 "Baník Ostrava","Czech Republic",0,"not out",0,,":cz:","Czech Republic: 0 points",,,
 "Bayer Leverkusen","Germany",0.75,"not out",3.75,20,":de:","Germany: 3.75 points","BayArena",51.038255555,7.002205555
 "Bayern München","Germany",0.75,"not out",3.75,20,":de:","Germany: 3.75 points","Allianz Arena",48.218775,11.624752777
@@ -32,25 +32,25 @@
 "Bologna","Italy",0.75,"not out",3.75,20,":it:","Italy: 3.75 points",,,
 "Borussia Dortmund","Germany",0.75,"not out",3.75,20,":de:","Germany: 3.75 points","Westfalenstadion",51.4925,7.451667
 "Botev Plovdiv","Bulgaria",0,"not out",0,,":bg:","Bulgaria: 0 points","Hristo Botev Stadium",42.139861,24.764444
-"Breidablik","Iceland",0,"not out",0,,":is:","Iceland: 0 points","Kópavogsvöllur",64.104167,-21.896667
+"Breidablik","Iceland",0,"not out",0.125,0,":is:","Iceland: 0.125 points","Kópavogsvöllur",64.104167,-21.896667
 "Brøndby IF","Denmark",0,"not out",0,,":dk:","Denmark: 0 points","Brøndby Stadium",55.648853,12.418358
 "Buducnost Podgorica","Montenegro",0,"not out",0,,":me:","Montenegro: 0 points","Podgorica City Stadium",42.444728,19.264378
-"Caernarfon Town","Wales",0,"not out",0,,":gb-wls:","Wales: 0 points",,,
+"Caernarfon Town","Wales",0,"not out",0.25,0,":gb-wls:","Wales: 0.25 points",,,
 "Celtic","Scotland",1.2,"not out",1.2,100,":gb-sct:","Scotland: 1.2 points","Celtic Park",55.849696,-4.2055427
 "Cercle Brugge","Belgium",0,"not out",1.2,0,":be:","Belgium: 1.2 points",,,
-"CFR Cluj","Romania",0,"not out",0,,":ro:","Romania: 0 points","Stadionul Dr. Constantin Radulescu",46.779678,23.577247
+"CFR Cluj","Romania",0,"not out",0.25,0,":ro:","Romania: 0.25 points","Stadionul Dr. Constantin Radulescu",46.779678,23.577247
 "Chelsea","England",0,"not out",3.429,0,":gb-eng:","England: 3.429 points","Stamford Bridge",51.481666666,-0.191111111
 "Cherno More Varna","Bulgaria",0,"not out",0,,":bg:","Bulgaria: 0 points",,,
 "Cliftonville","Northern Ireland",0,"not out",0,,":gb-nir:","Northern Ireland: 0 points","Solitude",54.619517,-5.947272
 "Club Brugge","Belgium",1.2,"not out",1.2,100,":be:","Belgium: 1.2 points","Jan Breydel Stadium",51.193269,3.181311
-"Connah's Quay","Wales",0,"not out",0,,":gb-wls:","Wales: 0 points","Deeside Stadium",53.225338,-3.076504
-"Corvinul Hunedoara","Romania",0,"not out",0,,":ro:","Romania: 0 points",,,
+"Connah's Quay","Wales",0,"not out",0.25,0,":gb-wls:","Wales: 0.25 points","Deeside Stadium",53.225338,-3.076504
+"Corvinul Hunedoara","Romania",0,"not out",0.25,0,":ro:","Romania: 0.25 points",,,
 "Crusaders Belfast","Northern Ireland",0,"not out",0,,":gb-nir:","Northern Ireland: 0 points","Seaview",54.624294,-5.921925
 "Crvena zvezda","Serbia",0,"not out",0,,":rs:","Serbia: 0 points","Red Star Stadium",44.7832,20.464914
 "CSKA 1948 Sofia","Bulgaria",0,"not out",0,,":bg:","Bulgaria: 0 points",,,
 "DAC Dunajska Streda","Slovakia",0,"not out",0,,":sk:","Slovakia: 0 points","DAC Stadion",47.99888889,17.61833333
 "Decic Tuzi","Montenegro",0,"not out",0,,":me:","Montenegro: 0 points","Stadion Tuško Polje",42.3599,19.3264
-"Derry City","Ireland",0,"not out",0,,":ie:","Ireland: 0 points","Brandywell Stadium",54.990633,-7.336
+"Derry City","Ireland",0,"not out",0.125,0,":ie:","Ireland: 0.125 points","Brandywell Stadium",54.990633,-7.336
 "Differdange 03","Luxembourg",0,"not out",0,,":lu:","Luxembourg: 0 points","Stade Municipal de la Ville de Differdange",49.513932,5.889775
 "Dinamo Batumi","Georgia",0,"not out",0,,":ge:","Georgia: 0 points","Chele Arena",41.812981,41.774458
 "Dinamo Minsk","Belarus",0,"not out",0,,":by:","Belarus: 0 points","Dinamo Stadium",53.895138888,27.560277777
@@ -60,10 +60,10 @@
 "Egnatia Rrogozhinë","Albania",0,"not out",0,,":al:","Albania: 0 points",,,
 "Eintracht Frankfurt","Germany",0,"not out",3.75,0,":de:","Germany: 3.75 points","Waldstadion",50.068611,8.645278
 "F91 Dudelange","Luxembourg",0,"not out",0,,":lu:","Luxembourg: 0 points","Stade Jos Nosbaum",49.472222222,6.084722222
-"FA Siauliai","Lithuania",0,"not out",0,,":lt:","Lithuania: 0 points",,,
-"FC Ballkani","Kosovo",0,"not out",0,,":xk:","Kosovo: 0 points","Balkanabat Stadium",39.511944,54.365
+"FA Siauliai","Lithuania",0,"not out",0.25,0,":lt:","Lithuania: 0.25 points",,,
+"FC Ballkani","Kosovo",0.25,"not out",0.25,100,":xk:","Kosovo: 0.25 points","Balkanabat Stadium",39.511944,54.365
 "FC Barcelona","Spain",0.857,"not out",3.429,25,":es:","Spain: 3.429 points","Camp Nou",41.380833,2.1225
-"FC Drita","Kosovo",0,"not out",0,,":xk:","Kosovo: 0 points","Stadium Bogovinje",41.4375,22.7689
+"FC Drita","Kosovo",0,"not out",0.25,0,":xk:","Kosovo: 0.25 points","Stadium Bogovinje",41.4375,22.7689
 "FC Fehérvár","Hungary",0,"not out",0,,":hu:","Hungary: 0 points","Sóstói Stadion",47.17369444,18.41536111
 "FC København","Denmark",0,"not out",0,,":dk:","Denmark: 0 points","Parken Stadium",55.702469,12.572203
 "FC Lugano","Switzerland",0,"not out",0,,":ch:","Switzerland: 0 points","Cornaredo Stadium",46.023611,8.961667
@@ -76,8 +76,8 @@
 "FC Twente Enschede","Netherlands",0,"not out",2,0,":nl:","Netherlands: 2 points","De Grolsch Veste",52.236666666,6.8375
 "FC Vaduz","Liechtenstein",0,"not out",0,,":li:","Liechtenstein: 0 points","Rheinpark Stadion",47.140277777,9.510277777
 "FC Zürich","Switzerland",0,"not out",0,,":ch:","Switzerland: 0 points","Letzigrund",47.382791,8.503801
-"FCB Magpies","Gibraltar",0,"not out",0,,":gi:","Gibraltar: 0 points","Victoria Stadium",36.149356,-5.350342
-"FCSB","Romania",0,"not out",0,,":ro:","Romania: 0 points","National Arena",44.4372,26.1525
+"FCB Magpies","Gibraltar",0,"not out",0.333,0,":gi:","Gibraltar: 0.333 points","Victoria Stadium",36.149356,-5.350342
+"FCSB","Romania",0.25,"not out",0.25,100,":ro:","Romania: 0.25 points","National Arena",44.4372,26.1525
 "Fenerbahçe","Turkey",0,"not out",0,,":tr:","Turkey: 0 points","Sükrü Saracoglu Stadium",40.9875,29.036666666
 "Ferencváros","Hungary",0,"not out",0,,":hu:","Hungary: 0 points","Groupama Arena",47.475277777,19.096111111
 "Feyenoord","Netherlands",1,"not out",2,50,":nl:","Netherlands: 2 points","De Kuip",51.893894444,4.523252777
@@ -87,7 +87,7 @@
 "FK Auda","Latvia",0,"not out",0,,":lv:","Latvia: 0 points",,,
 "FK Borac Banja Luka","Bosnia-Herzegovina",0,"not out",0,,":ba:","Bosnia-Herzegovina: 0 points","Gradski stadion",44.7761,17.1996
 "FK Liepaja","Latvia",0,"not out",0,,":lv:","Latvia: 0 points","Daugava Stadium",56.502952,20.995424
-"FK Panevezys","Lithuania",0,"not out",0,,":lt:","Lithuania: 0 points","Aukštaitija Stadium",55.739167,24.359444
+"FK Panevezys","Lithuania",0.25,"not out",0.25,100,":lt:","Lithuania: 0.25 points","Aukštaitija Stadium",55.739167,24.359444
 "FK Sarajevo","Bosnia-Herzegovina",0,"not out",0,,":ba:","Bosnia-Herzegovina: 0 points","Asim Ferhatovic Hase Stadium",43.873888888,18.408611111
 "Flora Tallinn","Estonia",0,"not out",0,,":ee:","Estonia: 0 points","A. Le Coq Arena",59.421292,24.73205
 "Floriana","Malta",0,"not out",0,,":mt:","Malta: 0 points","Ta' Qali National Stadium",35.894863888,14.415372222
@@ -110,8 +110,8 @@
 "Jagiellonia Bialystok","Poland",0,"not out",0,,":pl:","Poland: 0 points","Bialystok City Stadium",53.105556,23.148889
 "Juventus","Italy",0.75,"not out",3.75,20,":it:","Italy: 3.75 points","Juventus Stadium",45.1096276,7.6412431
 "Kalev Tallinn","Estonia",0,"not out",0,,":ee:","Estonia: 0 points",,,
-"KF Llapi","Kosovo",0,"not out",0,,":xk:","Kosovo: 0 points","City Stadium",42.905,21.19472222
-"KF Malisheva","Kosovo",0,"not out",0,,":xk:","Kosovo: 0 points",,,
+"KF Llapi","Kosovo",0,"not out",0.25,0,":xk:","Kosovo: 0.25 points","City Stadium",42.905,21.19472222
+"KF Malisheva","Kosovo",0,"not out",0.25,0,":xk:","Kosovo: 0.25 points",,,
 "KF Tirana","Albania",0,"not out",0,,":al:","Albania: 0 points","Selman Stërmasi Stadium",41.31898056,19.81138333
 "KI Klaksvik","Faroe Islands",0,"not out",0,,":fo:","Faroe Islands: 0 points","Djúpumýra Stadium",62.225246,-6.579201
 "Kilmarnock","Scotland",0,"not out",1.2,0,":gb-sct:","Scotland: 1.2 points","Rugby Park",55.604225,-4.508122
@@ -124,7 +124,7 @@
 "Legia Warsaw","Poland",0,"not out",0,,":pl:","Poland: 0 points","Polish Army Stadium",52.220461,21.040628
 "Levadia Tallinn","Estonia",0,"not out",0,,":ee:","Estonia: 0 points","Kadriorg Stadium",59.434472222,24.783444444
 "Lille OSC","France",0,"not out",2.571,0,":fr:","France: 2.571 points","Stade du RCL",50.611944,3.130556
-"Lincoln Red Imps","Gibraltar",0,"not out",0,,":gi:","Gibraltar: 0 points","Victoria Stadium",36.149356,-5.350342
+"Lincoln Red Imps","Gibraltar",0.333,"not out",0.333,100,":gi:","Gibraltar: 0.333 points","Victoria Stadium",36.149356,-5.350342
 "Linfield Belfast","Northern Ireland",0,"not out",0,,":gb-nir:","Northern Ireland: 0 points","Windsor Park",54.5825,-5.955
 "Liverpool","England",0.857,"not out",3.429,25,":gb-eng:","England: 3.429 points","Anfield",53.430833333,-2.960833333
 "Ludogorets Razgrad","Bulgaria",0,"not out",0,,":bg:","Bulgaria: 0 points","Ludogorets Arena",43.53361111,26.5275
@@ -182,8 +182,8 @@
 "SC Dnipro-1","Ukraine",0,"not out",1.2,0,":ua:","Ukraine: 1.2 points","Dnipro Arena",48.460333,35.032472
 "Servette FC","Switzerland",0,"not out",0,,":ch:","Switzerland: 0 points","Stade de Genève",46.177778,6.1275
 "Shakhtar Donetsk","Ukraine",1.2,"not out",1.2,100,":ua:","Ukraine: 1.2 points","Donbass Arena",48.020833,37.809722
-"Shamrock Rovers","Ireland",0,"not out",0,,":ie:","Ireland: 0 points","Tallaght Stadium",53.2835,-6.37374
-"Shelbourne","Ireland",0,"not out",0,,":ie:","Ireland: 0 points",,,
+"Shamrock Rovers","Ireland",0.125,"not out",0.125,100,":ie:","Ireland: 0.125 points","Tallaght Stadium",53.2835,-6.37374
+"Shelbourne","Ireland",0,"not out",0.125,0,":ie:","Ireland: 0.125 points",,,
 "Sheriff Tiraspol","Moldova",0,"not out",0,,":md:","Moldova: 0 points","Sheriff Stadium",46.838333,29.5575
 "Shkendija Tetovo","North Macedonia",0,"not out",0,,":mk:","North Macedonia: 0 points","Gradski stadion Tetovo",42.018692,20.978179
 "Silkeborg IF","Denmark",0,"not out",0,,":dk:","Denmark: 0 points","Silkeborg Stadion",56.15777778,9.55305556
@@ -196,34 +196,34 @@
 "Spartak Trnava","Slovakia",0,"not out",0,,":sk:","Slovakia: 0 points","Štadión Antona Malatinského",48.373333,17.591667
 "Sporting Braga","Portugal",0,"not out",2.4,0,":pt:","Portugal: 2.4 points","Estádio Municipal de Braga",41.5624,-8.4308
 "Sporting CP Lisbon","Portugal",1.2,"not out",2.4,50,":pt:","Portugal: 2.4 points","Estádio José Alvalade",38.761194444,-9.160783333
-"St Joseph's FC","Gibraltar",0,"not out",0,,":gi:","Gibraltar: 0 points","Victoria Stadium",36.149356,-5.350342
+"St Joseph's FC","Gibraltar",0,"not out",0.333,0,":gi:","Gibraltar: 0.333 points","Victoria Stadium",36.149356,-5.350342
 "St. Mirren","Scotland",0,"not out",1.2,0,":gb-sct:","Scotland: 1.2 points",,,
-"St. Patrick's Athletic","Ireland",0,"not out",0,,":ie:","Ireland: 0 points","Richmond Park",53.340922,-6.316619
+"St. Patrick's Athletic","Ireland",0,"not out",0.125,0,":ie:","Ireland: 0.125 points","Richmond Park",53.340922,-6.316619
 "Stade Brestois","France",0.857,"not out",2.571,33.3,":fr:","France: 2.571 points",,,
-"Stjarnan FC","Iceland",0,"not out",0,,":is:","Iceland: 0 points","Stjörnuvöllur",64.087423,-21.928865
+"Stjarnan FC","Iceland",0,"not out",0.125,0,":is:","Iceland: 0.125 points","Stjörnuvöllur",64.087423,-21.928865
 "Sturm Graz","Austria",1.2,"not out",1.2,100,":at:","Austria: 1.2 points","Merkur Arena",47.046111,15.454444
 "Sumgayit FK","Azerbaijan",0,"not out",0,,":az:","Azerbaijan: 0 points","Mehdi Huseynzade Stadium",40.601389,49.674722
-"The New Saints","Wales",0,"not out",0,,":gb-wls:","Wales: 0 points","Park Hall",52.8759,-3.02631
+"The New Saints","Wales",0.25,"not out",0.25,100,":gb-wls:","Wales: 0.25 points","Park Hall",52.8759,-3.02631
 "Tikves Kavadarci","North Macedonia",0,"not out",0,,":mk:","North Macedonia: 0 points",,,
 "Tobol Kustanai","Kazakhstan",0,"not out",0,,":kz:","Kazakhstan: 0 points","Kostanay Central Stadium",53.225974,63.636578
 "Torpedo Kutaisi","Georgia",0,"not out",0,,":ge:","Georgia: 0 points","Ramaz Shengelia Stadium",42.255141666,42.683086111
 "Torpedo Zhodino","Belarus",0,"not out",0,,":by:","Belarus: 0 points","Torpedo Stadium",54.092361111,28.319722222
 "Tottenham Hotspur","England",0,"not out",3.429,0,":gb-eng:","England: 3.429 points","Tottenham Hotspur Stadium",51.604444444,-0.066388888
 "Trabzonspor","Turkey",0,"not out",0,,":tr:","Turkey: 0 points","Senol Günes Stadium",40.9987,39.6463
-"Transinvest Vilnius","Lithuania",0,"not out",0,,":lt:","Lithuania: 0 points",,,
+"Transinvest Vilnius","Lithuania",0,"not out",0.25,0,":lt:","Lithuania: 0.25 points",,,
 "Tre Penne","San Marino",0,"not out",0,,":sm:","San Marino: 0 points","Stadio Fonte dell'Ovo",43.9296,12.4427
 "Tromsø IL","Norway",0,"not out",0,,":no:","Norway: 0 points",,,
 "TSC Backa Topola","Serbia",0,"not out",0,,":rs:","Serbia: 0 points","Stadion Slavko Maletin Vava",45.240278,19.381667
 "UE Santa Coloma","Andorra",0,"not out",0,,":ad:","Andorra: 0 points","Estadi Comunal d'Aixovall",42.476389,1.487667
 "UNA Strassen","Luxembourg",0,"not out",0,,":lu:","Luxembourg: 0 points",,,
 "Union Saint-Gilloise","Belgium",0,"not out",1.2,0,":be:","Belgium: 1.2 points","Stade Joseph Marien - Joseph Marienstadion",50.8178,4.32917
-"Universitatea Craiova","Romania",0,"not out",0,,":ro:","Romania: 0 points","Stadionul Ion Oblemenco",44.313889,23.784167
+"Universitatea Craiova","Romania",0,"not out",0.25,0,":ro:","Romania: 0.25 points","Stadionul Ion Oblemenco",44.313889,23.784167
 "Urartu FC","Armenia",0,"not out",0,,":am:","Armenia: 0 points","Urartu Stadium",40.171426,44.449938
-"Valur Reykjavik","Iceland",0,"not out",0,,":is:","Iceland: 0 points","KR-völlur",64.145683,-21.967728
+"Valur Reykjavik","Iceland",0,"not out",0.125,0,":is:","Iceland: 0.125 points","KR-völlur",64.145683,-21.967728
 "Velez Mostar","Bosnia-Herzegovina",0,"not out",0,,":ba:","Bosnia-Herzegovina: 0 points","Stadion pod Bijelim Brijegom",43.345556,17.795278
 "VfB Stuttgart","Germany",0.75,"not out",3.75,20,":de:","Germany: 3.75 points",,,
 "Víkingur","Faroe Islands",0,"not out",0,,":fo:","Faroe Islands: 0 points","Víkingsvöllur",64.117222,-21.852778
-"Vikingur Reykjavik","Iceland",0,"not out",0,,":is:","Iceland: 0 points","KR-völlur",64.145683,-21.967728
+"Vikingur Reykjavik","Iceland",0.125,"not out",0.125,100,":is:","Iceland: 0.125 points","KR-völlur",64.145683,-21.967728
 "Viktoria Plzen","Czech Republic",0,"not out",0,,":cz:","Czech Republic: 0 points","Doosan Arena",49.75,13.385556
 "Vitória Guimarães","Portugal",0,"not out",2.4,0,":pt:","Portugal: 2.4 points","Afonso Henriques Stadium",41.445833,-8.301111
 "Vllaznia Shkodër","Albania",0,"not out",0,,":al:","Albania: 0 points","Loro Boriçi Stadium",42.070031,19.506558
@@ -231,7 +231,7 @@
 "VPS Vaasa","Finland",0,"not out",0,,":fi:","Finland: 0 points","Hietalahti Stadium",63.085278,21.627778
 "Wisla Kraków","Poland",0,"not out",0,,":pl:","Poland: 0 points",,,
 "Young Boys","Switzerland",0,"not out",0,,":ch:","Switzerland: 0 points","Stadion Wankdorf",46.962778,7.465
-"Zalgiris Vilnius","Lithuania",0,"not out",0,,":lt:","Lithuania: 0 points","LFF Stadium",54.668611,25.294444
+"Zalgiris Vilnius","Lithuania",0,"not out",0.25,0,":lt:","Lithuania: 0.25 points","LFF Stadium",54.668611,25.294444
 "Zimbru Chisinau","Moldova",0,"not out",0,,":md:","Moldova: 0 points",,,
 "Zira FK","Azerbaijan",0,"not out",0,,":az:","Azerbaijan: 0 points","Zira Olympic Sport Complex Stadium",40.35892,50.29311
 "Zrinjski Mostar","Bosnia-Herzegovina",0,"not out",0,,":ba:","Bosnia-Herzegovina: 0 points","Stadion pod Bijelim Brijegom",43.345556,17.795278
