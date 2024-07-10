@@ -67,114 +67,97 @@
 "Belgium","Cercle Brugge",0,"not out",2025
 "Belgium","Anderlecht",0,"not out",2025
 "Belgium","AA Gent",0,"not out",2025
-"Liechtenstein","FC Vaduz",0,"not out",2025
-"Gibraltar","Lincoln Red Imps",0,"not out",2025
+"Gibraltar","Lincoln Red Imps",0.333333333333333,"not out",2025
 "Gibraltar","St Joseph's FC",0,"not out",2025
 "Gibraltar","FCB Magpies",0,"not out",2025
+"Wales","The New Saints",0.25,"not out",2025
+"Wales","Caernarfon Town",0,"not out",2025
+"Wales","Connah's Quay",0,"not out",2025
+"Wales","Bala Town",0,"not out",2025
+"Kosovo","FC Ballkani",0.25,"not out",2025
+"Kosovo","KF Llapi",0,"not out",2025
+"Kosovo","KF Malisheva",0,"not out",2025
+"Kosovo","FC Drita",0,"not out",2025
+"Lithuania","FK Panevezys",0.25,"not out",2025
+"Lithuania","FA Siauliai",0,"not out",2025
+"Lithuania","Zalgiris Vilnius",0,"not out",2025
+"Lithuania","Transinvest Vilnius",0,"not out",2025
+"Romania","FCSB",0.25,"not out",2025
+"Romania","Corvinul Hunedoara",0,"not out",2025
+"Romania","CFR Cluj",0,"not out",2025
+"Romania","Universitatea Craiova",0,"not out",2025
+"Iceland","Vikingur Reykjavik",0.125,"not out",2025
+"Iceland","Breidablik",0,"not out",2025
+"Iceland","Valur Reykjavik",0,"not out",2025
+"Iceland","Stjarnan FC",0,"not out",2025
+"Ireland","Shamrock Rovers",0.125,"not out",2025
+"Ireland","Shelbourne",0,"not out",2025
+"Ireland","Derry City",0,"not out",2025
+"Ireland","St. Patrick's Athletic",0,"not out",2025
+"Liechtenstein","FC Vaduz",0,"not out",2025
 "North Macedonia","FC Struga",0,"not out",2025
 "North Macedonia","Shkendija Tetovo",0,"not out",2025
 "North Macedonia","Tikves Kavadarci",0,"not out",2025
-"Montenegro","Decic Tuzi",0,"not out",2025
-"Montenegro","Buducnost Podgorica",0,"not out",2025
-"Montenegro","Mornar Bar",0,"not out",2025
-"Andorra","UE Santa Coloma",0,"not out",2025
-"Andorra","Inter Club d'Escaldes",0,"not out",2025
-"Andorra","Atlètic Club d'Escaldes",0,"not out",2025
-"San Marino","AC Virtus",0,"not out",2025
-"San Marino","Tre Penne",0,"not out",2025
-"San Marino","La Fiorita",0,"not out",2025
 "Slovakia","Slovan Bratislava",0,"not out",2025
 "Slovakia","MFK Ruzomberok",0,"not out",2025
 "Slovakia","Spartak Trnava",0,"not out",2025
 "Slovakia","DAC Dunajska Streda",0,"not out",2025
-"Bulgaria","Ludogorets Razgrad",0,"not out",2025
-"Bulgaria","Botev Plovdiv",0,"not out",2025
-"Bulgaria","CSKA 1948 Sofia",0,"not out",2025
-"Bulgaria","Cherno More Varna",0,"not out",2025
-"Finland","HJK Helsinki",0,"not out",2025
-"Finland","KuPS Kuopio",0,"not out",2025
-"Finland","VPS Vaasa",0,"not out",2025
-"Finland","Ilves Tampere",0,"not out",2025
+"Bosnia-Herzegovina","FK Borac Banja Luka",0,"not out",2025
+"Bosnia-Herzegovina","Velez Mostar",0,"not out",2025
+"Bosnia-Herzegovina","FK Sarajevo",0,"not out",2025
+"Bosnia-Herzegovina","Zrinjski Mostar",0,"not out",2025
+"Albania","Egnatia Rrogozhinë",0,"not out",2025
+"Albania","KF Tirana",0,"not out",2025
+"Albania","Partizani Tirana",0,"not out",2025
+"Albania","Vllaznia Shkodër",0,"not out",2025
 "Estonia","Flora Tallinn",0,"not out",2025
+"Estonia","Kalev Tallinn",0,"not out",2025
 "Estonia","Levadia Tallinn",0,"not out",2025
 "Estonia","Paide Linnameeskond",0,"not out",2025
-"Estonia","Kalev Tallinn",0,"not out",2025
-"Romania","FCSB",0,"not out",2025
-"Romania","Corvinul Hunedoara",0,"not out",2025
-"Romania","CFR Cluj",0,"not out",2025
-"Romania","Universitatea Craiova",0,"not out",2025
-"Faroe Islands","KI Klaksvik",0,"not out",2025
-"Faroe Islands","B36 Torshavn",0,"not out",2025
-"Faroe Islands","Víkingur",0,"not out",2025
-"Faroe Islands","HB Torshavn",0,"not out",2025
-"Ireland","Shamrock Rovers",0,"not out",2025
-"Ireland","Derry City",0,"not out",2025
-"Ireland","Shelbourne",0,"not out",2025
-"Ireland","St. Patrick's Athletic",0,"not out",2025
-"Wales","The New Saints",0,"not out",2025
-"Wales","Connah's Quay",0,"not out",2025
-"Wales","Bala Town",0,"not out",2025
-"Wales","Caernarfon Town",0,"not out",2025
-"Armenia","Pyunik Yerevan",0,"not out",2025
-"Armenia","Urartu FC",0,"not out",2025
-"Armenia","FC Noah",0,"not out",2025
-"Armenia","Ararat-Armenia",0,"not out",2025
-"Latvia","RFS Riga",0,"not out",2025
-"Latvia","FK Liepaja",0,"not out",2025
-"Latvia","FK Auda",0,"not out",2025
-"Latvia","Riga FC",0,"not out",2025
-"Moldova","Petrocub Hîncesti",0,"not out",2025
-"Moldova","Sheriff Tiraspol",0,"not out",2025
-"Moldova","Milsami Orhei",0,"not out",2025
-"Moldova","Zimbru Chisinau",0,"not out",2025
-"Kosovo","FC Ballkani",0,"not out",2025
-"Kosovo","KF Llapi",0,"not out",2025
-"Kosovo","KF Malisheva",0,"not out",2025
-"Kosovo","FC Drita",0,"not out",2025
-"Bosnia-Herzegovina","FK Borac Banja Luka",0,"not out",2025
-"Bosnia-Herzegovina","FK Sarajevo",0,"not out",2025
-"Bosnia-Herzegovina","Velez Mostar",0,"not out",2025
-"Bosnia-Herzegovina","Zrinjski Mostar",0,"not out",2025
-"Georgia","Dinamo Batumi",0,"not out",2025
-"Georgia","Dinamo Tbilisi",0,"not out",2025
-"Georgia","Torpedo Kutaisi",0,"not out",2025
-"Georgia","Saburtalo Tbilisi",0,"not out",2025
 "Slovenia","NK Celje",0,"not out",2025
 "Slovenia","NK Maribor",0,"not out",2025
 "Slovenia","NK Bravo",0,"not out",2025
 "Slovenia","Olimpija Ljubljana",0,"not out",2025
-"Malta","Hamrun Spartans",0,"not out",2025
-"Malta","Floriana",0,"not out",2025
-"Malta","Marsaxlokk",0,"not out",2025
-"Malta","Sliema Wanderers",0,"not out",2025
-"Northern Ireland","Larne FC",0,"not out",2025
-"Northern Ireland","Linfield Belfast",0,"not out",2025
-"Northern Ireland","Crusaders Belfast",0,"not out",2025
-"Northern Ireland","Cliftonville",0,"not out",2025
-"Belarus","Dinamo Minsk",0,"not out",2025
-"Belarus","Torpedo Zhodino",0,"not out",2025
-"Belarus","Isloch Minsk Raion",0,"not out",2025
-"Belarus","Neman Grodno",0,"not out",2025
-"Lithuania","FK Panevezys",0,"not out",2025
-"Lithuania","Zalgiris Vilnius",0,"not out",2025
-"Lithuania","FA Siauliai",0,"not out",2025
-"Lithuania","Transinvest Vilnius",0,"not out",2025
-"Kazakhstan","Ordabasy Shymkent",0,"not out",2025
-"Kazakhstan","Tobol Kustanai",0,"not out",2025
-"Kazakhstan","FK Aktobe",0,"not out",2025
-"Kazakhstan","FK Astana",0,"not out",2025
-"Iceland","Vikingur Reykjavik",0,"not out",2025
-"Iceland","Breidablik",0,"not out",2025
-"Iceland","Valur Reykjavik",0,"not out",2025
-"Iceland","Stjarnan FC",0,"not out",2025
+"Faroe Islands","KI Klaksvik",0,"not out",2025
+"Faroe Islands","B36 Torshavn",0,"not out",2025
+"Faroe Islands","Víkingur",0,"not out",2025
+"Faroe Islands","HB Torshavn",0,"not out",2025
 "Luxembourg","Differdange 03",0,"not out",2025
 "Luxembourg","F91 Dudelange",0,"not out",2025
 "Luxembourg","UNA Strassen",0,"not out",2025
 "Luxembourg","Progrès Niederkorn",0,"not out",2025
-"Albania","Egnatia Rrogozhinë",0,"not out",2025
-"Albania","Partizani Tirana",0,"not out",2025
-"Albania","KF Tirana",0,"not out",2025
-"Albania","Vllaznia Shkodër",0,"not out",2025
+"Latvia","RFS Riga",0,"not out",2025
+"Latvia","FK Auda",0,"not out",2025
+"Latvia","FK Liepaja",0,"not out",2025
+"Latvia","Riga FC",0,"not out",2025
+"Northern Ireland","Larne FC",0,"not out",2025
+"Northern Ireland","Crusaders Belfast",0,"not out",2025
+"Northern Ireland","Linfield Belfast",0,"not out",2025
+"Northern Ireland","Cliftonville",0,"not out",2025
+"Bulgaria","Ludogorets Razgrad",0,"not out",2025
+"Bulgaria","Botev Plovdiv",0,"not out",2025
+"Bulgaria","CSKA 1948 Sofia",0,"not out",2025
+"Bulgaria","Cherno More Varna",0,"not out",2025
+"Georgia","Dinamo Batumi",0,"not out",2025
+"Georgia","Torpedo Kutaisi",0,"not out",2025
+"Georgia","Dinamo Tbilisi",0,"not out",2025
+"Georgia","Saburtalo Tbilisi",0,"not out",2025
+"Kazakhstan","Ordabasy Shymkent",0,"not out",2025
+"Kazakhstan","Tobol Kustanai",0,"not out",2025
+"Kazakhstan","FK Aktobe",0,"not out",2025
+"Kazakhstan","FK Astana",0,"not out",2025
+"Moldova","Petrocub Hîncesti",0,"not out",2025
+"Moldova","Sheriff Tiraspol",0,"not out",2025
+"Moldova","Milsami Orhei",0,"not out",2025
+"Moldova","Zimbru Chisinau",0,"not out",2025
+"Belarus","Dinamo Minsk",0,"not out",2025
+"Belarus","Isloch Minsk Raion",0,"not out",2025
+"Belarus","Torpedo Zhodino",0,"not out",2025
+"Belarus","Neman Grodno",0,"not out",2025
+"Armenia","Pyunik Yerevan",0,"not out",2025
+"Armenia","FC Noah",0,"not out",2025
+"Armenia","Urartu FC",0,"not out",2025
+"Armenia","Ararat-Armenia",0,"not out",2025
 "Greece","PAOK Thessaloniki",0,"not out",2025
 "Greece","Panathinaikos",0,"not out",2025
 "Greece","Olympiakos Piraeus",0,"not out",2025
@@ -235,6 +218,23 @@
 "Switzerland","Servette FC",0,"not out",2025
 "Switzerland","FC Zürich",0,"not out",2025
 "Switzerland","FC Sankt Gallen",0,"not out",2025
+"Montenegro","Buducnost Podgorica",0,"not out",2025
+"Montenegro","Mornar Bar",0,"not out",2025
+"Montenegro","Decic Tuzi",0,"not out",2025
+"Andorra","Inter Club d'Escaldes",0,"not out",2025
+"Andorra","Atlètic Club d'Escaldes",0,"not out",2025
+"Andorra","UE Santa Coloma",0,"not out",2025
+"San Marino","La Fiorita",0,"not out",2025
+"San Marino","Tre Penne",0,"not out",2025
+"San Marino","AC Virtus",0,"not out",2025
+"Malta","Floriana",0,"not out",2025
+"Malta","Marsaxlokk",0,"not out",2025
+"Malta","Sliema Wanderers",0,"not out",2025
+"Malta","Hamrun Spartans",0,"not out",2025
+"Finland","KuPS Kuopio",0,"not out",2025
+"Finland","VPS Vaasa",0,"not out",2025
+"Finland","Ilves Tampere",0,"not out",2025
+"Finland","HJK Helsinki",0,"not out",2025
 "Italy","Atalanta",4,"out",2024
 "Italy","AS Roma",3.28571428571429,"out",2024
 "Italy","Fiorentina",3.28571428571429,"out",2024

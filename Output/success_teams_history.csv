@@ -192,7 +192,7 @@
 ":bg:","Bulgaria","Levski Sofia",35,0.847619047619048
 ":fr:","France","Lille OSC",15,1.50436507936508
 ":no:","Norway","Lillestrøm SK",19,0.547368421052632
-":gi:","Gibraltar","Lincoln Red Imps",11,0.450757575757576
+":gi:","Gibraltar","Lincoln Red Imps",11,0.481060606060606
 ":gb-nir:","Northern Ireland","Linfield Belfast",51,0.446078431372549
 ":bg:","Bulgaria","Litex Lovech",15,0.883333333333333
 ":gb-eng:","England","Liverpool",49,2.17208049886621
@@ -268,7 +268,7 @@
 ":es:","Spain","Sevilla",27,2.00828924162258
 ":ua:","Ukraine","Shakhtar Donetsk",35,2.23619047619048
 ":by:","Belarus","Shakhtior Saligorsk",15,0.327777777777778
-":ie:","Ireland","Shamrock Rovers",31,0.449193548387097
+":ie:","Ireland","Shamrock Rovers",31,0.453225806451613
 ":ie:","Ireland","Shelbourne",17,0.303921568627451
 ":md:","Moldova","Sheriff Tiraspol",26,0.966346153846154
 ":am:","Armenia","Shirak Gyumri",14,0.220238095238095
@@ -298,7 +298,7 @@
 ":lt:","Lithuania","Suduva Marijampole",16,0.4765625
 ":me:","Montenegro","Sutjeska Niksic",11,0.234848484848485
 ":al:","Albania","Teuta Durrës",12,0.201388888888889
-":gb-wls:","Wales","The New Saints",19,0.320175438596491
+":gb-wls:","Wales","The New Saints",19,0.333333333333333
 ":kz:","Kazakhstan","Tobol Kustanai",12,0.302083333333333
 ":it:","Italy","Torino",19,1.03558897243108
 ":ge:","Georgia","Torpedo Kutaisi",13,0.314102564102564
@@ -325,7 +325,7 @@
 ":hu:","Hungary","Videoton Fehérvár",15,1.00166666666667
 ":no:","Norway","Viking Stavanger",21,0.575
 ":fo:","Faroe Islands","Víkingur",11,0.227272727272727
-":is:","Iceland","Vikingur Reykjavik",10,0.225
+":is:","Iceland","Vikingur Reykjavik",10,0.2375
 ":cz:","Czech Republic","Viktoria Plzen",15,2.02
 ":es:","Spain","Villarreal",17,2.24474789915966
 ":nl:","Netherlands","Vitesse Arnhem",15,0.754285714285714
