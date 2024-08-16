@@ -65,7 +65,7 @@ if (last_update != text_datum ||
 print("Aktuelle Daten gefunden")
 
 #Update Ranking Data
-source("ranking_scraping_new.R",encoding = "UTF-8")
+source("ranking_scraping.R",encoding = "UTF-8")
   
 #Stop Geckodriver
 try(system("taskkill /F /IM geckodriver.exe"))

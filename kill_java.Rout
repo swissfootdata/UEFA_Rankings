@@ -17,8 +17,8 @@ Tippen Sie 'q()', um R zu verlassen.
 
 > #Stop Geckodriver
 > try(system("taskkill /F /IM geckodriver.exe"))
-FEHLER: Der Prozess "geckodriver.exe" wurde nicht gefunden.
-[1] 128
+ERFOLGREICH: Der Prozess "geckodriver.exe" mit PID 4356 wurde beendet.
+[1] 0
 > 
 > #Stop Java-Process
 > try(system("taskkill /F /IM java.exe"))
@@ -27,4 +27,4 @@ FEHLER: Der Prozess "java.exe" wurde nicht gefunden.
 > 
 > proc.time()
        User      System verstrichen 
-       0.26        0.06        0.61 
+       0.18        0.18        1.70 
