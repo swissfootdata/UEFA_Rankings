@@ -29,6 +29,7 @@ repeat {
 current_points <- current_points[-1,]
 current_points$team <- gsub("Glasgow Rangers","Rangers",current_points$team)
 current_points$team <- gsub("Servette FC Genève","Servette FC",current_points$team)
+#current_points$team <- gsub("FC Sankt Gallen","FC St. Gallen",current_points$team)
 
 #Team in or out
 status <- webpage %>%
@@ -50,7 +51,6 @@ current_points <- current_points %>%
 current_points <- teams %>%
   left_join(current_points,by=c("club"="team"))
 
-
 #Get old data and add
 old_data <- read.csv("Output/club_owner_data_2024.csv", encoding = "UTF-8")
 old_data$date <- as.Date(old_data$date)
@@ -62,7 +62,7 @@ old_data <- old_data %>%
 all_points <- rbind(current_points,old_data)
 
 #Save data
-write.csv(all_points,"Output/club_owner_data_2024.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
+#write.csv(all_points,"Output/club_owner_data_2024.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
 #Get gain from last week
 previous_date <- max(old_data[old_data$date <= Sys.Date()-3,]$date)
@@ -80,6 +80,8 @@ current_points <- current_points %>%
   mutate(gain_match_points = match_points-match_points_last_week,
          gain_bonus_points = bonus_points-bonus_points_last_week,
          gain_points_overall = points_overall -points_overall_last_week)
+
+write.csv(current_points,"Output/club_owner_data_2024.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
 success_clubs <- current_points %>%
   select(logo,

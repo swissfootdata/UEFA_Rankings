@@ -90,17 +90,17 @@ gitcommit()
 gitpush()  
   
 #Update Club Owner Data
-#source("update_club_owner_data.R",encoding = "UTF-8")
+source("update_club_owner_data_2024.R",encoding = "UTF-8")
     
 #Store Last update
 cat(text_datum,file="last_update.txt")
 
-#git2r::config(user.name = "swissfootdata",user.email = "swissfootballdata@bluewin.ch")
-#invisible(git2r::cred_token(token))
-#gitpull()
-#gitadd()
-#gitcommit()
-#gitpush()
+git2r::config(user.name = "swissfootdata",user.email = "swissfootballdata@bluewin.ch")
+invisible(git2r::cred_token(token))
+gitpull()
+gitadd()
+gitcommit()
+gitpush()
 
 } else {
 print("Noch keine aktuellen Daten gefunden")  
