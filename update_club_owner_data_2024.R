@@ -51,6 +51,7 @@ current_points <- current_points %>%
 current_points <- teams %>%
   left_join(current_points,by=c("club"="team"))
 
+
 #Get old data and add
 old_data <- read.csv("Output/all_points_2024.csv", encoding = "UTF-8")
 old_data$date <- as.Date(old_data$date)
