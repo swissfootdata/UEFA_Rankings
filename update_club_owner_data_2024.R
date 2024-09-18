@@ -52,7 +52,7 @@ current_points <- teams %>%
   left_join(current_points,by=c("club"="team"))
 
 #Get old data and add
-old_data <- read.csv("Output/club_owner_data_2024.csv", encoding = "UTF-8")
+old_data <- read.csv("Output/all_points_2024.csv", encoding = "UTF-8")
 old_data$date <- as.Date(old_data$date)
 colnames(old_data)[1] <- "id"
 
@@ -62,7 +62,7 @@ old_data <- old_data %>%
 all_points <- rbind(current_points,old_data)
 
 #Save data
-#write.csv(all_points,"Output/club_owner_data_2024.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
+write.csv(all_points,"Output/all_points_2024.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
 #Get gain from last week
 previous_date <- max(old_data[old_data$date <= Sys.Date()-3,]$date)
